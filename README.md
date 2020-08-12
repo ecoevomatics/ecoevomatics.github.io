@@ -1,6 +1,6 @@
-# keedylab.github.io
+# EcoEvoMatics lab website
 
-Welcome to the source code for the website of the Keedy Lab, located at the CUNY Advanced Science Research Center. 
+Welcome to the source code for the EcoEvoMatics lab website at UMaine. This website was built from a clone of the [Keedy Lab website](https://github.com/keedylab/keedylab.github.io), in turn built from the framework of the [Fraser Lab](https://fraserlab.com/2020/05/03/Clone-this-website).  Many thanks to all those folks for their code and making it open!
 
 Technologies this website uses:  
 
@@ -27,11 +27,3 @@ Technologies this website uses:
     localhost:4000
 
 * When you are finished, you should kill the process with ctrl + c.
-
-## Credits
-
-This website was designed and is maintained by Sakib Hossain (sakibh97 -AT- gmail _dot_ com) of the Keedy Lab.
-
-The basic framework for this website was borrowed from the website of the Fraser Lab at UCSF (www.fraserlab.com).
-
-This website uses CSS styles from https://templated.co.
