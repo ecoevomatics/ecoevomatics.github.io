@@ -1,0 +1,3 @@
+baseurl: /
+exclude: ['README.md']
+markdown: kramdown
