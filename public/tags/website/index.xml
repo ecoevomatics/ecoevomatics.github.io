@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>website | EcoEvoMatics</title>
+    <link>/tags/website/</link>
+      <atom:link href="/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <description>website</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Rominger 2020</copyright><lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pom-card.png</url>
+      <title>website</title>
+      <link>/tags/website/</link>
+    </image>
+    
+    <item>
+      <title>stat545.com</title>
+      <link>/project/stat545.com/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/stat545.com/</guid>
+      <description>&lt;p&gt;This online book contains a full course where users can learn to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;explore, groom, visualize, and analyze data,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;make all of that reproducible, reusable, and shareable,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;using R.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I led the effort, along with course author 
+&lt;a href=&#34;https://jennybryan.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jenny Bryan&lt;/a&gt; and RStudio intern 
+&lt;a href=&#34;https://grace.rbind.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grace Lawley&lt;/a&gt;, to port a vintage R Markdown website into bookdown. I worked with my former intern, 
+&lt;a href=&#34;https://desiree.rbind.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Desirée De Leon&lt;/a&gt;, to design the style of the bookdown website.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>tidymodels.org</title>
+      <link>/project/tidymodels.org/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/tidymodels.org/</guid>
+      <description>&lt;p&gt;The tidymodels framework is a collection of R packages for modeling and machine learning using tidyverse principles. This website was built with Hugo, using a theme I developed and maintain. I worked with my former intern, 
+&lt;a href=&#34;https://desiree.rbind.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Desirée De Leon&lt;/a&gt;, to design the style of the website.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>education.rstudio.com</title>
+      <link>/project/education.rstudio.com/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/education.rstudio.com/</guid>
+      <description>&lt;p&gt;RStudio’s mission is:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“To equip everyone, regardless of means, to participate in a global economy that rewards data literacy.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Our education team supports this mission broadly by supporting people who want to learn R (or learn new things in R), and those who want to teach them. This website is designed for both. This website was built with Hugo, using a theme I developed and maintain. I worked with my former intern, 
+&lt;a href=&#34;https://desiree.rbind.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Desirée De Leon&lt;/a&gt;, to create the original artwork we used for the website.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1200 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="A guide to using the R-Ladies xaringan slide theme">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/post/2017-12-18-r-ladies-presentation-ninja/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#FDE725FF">
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/tomorrow.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/tomorrow.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+      
+    
+
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,400i%7CKarla:400,400i,700,700i%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-99209585-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-99209585-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_huf97aa755c4e096c5dcb9281ffcc9fbdf_116571_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huf97aa755c4e096c5dcb9281ffcc9fbdf_116571_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="/post/2017-12-18-r-ladies-presentation-ninja/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@apreshill">
+  <meta property="twitter:creator" content="@apreshill">
+  
+  <meta property="og:site_name" content="EcoEvoMatics">
+  <meta property="og:url" content="/post/2017-12-18-r-ladies-presentation-ninja/">
+  <meta property="og:title" content="R-Ladies Presentation Ninja | EcoEvoMatics">
+  <meta property="og:description" content="A guide to using the R-Ladies xaringan slide theme"><meta property="og:image" content="/post/2017-12-18-r-ladies-presentation-ninja/featured.jpg">
+  <meta property="twitter:image" content="/post/2017-12-18-r-ladies-presentation-ninja/featured.jpg"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2017-12-18T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2017-12-18T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/post/2017-12-18-r-ladies-presentation-ninja/"
+  },
+  "headline": "R-Ladies Presentation Ninja",
+  
+  "image": [
+    "/post/2017-12-18-r-ladies-presentation-ninja/featured.jpg"
+  ],
+  
+  "datePublished": "2017-12-18T00:00:00Z",
+  "dateModified": "2017-12-18T00:00:00Z",
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "EcoEvoMatics",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/icon_huf97aa755c4e096c5dcb9281ffcc9fbdf_116571_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "A guide to using the R-Ladies xaringan slide theme"
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>R-Ladies Presentation Ninja | EcoEvoMatics</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">EcoEvoMatics</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/about"><span>About</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/post"><span>Blog</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/resume"><span>Resume</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>R-Ladies Presentation Ninja</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span><a href="/authors/alison/">alison</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Dec 18, 2017
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    3 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/categories/rladies/">rladies</a>, <a href="/categories/xaringan/">xaringan</a></span>
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/rladies-xaringan/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/slides/rladies-demo-slides.html" >
+    <i class="fas fa-flask mr-1"></i>
+    demo slides
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/rbind/apreshill/blob/master/static/slides/rladies-demo-slides.Rmd" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>
+    demo code
+  </a>
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 480px;">
+  <div style="position: relative">
+    <img src="/post/2017-12-18-r-ladies-presentation-ninja/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_2258144_720x0_resize_q90_lanczos.jpg" alt="" class="featured-image">
+    <span class="article-header-caption"><a href="https://unsplash.com/photos/H_FbsufW7yw">Photo by Sharon McCutcheon on Unsplash</a></span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      
+
+
+<p>So, you are doing an <a href="https://rladies.org">R-Ladies</a> presentation…that’s awesome!</p>
+<div id="the-short-version" class="section level1">
+<h1>The short version</h1>
+<p>I made an <a href="https://rladies.org">R-Ladies</a> theme for <a href="https://github.com/yihui/xaringan"><strong>xaringan</strong> slides</a>. My original tweet about it:</p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">if you want to use <a href="https://twitter.com/xieyihui?ref_src=twsrc%5Etfw">@xieyihui</a>&#39;s awesome <a href="https://twitter.com/hashtag/xaringan?src=hash&amp;ref_src=twsrc%5Etfw">#xaringan</a> package for <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> slides but want more <a href="https://twitter.com/hashtag/Rladies?src=hash&amp;ref_src=twsrc%5Etfw">#Rladies</a> flavor, there is now a built-in theme for that (with code highlighting)! Thanks to the awesome <a href="https://twitter.com/RLadiesGlobal?ref_src=twsrc%5Etfw">@RLadiesGlobal</a> starter kit. Update the CSS in your YAML to use  🧙🏽‍♀️🧞‍♀️ <a href="https://t.co/YnlGSVAMsl">pic.twitter.com/YnlGSVAMsl</a></p>&mdash; Alison Presmanes Hill (@apreshill) <a href="https://twitter.com/apreshill/status/935973869554487296?ref_src=twsrc%5Etfw">November 29, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>The way to use the theme is to update the YAML like so:</p>
+<pre class="yaml"><code>output:
+  xaringan::moon_reader:
+    css: [&quot;default&quot;, &quot;rladies&quot;, &quot;rladies-fonts&quot;]</code></pre>
+<p>Make sure your version of <strong>xaringan</strong> is up-to-date.</p>
+<p>Below is a <a href="https://alison.rbind.io/slides/rladies-demo-slides.html#1">demo slide deck</a> using the theme.</p>
+<iframe src="https://alison.rbind.io/slides/rladies-demo-slides.html#1" width="672" height="400px">
+</iframe>
+<p>(view the <a href="https://github.com/rbind/apreshill/blob/master/static/slides/rladies-demo-slides.Rmd">source .Rmd on GitHub</a>)</p>
+</div>
+<div id="the-longer-story" class="section level1">
+<h1>The longer story</h1>
+<p>I recommend <a href="https://yihui.name">Yihui’s</a> <a href="https://github.com/yihui/xaringan"><strong>xaringan</strong> package</a> for slides. This is an R package, available through GitHub, for creating slideshows with <a href="https://remarkjs.com/">remark.js</a> through R Markdown. This means that you can:</p>
+<ul>
+<li>write all your slides in Markdown text</li>
+<li>include chunks of R code and rendered output like plots, results, tables, etc. in your slides</li>
+<li>use git for version control and share your GitHub repository</li>
+</ul>
+<p>This makes <a href="https://github.com/yihui/xaringan"><strong>xaringan</strong></a> ideal for an <a href="https://rladies.org">R-Ladies</a> presentation!<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></p>
+<p>To use the package, you’ll need the <a href="https://cran.r-project.org/web/packages/devtools/index.html"><strong>devtools</strong> package</a> installed so that you can use the <code>install_github</code> function. Then do:</p>
+<pre class="r"><code>devtools::install_github(&#39;yihui/xaringan&#39;)</code></pre>
+<p>As Yihui points out in the documentation, if you use RStudio, you can use the menu to navigate to <code>File -&gt; New File -&gt; R Markdown -&gt; From Template -&gt; Ninja Presentation</code>, and you will see an R Markdown example.</p>
+<p>I first used <a href="https://github.com/yihui/xaringan"><strong>xaringan</strong></a> a few months ago. I was working with <a href="https://yihui.name">Yihui</a> on the <a href="https://bookdown.org/yihui/blogdown/">blogdown book</a>, and had signed up to lead a <a href="https://alison.rbind.io/talk/blogdown-meetup/">workshop</a> for the <a href="https://www.meetup.com/portland-r-user-group/">Portland R User group</a>. Obviously, such a workshop could not have powerpoint slides, so it seemed like the perfect time to learn <a href="https://github.com/yihui/xaringan"><strong>xaringan</strong></a>.</p>
+<p>For my <a href="https://alison.rbind.io/talk/blogdown-meetup/">workshop</a>, I made a simple website for the newly founded <a href="https://rladies-pdx.rbind.io">R-Ladies PDX</a> using blogdown (Thanks to <a href="https://twitter.com/mmmpork">Augustina</a> and <a href="https://twitter.com/deekshathati">Deeksha</a>, our fearless organizers). So naturally, my slides needed more purple.</p>
+<p>Luckily, the R-Ladies run a tight ship- they have a <a href="https://github.com/rladies/starter-kit">starter kit on GitHub</a> that details all the pretty purples they like.</p>
+<p><img src="rladies-palette.png" /></p>
+<p>About a month after I did the <a href="https://alison.rbind.io/talk/blogdown-meetup/">R-Ladies blogdown workshop</a>, I saw this <a href="https://yihui.name/en/2017/10/xaringan-themes/">blog post</a> by <a href="https://yihui.name">Yihui</a>:</p>
+<p><img src="yihui-xaringan-themes.png" /></p>
+<p>First, I thought this was such a cool idea and I hope more people make and submit themes. Then I realized, I had already made a theme! I submitted a pull request<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a>, Yihui helped me make some edits to the CSS files to make them more parsimonious with the default theme, I electronically signed a contributor agreement, and now the theme is there for you all to enjoy and use! You use the theme by editing the YAML:</p>
+<pre class="yaml"><code>output:
+  xaringan::moon_reader:
+    css: [&quot;default&quot;, &quot;rladies&quot;, &quot;rladies-fonts&quot;]</code></pre>
+<p>If you use the theme and you are on twitter, I’d love to see it- <a href="https://twitter.com/intent/tweet?user_id=3199856542">please mention me on twitter!</a></p>
+<p>Examples!</p>
+<ul>
+<li>My blogdown workshop slides: <a href="http://127.0.0.1:4321/talk/blogdown-meetup/">“Up and running with blogdown”</a> (view the <a href="https://github.com/rbind/apreshill/blob/master/static/slides/blogdown-workshop-slides.Rmd">source .Rmd on GitHub</a>)</li>
+</ul>
+<iframe src="https://alison.rbind.io/slides/blogdown-workshop-slides.html#1" width="672" height="400px">
+</iframe>
+<ul>
+<li><a href="http://jessicaminnier.com">Jessica Minnier’s</a> slides for <a href="http://jminnier-talks.netlify.com/2018_02_shiny_csp/minnier_csp2018#1">“Building Shiny Apps: With Great Power Comes Great Responsibility”</a></li>
+</ul>
+<iframe src="https://jminnier-talks.netlify.com/2018_02_shiny_csp/minnier_csp2018#1" width="672" height="400px">
+</iframe>
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>If you are new to <a href="https://github.com/yihui/xaringan"><strong>xaringan</strong></a>, don’t miss the <a href="https://github.com/yihui/xaringan/wiki">wiki!</a><a href="#fnref1" class="footnote-back">↩</a></p></li>
+<li id="fn2"><p>Yihui’s <a href="https://yihui.name/en/2017/10/xaringan-themes/">technical instructions</a> for contributors section of that blog post has been revised and is very detailed<a href="#fnref2" class="footnote-back">↩</a></p></li>
+</ol>
+</div>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/xaringan/">xaringan</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/post/2017-12-18-r-ladies-presentation-ninja/&amp;text=R-Ladies%20Presentation%20Ninja" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/post/2017-12-18-r-ladies-presentation-ninja/&amp;t=R-Ladies%20Presentation%20Ninja" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=R-Ladies%20Presentation%20Ninja&amp;body=/post/2017-12-18-r-ladies-presentation-ninja/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/post/2017-12-18-r-ladies-presentation-ninja/&amp;title=R-Ladies%20Presentation%20Ninja" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/authors/alison/avatar_hu700675a3593f2196f90a24bec185a055_242650_270x270_fill_q90_lanczos_center.jpg" alt="">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="/"></a></h5>
+        <h6 class="card-subtitle">Data Scientist &amp; Professional Educator</h6>
+        <p class="card-text">I&rsquo;m a developmental psychologist, former NIH Principal Investigator, and autism researcher who loves programming.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/apreshill" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/apreshill" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://impactstory.org/u/0000-0002-8082-1890" target="_blank" rel="noopener">
+        <i class="ai ai-impactstory"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="http://orcid.org/0000-0002-8082-1890" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/alisonpresmaneshill/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://keybase.io/alisonhill" target="_blank" rel="noopener">
+        <i class="fab fa-keybase"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=yGD9V6MAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+  <p class="powered-by">
+    <a href="/license/">LICENSE: CC-BY-SA <br> <i class="fab fa-creative-commons fa-2x"></i><i class="fab fa-creative-commons-by fa-2x"></i><i class="fab fa-creative-commons-sa fa-2x"></i> </a><br>
+  </p>
+  
+
+  <p class="powered-by">
+    © Andrew Rominger 2020 &middot; 
+
+    Made with <i class="far fa-heart" style="color: #06805E"></i>, <a href="https://github.com/rbind/apreshill" target="_blank" rel="noopener"><i class="fas fa-code-branch"></i></a>, the <a href="https://cran.r-project.org/" target="_blank" rel="noopener"><i class="fab fa-r-project"></i> </a><a href="https://github.com/rstudio/blogdown" target="_blank" rel="noopener">blogdown</a> package, and the 
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

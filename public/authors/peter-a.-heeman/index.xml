@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter A. Heeman | EcoEvoMatics</title>
+    <link>/authors/peter-a.-heeman/</link>
+      <atom:link href="/authors/peter-a.-heeman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter A. Heeman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Rominger 2020</copyright><lastBuildDate>Fri, 22 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pom-card.png</url>
+      <title>Peter A. Heeman</title>
+      <link>/authors/peter-a.-heeman/</link>
+    </image>
+    
+    <item>
+      <title>Uh and Um in Children With Autism Spectrum Disorders or Language Impairment</title>
+      <link>/publication/2016-uh-and-um-asd-sli/</link>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-uh-and-um-asd-sli/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

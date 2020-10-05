@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>education | EcoEvoMatics</title>
+    <link>/tags/education/</link>
+      <atom:link href="/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <description>education</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Rominger 2020</copyright><lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pom-card.png</url>
+      <title>education</title>
+      <link>/tags/education/</link>
+    </image>
+    
+    <item>
+      <title>education.rstudio.com</title>
+      <link>/project/education.rstudio.com/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/education.rstudio.com/</guid>
+      <description>&lt;p&gt;RStudio’s mission is:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“To equip everyone, regardless of means, to participate in a global economy that rewards data literacy.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Our education team supports this mission broadly by supporting people who want to learn R (or learn new things in R), and those who want to teach them. This website is designed for both. This website was built with Hugo, using a theme I developed and maintain. I worked with my former intern, 
+&lt;a href=&#34;https://desiree.rbind.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Desirée De Leon&lt;/a&gt;, to create the original artwork we used for the website.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

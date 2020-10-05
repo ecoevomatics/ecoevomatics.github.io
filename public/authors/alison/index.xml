@@ -1,0 +1,1913 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EcoEvoMatics</title>
+    <link>/authors/alison/</link>
+      <atom:link href="/authors/alison/index.xml" rel="self" type="application/rss+xml" />
+    <description>EcoEvoMatics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Rominger 2020</copyright><lastBuildDate>Tue, 31 Mar 2020 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pom-card.png</url>
+      <title>EcoEvoMatics</title>
+      <link>/authors/alison/</link>
+    </image>
+    
+    <item>
+      <title>Sharing on Short Notice</title>
+      <link>/talk/2020-sharing-short-notice/</link>
+      <pubDate>Tue, 31 Mar 2020 09:00:00 +0000</pubDate>
+      <guid>/talk/2020-sharing-short-notice/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;This webinar was designed to help educators who needed to quickly transition to remote teaching due to COVID-19.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Educators create a lot of files for teaching- slides, exercises, solutions, assignments, data, figures- that all ultimately need to be shared with other people. Having a link for sharing your teaching materials can save you time and pain, but it is hard to get started if you’ve never shared your resources online before. In this webinar, we’ll give a tour of the R Markdown ecosystem for educators that you can start to use right away. We’ll show how it can help you make your teaching more shareable, reproducible, and resilient.&lt;/p&gt;
+&lt;p&gt;Read the accompanying Q&amp;amp;A blog post on the 
+&lt;a href=&#34;https://education.rstudio.com/blog/2020/04/sharing-on-short-notice/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio Education blog&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Art of Literate Projecting</title>
+      <link>/talk/2019-ysc-keynote/</link>
+      <pubDate>Wed, 02 Oct 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/2019-ysc-keynote/</guid>
+      <description>
+
+
+&lt;p&gt;“Literate programming” is an approach to writing software programs that weaves together the source code and documentation at the time of creation. The idea is to create programs that are easier for users to understand. But they are also easier for programmers to work on and maintain. In this talk, I will describe how data scientists can be inspired by this programming approach and start what I refer to as “literate projecting.” Literate projects are not only more pleasant to work on — they are also easier for others to discover and explore. In my experiences as a researcher and now a data scientist at RStudio, I’ve had the pleasure to work on many literate projects, and I’ve felt the pain of working on illiterate ones too. What is the difference? What are the benefits? Based on my experiences, I’ll share good literate projecting practices that have the potential to shift your mindset and reshape your workflow.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Communicating with R Markdown Workshop</title>
+      <link>/talk/2019-ysc-workshop/</link>
+      <pubDate>Mon, 30 Sep 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/2019-ysc-workshop/</guid>
+      <description>
+
+
+&lt;p&gt;A full-day workshop for &lt;i class=&#34;fab fa-r-project&#34;&gt;&lt;/i&gt; users who want to get more out of &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34;&gt;R Markdown&lt;/a&gt; (and friends). In this workshop, you will create, publish, and share some beautiful data products. You’ll learn to make:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Parameterized reports&lt;/li&gt;
+&lt;li&gt;Version-controlled R Markdown projects&lt;/li&gt;
+&lt;li&gt;Templates within a package&lt;/li&gt;
+&lt;li&gt;Shareable &lt;a href=&#34;https://rstudio.github.io/distill/basics.html&#34;&gt;scientific/technical articles&lt;/a&gt;, &lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/xaringan.html&#34;&gt;slides&lt;/a&gt;, &lt;a href=&#34;https://rmarkdown.rstudio.com/flexdashboard/&#34;&gt;dashboards&lt;/a&gt;, and &lt;a href=&#34;https://bookdown.org/yihui/rmarkdown/websites.html&#34;&gt;websites&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R Markdown for Medicine Workshop</title>
+      <link>/talk/2019-rmed-rmd4medicine/</link>
+      <pubDate>Thu, 12 Sep 2019 08:00:00 +0000</pubDate>
+      <guid>/talk/2019-rmed-rmd4medicine/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching Students to Talk about Data Science</title>
+      <link>/talk/2019-jsm-talk-ds/</link>
+      <pubDate>Mon, 29 Jul 2019 14:00:01 -0700</pubDate>
+      <guid>/talk/2019-jsm-talk-ds/</guid>
+      <description>
+
+
+&lt;p&gt;Data science educators have a unique opportunity to teach students the skills they need in their future careers. We know that practical skills matter, like being able to wrangle, explore, analyze, and visualize data (preferably using code), but what is easy to overlook is teaching students how to communicate about data science with other people. Being able to communicate about data, code, and insights gained are important skills we can strengthen in the classroom to make a real impact on students. I will talk about three ways to help strengthen data science communication skills that matter: self-reflection, iteration, and broadcasting. Self-reflection involves asking students to reflect on concepts and/or code that they struggled with to increase engagement with materials and independent problem-solving. Iteration involves revisiting old concepts/code, identifying areas for improvement, and making them better, either independently or in collaboration with peers or other experts/advanced users. Broadcasting involves practice (practice, practice, practice) “wrapping up” code with words into coherent narratives about what a data analysis or visualization means.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Summer of blogdown: Day 04</title>
+      <link>/talk/2019-summer-of-blogdown-04/</link>
+      <pubDate>Thu, 13 Jun 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/2019-summer-of-blogdown-04/</guid>
+      <description>&lt;p&gt;A hands-on workshop to creating a personal website using blogdown and the Hugo Academic theme.&lt;/p&gt;
+&lt;p&gt;Four daily 1-hour sessions (see slides) plus 30-60 minutes of homework for 3 nights.&lt;/p&gt;
+&lt;p&gt;See the project link for all the days of the summer of blogdown.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Summer of blogdown: Day 03</title>
+      <link>/talk/2019-summer-of-blogdown-03/</link>
+      <pubDate>Wed, 12 Jun 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/2019-summer-of-blogdown-03/</guid>
+      <description>&lt;p&gt;A hands-on workshop to creating a personal website using blogdown and the Hugo Academic theme.&lt;/p&gt;
+&lt;p&gt;Four daily 1-hour sessions (see slides) plus 30-60 minutes of homework for 3 nights.&lt;/p&gt;
+&lt;p&gt;See the project link for all the days of the summer of blogdown.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Summer of blogdown: Day 02</title>
+      <link>/talk/2019-summer-of-blogdown-02/</link>
+      <pubDate>Tue, 11 Jun 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/2019-summer-of-blogdown-02/</guid>
+      <description>&lt;p&gt;A hands-on workshop to creating a personal website using blogdown and the Hugo Academic theme.&lt;/p&gt;
+&lt;p&gt;Four daily 1-hour sessions (see slides) plus 30-60 minutes of homework for 3 nights.&lt;/p&gt;
+&lt;p&gt;See the project link for all the days of the summer of blogdown.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Summer of blogdown: Day 01</title>
+      <link>/talk/2019-summer-of-blogdown-01/</link>
+      <pubDate>Mon, 10 Jun 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/2019-summer-of-blogdown-01/</guid>
+      <description>&lt;p&gt;A hands-on workshop to creating a personal website using blogdown and the Hugo Academic theme.&lt;/p&gt;
+&lt;p&gt;Four daily 1-hour sessions (see slides) plus 30-60 minutes of homework for 3 nights.&lt;/p&gt;
+&lt;p&gt;See the project link for all the days of the summer of blogdown.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using blogdown to Connect Beyond the Classroom</title>
+      <link>/talk/2019-sdss-blogdown/</link>
+      <pubDate>Thu, 30 May 2019 08:00:00 +0000</pubDate>
+      <guid>/talk/2019-sdss-blogdown/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>A Spoonful of Hugo: Troubleshooting Your Build</title>
+      <link>/post/2019-03-04-hugo-troubleshooting/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-03-04-hugo-troubleshooting/</guid>
+      <description>
+
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#update-hugo&#34;&gt;#1: Update Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#change-the-baseurl&#34;&gt;#2: Change the baseurl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#netlify-drag-and-drop&#34;&gt;#3: Netlify drag-and-drop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#torch-public&#34;&gt;#4: Torch &lt;code&gt;public/&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#peruse-public&#34;&gt;#5: Peruse &lt;code&gt;public/&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#dates&#34;&gt;#6: Back to the future&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Just a spoonful of Hugo helps the blog go down.”
+- me, only somewhat kidding&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In this series, I’m sharing small spoonfuls of Hugo that I have learned that hopefully can help you get your site &lt;em&gt;UP&lt;/em&gt; (and even better- more efficient, more streamlined, more automated). You can read the previous posts about my “Spoonful of Hugo” series &lt;a href=&#34;/post/2019-02-19-hugo-archetypes/&#34;&gt;about Hugo archetypes&lt;/a&gt;, &lt;a href=&#34;/post/2019-02-19-hugo-netlify-toml/&#34;&gt;Hugo versions&lt;/a&gt;, and &lt;a href=&#34;/post/2019-02-21-hugo-page-bundles/&#34;&gt;Hugo page bundles&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The following are a few steps that I always start with to troubleshoot any blogdown/Hugo/Netlify problems. These steps would solve what I would anecdotally estimate as ~50% of blogdown problems that I see posted in the &lt;a href=&#34;https://github.com/rstudio/blogdown/issues&#34;&gt;GitHub repository&lt;/a&gt; and on the &lt;a href=&#34;https://community.rstudio.com/tags/blogdown&#34;&gt;community site&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;update-hugo&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;#1: Update Hugo&lt;/h1&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-1&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;https://media.giphy.com/media/syCa5ird7wp0c/giphy.gif&#34; alt=&#34;Don&#39;t be like this&#34;  /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: Don’t be like this
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;If things have gone south and you are getting Hugo errors when you use the “Serve Site” Addin locally, it is possible that you need to update your version of Hugo. From R, you can check your Hugo version with blogdown:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;blogdown::hugo_version()&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then you can reference your &lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;Hugo theme&lt;/a&gt; to find the minimum version of Hugo required by your theme:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-3&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;hugo-min-version.png&#34; alt=&#34;Check your theme&#39;s minimum Hugo version&#34; width=&#34;1073&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 2: Check your theme’s minimum Hugo version
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;You can go higher than the minimum version though, so it’s good practice to update your Hugo, again from within R:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;blogdown:: update_hugo()&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Check your version again post-update:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;blogdown::hugo_version()&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] &amp;#39;0.55.6&amp;#39;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;If you are using Netlify to build your site using Hugo, you’ll want this version to match that- the best way to do that is with a &lt;a href=&#34;/post/2019-02-19-hugo-netlify-toml/&#34;&gt;netlify.toml file&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;change-the-baseurl&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;#2: Change the baseurl&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://media.giphy.com/media/zG6MKhlBxIloc/giphy.gif&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
+&lt;p&gt;Open up your &lt;code&gt;config.toml&lt;/code&gt; file and look for the &lt;code&gt;baseurl&lt;/code&gt; field, usually pretty close to the top. Here is mine&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;pre class=&#34;toml&#34;&gt;&lt;code&gt;baseurl = &amp;quot;https://alison.rbind.io&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now if you are just starting with Hugo and don’t &lt;em&gt;actually&lt;/em&gt; have a domain name yet, try taking the advice that blogdown automatically prints out for you:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Warning: You should change the &amp;quot;baseurl&amp;quot; option in config.toml 
+from https://example.org to your actual domain; 
+if you do not have a domain, set &amp;quot;baseurl&amp;quot; to &amp;quot;/&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;But be careful here- you shouldn’t leave it as “/”- once you do have your domain name you should update the baseurl as “/” is a not a valid URL.&lt;/p&gt;
+&lt;div id=&#34;care-to-know-more&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Care to know more?&lt;/h2&gt;
+&lt;p&gt;Here is a quote from the person who writes the Hugo docs:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“…the only purpose for the baseurl field in the config is to define the full base URL of your website for deployment purposes.” - @&lt;a href=&#34;https://discourse.gohugo.io/t/how-not-to-specify-url-site/5691/7&#34;&gt;rdwatters&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The main error that would happen without the trailing slash in the past is that you would end up with a site where the theme’s CSS would be all wrong. This was probably because the theme designer used code like this buried in a layout file:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;{{ .Site.BaseURL }}css/style.css&amp;quot;/&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now, if you set &lt;code&gt;baseurl = &amp;quot;http://mysite.com&amp;quot;&lt;/code&gt; but only rendered locally, things would look just peachy, because the default local server already included the trailing slash. So, the link in the html file would be&lt;a href=&#34;#fn2&#34; class=&#34;footnote-ref&#34; id=&#34;fnref2&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;http://localhost:1313/css/style.css&amp;quot;&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;But, at build, the link in the html file would turn into:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;http://mysite.comcss/style.css&amp;quot;&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Which creates sites that look like this:&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-7&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;https://user-images.githubusercontent.com/47527626/52856178-f37a3680-3123-11e9-9b26-6500efac7404.png&#34; alt=&#34;Hugo tranquil peak theme&#34;  /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 3: Hugo tranquil peak theme
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/rstudio/blogdown/issues/369&#34;&gt;GitHub issue #369&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-8&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;https://user-images.githubusercontent.com/18710907/27711864-820dc59a-5cf2-11e7-99c8-b9b7e7f46ab3.png&#34; alt=&#34;Hugo universal theme&#34;  /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 4: Hugo universal theme
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/rstudio/blogdown/issues/131&#34;&gt;GitHub issue #131&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cloud.githubusercontent.com/assets/4596214/26549134/7e3968fe-4445-11e7-90b1-87dd4ac2c1c0.png&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/rstudio/blogdown/issues/114&#34;&gt;GitHub issue #114&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;However, Hugo authors and theme developers have largely been moving towards using relative URLs instead of the baseurl to build paths. This was based on public advice voiced by the Hugo authors on the discourse forum. For example:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“The recommended way to reference resources is to use either relURL or absURL template funcs, which handles the slash issues.”- @&lt;a href=&#34;https://discourse.gohugo.io/t/0-19-to-0-30-2-baseurl-forward-slash-is-required/9206&#34;&gt;bep&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Following that advice, a more up-to-date theme would have code that looks like this buried in a layout file:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;{{ &amp;quot;css/style.css&amp;quot; | relURL }}&amp;quot;/&amp;gt;  → &lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Bottom line? If your theme uses &lt;code&gt;relURL&lt;/code&gt; or &lt;code&gt;absURL&lt;/code&gt; to link to site resources like CSS, JavaScript, or static images, then whether or not you include a trailing slash in your baseurl should not matter at all.&lt;/p&gt;
+&lt;p&gt;And here is some tough love about your theme: if the most recent version &lt;em&gt;does&lt;/em&gt; still require the trailing slash in the &lt;code&gt;baseurl&lt;/code&gt; to “work” out of the box, I would seriously consider switching themes. This is a pretty good “canary in the coal mine” test regarding how up-to-date the theme author is, and how well the theme you have chosen adheres to Hugo templating best practices. If you are having pain with this now, it is likely not the only thing that will be painful about working with your theme.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;netlify-drag-and-drop&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;#3: Netlify drag-and-drop&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://media.giphy.com/media/DfbpTbQ9TvSX6/giphy.gif&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;If you can render your site locally but your published site looks different, try the drag-and-drop method:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://arm.rbind.io/slides/img/netlify-new-site.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Use the “Serve Site” Addin, then drag-and-drop the &lt;code&gt;public/&lt;/code&gt; folder straight into Netlify. What does this do? You can now see your public site…that you built…with your local version of Hugo. Netlify is doing none of the site building here.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2019-03-04-hugo-troubleshooting/index_files/figure-html/unnamed-chunk-10-1.gif&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
+&lt;p&gt;One of the first benefits of this approach is that it ensures that you are able to actually &lt;em&gt;generate&lt;/em&gt; a &lt;code&gt;public/&lt;/code&gt; folder locally! I have seen folks struggle to deploy the wrong repo. This simple step can force you to make sure to use the “Serve Site” Addin to generate the &lt;code&gt;public/&lt;/code&gt; folder, and that the repo you are trying to link to Netlify actually contains a Hugo site because you must physically move the &lt;code&gt;public/&lt;/code&gt; folder. But this method can also help you diagnose other problems too.&lt;/p&gt;
+&lt;p&gt;If your &lt;code&gt;public/&lt;/code&gt; folder &lt;strong&gt;does not render&lt;/strong&gt; on Netlify, you have work to do locally. I can’t tell you what it is as it can be a number of things, but you can be sure that your problem is not just the Netlify build- it is your local build too.&lt;/p&gt;
+&lt;p&gt;If your &lt;code&gt;public/&lt;/code&gt; folder &lt;strong&gt;does render&lt;/strong&gt; perfectly on Netlify, but you are getting a Netlify build error, then you likely have a Hugo version problem. It might be that the version you are running locally is more recent than the version run by Netlify by default to actually build your site. The good news is there is a quick fix for this! The solution is to upgrade the Hugo version Netlify is using- see my advice &lt;a href=&#34;/post/2019-02-19-hugo-netlify-toml/&#34;&gt;here for how to do that&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you are happy with how your site looks but you are missing content and/or seeing old deleted content, then you may need the next few strategies to troubleshoot.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;torch-public&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;#4: Torch &lt;code&gt;public/&lt;/code&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://media.giphy.com/media/YA6dmVW0gfIw8/giphy.gif&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;When you are seeing very weird things locally, try deleting your local &lt;code&gt;public/&lt;/code&gt; folder. Then serve site again. Sometimes it can get “junked up”. I’ve found that sometimes deleted content can be a &lt;a href=&#34;https://community.rstudio.com/t/deleted-blog-post-still-showing-up-on-blogdown-website-in-index-html/14107&#34;&gt;little sticky&lt;/a&gt;. As recommended in the &lt;a href=&#34;https://bookdown.org/yihui/blogdown/local-preview.html&#34;&gt;blogdown book&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“you are strongly recommended to delete the &lt;code&gt;/public/&lt;/code&gt; directory before you rebuild the site for publishing every time, because Hugo never deletes it”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Also, this has a bonus of reinforcing for you exactly what the “Serve Site” Addin &lt;em&gt;does&lt;/em&gt; - it regenerates the &lt;code&gt;public/&lt;/code&gt; folder. This is also the folder that, if you are using &lt;a href=&#34;post/2019-02-19-hugo-netlify-toml/&#34;&gt;Netlify to build your site&lt;/a&gt;, is in your &lt;code&gt;.gitignore&lt;/code&gt; file because Netlify (+ Hugo) generates this file “fresh” with each push to your GitHub repository.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2019-03-04-hugo-troubleshooting/index_files/figure-html/unnamed-chunk-11-1.gif&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;peruse-public&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;#5: Peruse &lt;code&gt;public/&lt;/code&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://media.giphy.com/media/NS7gPxeumewkWDOIxi/giphy.gif&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;When you notice weird things, try actually looking inside &lt;code&gt;public/&lt;/code&gt;- don’t be afraid to spelunk around in there! If you are seeing something wrong with your site, try to figure out how blogdown/Hugo is processing and rendering your content. This folder can tell you a lot! Keep in mind that your local &lt;code&gt;public/&lt;/code&gt; folder will still contain &lt;a href=&#34;#dates&#34;&gt;future/draft/expired content&lt;/a&gt; if you used the “Serve Site” Addin.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;dates&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;#6: Back to the future&lt;/h1&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:unnamed-chunk-12&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;https://media.giphy.com/media/ek6obDm0IwjNm/giphy.gif&#34; alt=&#34;Where are my posts?&#34;  /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 5: Where are my posts?
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;If your site renders beautifully locally, and your drag-and-drop site from &lt;code&gt;public/&lt;/code&gt; looks the same, but you are missing key content when you actually deploy to Netlify using a Hugo build, you may have inadvertently stumbled into a Hugo date time warp. This is a fairly &lt;a href=&#34;https://community.rstudio.com/t/serve-site-working-but-posts-dont-show-up-on-github-io/11254/3&#34;&gt;common gotcha&lt;/a&gt;. Try using the drag-and-drop method again, this time first delete &lt;code&gt;public/&lt;/code&gt;, then instead of using the “Serve Site” Addin, run this in your console:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;blogdown::build_site(local = FALSE)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Plop this &lt;em&gt;new&lt;/em&gt; public folder in Netlify to see what your site will look like when it is actually published. What does this show you? Your local Hugo build (read: your &lt;code&gt;public/&lt;/code&gt; folder generated by “Serve Site”) differs &lt;em&gt;by design&lt;/em&gt; in 3 important ways from your deployed site built by Netlify/Hugo. By default, &lt;a href=&#34;https://gohugo.io/getting-started/usage/#draft-future-and-expired-content&#34;&gt;Hugo will not publish&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Content with a future &lt;code&gt;publishDate&lt;/code&gt; value&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Content with &lt;code&gt;draft: true&lt;/code&gt; status&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Content with a past &lt;code&gt;expiryDate&lt;/code&gt; value&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can see that these are &lt;a href=&#34;https://gohugo.io/getting-started/configuration/&#34;&gt;defaults&lt;/a&gt;. The behavior of the “Serve Site” Addin is also documented in the &lt;a href=&#34;https://bookdown.org/yihui/blogdown/local-preview.html&#34;&gt;blogdown book&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“This is for you to preview draft and future posts locally.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Blogdown’s &lt;code&gt;build_site(local = FALSE)&lt;/code&gt; differs from the “Serve Site” Addin in that it &lt;em&gt;will not&lt;/em&gt; render draft, future, or expired content. So your &lt;code&gt;public/&lt;/code&gt; folder from &lt;code&gt;build_site(local = FALSE)&lt;/code&gt; shows you &lt;strong&gt;exactly&lt;/strong&gt; what Netlify &lt;strong&gt;should&lt;/strong&gt; publish. Seeing it can help you troubleshoot why some content was showing up locally but not when you publish.&lt;/p&gt;
+&lt;p&gt;The defaults are pretty sensible and nice to have, as you can still put these kinds of content under version control, and hence collaborate with other team members on the content without having the content publish (or expire) until you &lt;strong&gt;say so&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;To show content that Hugo was hiding, you’ll want to edit some YAML fields in the individual offending content files. For example, in the YAML of an individual content file (like a blog post), if you want to un-draft it, add or change this key/value:&lt;/p&gt;
+&lt;pre class=&#34;yaml&#34;&gt;&lt;code&gt;title: &amp;#39;A Spoonful of Hugo: Troubleshooting your Build&amp;#39;
+author: &amp;quot;Alison Hill&amp;quot;
+date: &amp;#39;2019-03-04&amp;#39;
+draft: false&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Alternatively, if you want to date something in the future (like to advertise the date of an upcoming talk) but publish now, you can use the &lt;code&gt;publishDate&lt;/code&gt; field. The &lt;code&gt;publishDate&lt;/code&gt; field is a newer addition to Hugo (&amp;gt;= v0.54.0) which, if left unset, will default to the &lt;code&gt;date&lt;/code&gt; field, which means in the individual content file YAML you can do:&lt;/p&gt;
+&lt;pre class=&#34;yaml&#34;&gt;&lt;code&gt;title: &amp;#39;A Spoonful of Hugo: Get excited!!&amp;#39;
+author: &amp;quot;Alison Hill&amp;quot;
+date: &amp;#39;2025-03-04&amp;#39;
+publishDate: &amp;#39;2019-03-04&amp;#39;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Hopefully these 6 things can help you get unstuck. If not, the &lt;a href=&#34;https://community.rstudio.com/tags/blogdown&#34;&gt;RStudio community forums&lt;/a&gt; are a great place to ask questions!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;Yes that’s right, I don’t have a trailing slash- read on for why I can get away with this.&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn2&#34;&gt;&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io/t/how-not-to-specify-url-site/5691/5&#34; class=&#34;uri&#34;&gt;https://discourse.gohugo.io/t/how-not-to-specify-url-site/5691/5&lt;/a&gt;&lt;a href=&#34;#fnref2&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Spoonful of Hugo: Page Bundles</title>
+      <link>/post/2019-02-21-hugo-page-bundles/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-02-21-hugo-page-bundles/</guid>
+      <description>
+
+
+&lt;blockquote&gt;
+&lt;p&gt;“Just a spoonful of Hugo helps the blog go down.”
+- me, only somewhat kidding&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In this series, I’m sharing small spoonfuls of Hugo that I have learned that hopefully can help you get your site &lt;em&gt;UP&lt;/em&gt; (and even better- more efficient, more streamlined, more automated). You can read the previous posts about my “Spoonful of Hugo” series &lt;a href=&#34;/post/2019-02-19-hugo-archetypes/&#34;&gt;about Hugo archetypes&lt;/a&gt; and &lt;a href=&#34;/post/2019-02-19-hugo-netlify-toml/&#34;&gt;Hugo versions&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is my third post in this series and it is breaking news.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://media.giphy.com/media/dZCdA82qa8d4xVIwm3/giphy.gif&#34; /&gt;&lt;/p&gt;
+&lt;div id=&#34;hugo-page-bundles&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Hugo Page Bundles&lt;/h1&gt;
+&lt;p&gt;Well, not really breaking news, but you still may not know about it! Hugo v0.32 &lt;a href=&#34;https://gohugo.io/news/0.32-relnotes/&#34;&gt;introduced&lt;/a&gt; a new feature called Page Bundles, as a way to organize the content files. Blogdown users rejoice that &lt;a href=&#34;https://twitter.com/dvaughan32&#34;&gt;Davis Vaughn&lt;/a&gt; posted an &lt;a href=&#34;https://github.com/rstudio/blogdown/issues/351&#34;&gt;issue&lt;/a&gt; on the rstudio/blogdown repo to enable this option, which Yihui added shortly before rstudio::conf 2019 🎉. Here is the snippet from the &lt;code&gt;NEWS.md&lt;/code&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“One benefit of using a page bundle instead of a normal page is that you can put resource files associated with the post (such as images) under the same directory of the post itself. This means you no longer have to put them under the &lt;code&gt;static/&lt;/code&gt; directory, which has been quite confusing to Hugo beginners.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;What does a blogdown/Hugo site begin to look like without page bundles? I think here is a representative example from &lt;a href=&#34;https://github.com/tidyverse/tidyverse.org/tree/master/content/articles&#34;&gt;tidyverse.org&lt;/a&gt; &lt;em&gt;(sorry tidyverse team- it’s not you, it’s the old Hugo).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;For this team, they need an image for every post, which gets out of control pretty fast. Also, some ended up in &lt;a href=&#34;https://github.com/tidyverse/tidyverse.org/tree/master/static/images&#34;&gt;&lt;code&gt;static/&lt;/code&gt;&lt;/a&gt; too, organized by post (which I have done on my own blog, though not well or consistently).&lt;/p&gt;
+&lt;p&gt;What would it look like to use page bundles?&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;content/
+├── about
+│   ├── index.md
+├── posts
+│   ├── 2015-07-23-hi-world
+│   │   ├── bakers.csv
+│   │   ├── image1.jpg
+│   │   ├── image2.png
+│   │   └── index.Rmd
+│   └── 2015-07-24-bye-world
+│       └── index.Rmd&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;One could call this bundled file structure “tidier” 🍱.&lt;/p&gt;
+&lt;p&gt;In the above, after serving site, &lt;code&gt;index.html&lt;/code&gt; files also get added to the bundle. In Hugo’s terms, these are &lt;a href=&#34;https://gohugo.io/content-management/page-bundles/&#34;&gt;leaf bundles&lt;/a&gt;. The resource files allowed in a bundle include page and non-page items like images, pdf, .csv files, etc.&lt;/p&gt;
+&lt;p&gt;This is instead of:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;content/
+├── about
+│   ├── index.md
+├── posts
+│   ├── 2015-07-23-hi-world.Rmd
+│   ├── bakers.csv
+│   ├── image1.jpg
+│   ├── image2.png
+│   └── 2015-07-24-bye-world.Rmd&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;When you create a new bundled post, the actual content of the post goes in the index file of a page bundle. So:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# not bundled post
+post/2015-07-23-hi-world.Rmd
+# bundled post
+post/2015-07-24-bye-world/index.Rmd&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bundle-me-blogdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Bundle Me, blogdown!&lt;/h1&gt;
+&lt;p&gt;First, read the previous post on setting up a &lt;a href=&#34;/post/2019-02-19-hugo-netlify-toml/&#34;&gt;netlify.toml file&lt;/a&gt;. Since using Hugo page bundles depends on Hugo v0.32 or higher, you should go ahead and update hugo then update your netlify.toml with your updated version:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;blogdown::update_hugo()
+blogdown::hugo_version()&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now, let’s use the &lt;a href=&#34;https://usethis.r-lib.org/&#34;&gt;&lt;strong&gt;usethis&lt;/strong&gt; package&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;project-specific-.rprofile&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Project-specific .Rprofile&lt;/h2&gt;
+&lt;p&gt;First, I’m going to demo here how to create a project-specific .Rprofile file- but know that you can do a user-level .Rprofile file too.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# install.packages(&amp;quot;usethis&amp;quot;) # uncomment this to install
+usethis::edit_r_profile(scope = &amp;quot;project&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;These helpful messages &lt;em&gt;should&lt;/em&gt; print to your console: please note the “restart” reminder…&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;gt; usethis::edit_r_profile(scope = &amp;quot;project&amp;quot;)
+● Restart R for changes to take effect
+✔ Setting active project to &amp;#39;/Users/alison/rprojs/alison.rbind.io&amp;#39;
+● Modify &amp;#39;.Rprofile&amp;#39;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now you could add this to your file:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# in .Rprofile of the website project
+if (file.exists(&amp;quot;~/.Rprofile&amp;quot;)) {
+  base::sys.source(&amp;quot;~/.Rprofile&amp;quot;, envir = environment())
+}
+
+options(blogdown.new_bundle = TRUE)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The first code chunk above is from the &lt;a href=&#34;https://bookdown.org/yihui/blogdown/global-options.html#global-options&#34;&gt;blogdown book&lt;/a&gt;, where we describe a workaround for loading both user and project .Rprofile files (since R technically only reads one startup profile file).&lt;/p&gt;
+&lt;p&gt;If you don’t want this, you could add the blogdown options to your user .Rprofile instead using:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;usethis::edit_r_profile(scope = &amp;quot;user&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Heck, while you are at it, you could set a &lt;em&gt;bunch&lt;/em&gt; of options to make your blogdown life easier:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# in .Rprofile of the website project
+if (file.exists(&amp;quot;~/.Rprofile&amp;quot;)) {
+  base::sys.source(&amp;quot;~/.Rprofile&amp;quot;, envir = environment())
+}
+
+options(
+  blogdown.author = &amp;quot;Alison Hill&amp;quot;,
+  blogdown.ext = &amp;quot;.Rmd&amp;quot;,
+  blogdown.subdir = &amp;quot;post&amp;quot;,
+  blogdown.yaml.empty = TRUE,
+  blogdown.new_bundle = TRUE,
+  blogdown.title_case = TRUE
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;For the blogdown-specific options, any of these prepopulate content in your “New Post” Addin (I told you to use this &lt;a href=&#34;/post/2019-02-19-hugo-archetypes/&#34;&gt;here&lt;/a&gt;). There is a handy &lt;a href=&#34;https://bookdown.org/yihui/blogdown/global-options.html&#34;&gt;table&lt;/a&gt; from the blogdown book, summarized here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;blogdown.author&lt;/code&gt; = author of new posts&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;blogdown.ext&lt;/code&gt; = default extension of new posts (can also be “.md” or “.Rmarkdown”)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;blogdown.subdir&lt;/code&gt; = theme-specific, you need to know your theme and content folder here&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;blogdown.yaml.empty&lt;/code&gt; = I told you to do that &lt;a href=&#34;/post/2019-02-19-hugo-archetypes/&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;blogdown.new_bundle&lt;/code&gt; = what this whole post is about!&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;blogdown.title_case&lt;/code&gt; = “nEed More coFFee” –&amp;gt; “Need More Coffee” (it tidies all your post titles to title case)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;the-newline-thing&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The Newline Thing&lt;/h2&gt;
+&lt;p&gt;Here is a &lt;strong&gt;massive&lt;/strong&gt; .Rprofile gotcha: this file &lt;strong&gt;must&lt;/strong&gt; end with a blank line. So make sure you add an empty line at the end of the file, then save it, and restart your R session.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;restart-r.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Want to make your general R life easier in the future? Follow Yihui’s &lt;a href=&#34;https://yihui.name/en/2018/04/rprofile-trailing-newline/&#34;&gt;advice&lt;/a&gt; and do this in RStudio to ensure that all source files end with a newline:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://db.yihui.name/images/rstudio-newline.png&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;use-bundles&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Use Bundles&lt;/h1&gt;
+&lt;p&gt;After restarting R, try using the “New Post” Addin, this time &lt;em&gt;with feeling&lt;/em&gt;. There is &lt;em&gt;still&lt;/em&gt; one more gotcha though. Use the Addin to create your new bundled post. The only catch is that once you are looking at your exciting new post, you should &lt;strong&gt;delete the slug&lt;/strong&gt; in the YAML (I posted an issue about this &lt;a href=&#34;https://github.com/rstudio/blogdown/issues/370&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;The reason is that you want the link to your post to be:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;http://alison.rbind.io/post/2019-02-21-hugo-page-bundles/&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;If you include the slug, the link to your post will be:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;http://alison.rbind.io/post/2019-02-21-hugo-page-bundles/hugo-page-bundles&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Another option is to update your &lt;code&gt;config.toml&lt;/code&gt; file with permalinks like &lt;a href=&#34;https://bookdown.org/yihui/blogdown/configuration.html&#34;&gt;Yihui suggests&lt;/a&gt; (but beware: this will change all your past links as well, requiring some &lt;a href=&#34;https://yihui.name/en/2017/11/301-redirect/&#34;&gt;Netlify redirects&lt;/a&gt;):&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[permalinks]
+    post = &amp;quot;/:year/:month/:day/:slug/&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The default here from Hugo was &lt;code&gt;/post/:year-:month-:day-:slug/:slug/&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;A small note: if you want to add relative links from a blog post to another post in your same blog. So &lt;code&gt;[this](/post/2019-02-19-hugo-archetypes/)&lt;/code&gt; becomes &lt;a href=&#34;/post/2019-02-19-hugo-archetypes/&#34;&gt;this&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Now, add images and data files to your ❤️’s content! But you may want to do one more thing…&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;update-metadata&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Update Metadata&lt;/h1&gt;
+&lt;p&gt;If you are anything like me, you may draft a blog post then come back to it later. For example, I started this post 2 days ago, but want to publish it today, 2019-10-03. The cool thing that was already built-in to blogdown is the “Update Metadata” Addin. With your blog post open (it should be called &lt;code&gt;index.Rmd&lt;/code&gt;)&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;, click on Addins and select “Update Metadata”. You should see a window like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;update-metadata.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Check the box to rename the file if the date has changed. RStudio will tell you your file has been deleted- which is technically true since the folder was renamed, but don’t panic!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;file-deleted-warning.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Click YES. The &lt;code&gt;index.Rmd&lt;/code&gt; file that is now open should have an updated date field in the YAML. In your RStudio file viewer, you may want to click on “content” at this point then navigate back to view your post- then you will then see that the folder name now has an updated date too.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;If no post is open, you will get an error: &lt;code&gt;Warning message: The current document does not seem to contain YAML metadata&lt;/code&gt;&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Spoonful of Hugo: The netlify.toml File</title>
+      <link>/post/2019-02-19-hugo-netlify-toml/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-02-19-hugo-netlify-toml/</guid>
+      <description>
+
+
+&lt;blockquote&gt;
+&lt;p&gt;“Just a spoonful of Hugo helps the blog go down.”
+- me, only somewhat kidding&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;You can read the previous post about my “Spoonful of Hugo” series &lt;a href=&#34;/post/2019-02-19-hugo-archetypes/&#34;&gt;here&lt;/a&gt;. In this series, I’m sharing small spoonfuls of Hugo that I have learned that hopefully can help you get your site &lt;em&gt;UP&lt;/em&gt; (and even better- more efficient, more streamlined, more automated).&lt;/p&gt;
+&lt;p&gt;This is my second post in this series, and it is a relatively quick one. Just do this. This one is a no-brainer.&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Thanks to &lt;a href=&#34;https://twitter.com/dataandme&#34;&gt;Mara Averick&lt;/a&gt; for alerting me that with Hugo version 0.54.0 and onward, there is a trailing zero at the end of &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/5639&#34;&gt;Hugo versions now&lt;/a&gt;. So for versions before 0.54.0, use the format: 0.53; for later versions use 0.54.0 (0.54 will not work).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;div id=&#34;use-netlify-to-deploy&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Use Netlify to Deploy&lt;/h1&gt;
+&lt;p&gt;First, you’ll need to use Netlify! I am a very happy Netlify user and currently have approximately 33 sites deployed. To setup a new account, navigate to &lt;a href=&#34;https://www.netlify.com/&#34;&gt;Netlify&lt;/a&gt; and click on the &lt;em&gt;Sign Up&lt;/em&gt; link.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://arm.rbind.io/slides/img/netlify-landing.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Sign up with &lt;em&gt;GitHub&lt;/em&gt; to connect your GitHub and Netlify accounts (as shown below).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;netlify-sign-up.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;If you use a different version control service, select GitLab or BitBucket instead.&lt;/p&gt;
+&lt;p&gt;The last step is to use the Netlify UI in browser do &lt;em&gt;New Site from Git&lt;/em&gt; &amp;gt; pick your repo. You’ll be prompted to fill in these fields, they are probably already filled in correctly for you:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;netlify-deploy-settings.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The next part is the advanced build settings:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;netlify-adv-build.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;See that &lt;strong&gt;pro tip&lt;/strong&gt; about the netlify.toml? Let’s do that! You can leave these fields as is.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;why-netlify.toml&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Why netlify.toml?&lt;/h1&gt;
+&lt;p&gt;In their &lt;a href=&#34;https://www.netlify.com/docs/build-gotchas/&#34;&gt;&lt;strong&gt;Build Gotchas&lt;/strong&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“If your build works locally, the next debugging step is to ensure the package versions we use to build match yours. You can find the settings for these in the &lt;a href=&#34;https://www.netlify.com/docs/build-settings/&#34;&gt;Build Settings&lt;/a&gt; doc. That’s the leading cause of build failure.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Yes that is right- package version mismatches are the leading cause of build failure with Netlify. What does this look like for blogdown users? This means that you are running a version of Hugo locally that doesn’t match the version that Netlify is using to build your site. Most of the time, you are using a more recent version of Hugo than the one Netlify uses. This means that the files your theme relies on may be using newer Hugo functions that were introduced in later Hugo versions- functions that Netlify won’t be able to find working from an older Hugo version. You’ll get &lt;em&gt;all the build errors&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;You can check your local Hugo version by running this code in your R console:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;blogdown::hugo_version()&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] &amp;#39;0.57.2&amp;#39;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now, we want Netlify to use this same version of Hugo when it builds your site. You can do this two ways:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Do this in your browser (👎)&lt;/li&gt;
+&lt;li&gt;Do this in your project root directory in a netlify.toml file (👍)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div id=&#34;add-the-netlify.toml-file&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Add the netlify.toml File&lt;/h1&gt;
+&lt;p&gt;Adding this file means that team members can see for themselves what version of Hugo you are running- if it is buried in the Netlify UI, you can’t see that information unless you sift through the public build logs (no thanks). Making the file as plain text in the root of your blogdown project directory means that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;it is version controlled (yay!) and&lt;/li&gt;
+&lt;li&gt;other people who use/learn from/contribute to your blog can &lt;em&gt;actually&lt;/em&gt; reproduce your site with the same site configuration.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bonus:&lt;/strong&gt; you can set the Hugo versions for branch deploys too.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here is an example from my own &lt;a href=&#34;https://github.com/rbind/apreshill/blob/master/netlify.toml&#34;&gt;netlify.toml&lt;/a&gt; file&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;pre class=&#34;toml&#34;&gt;&lt;code&gt;[build] 
+  publish = &amp;quot;public&amp;quot;
+  command = &amp;quot;hugo&amp;quot;
+
+[context.production.environment]
+  HUGO_VERSION = &amp;quot;0.54.0&amp;quot; # if older, use format: 0.53 (no trailing zero)
+  HUGO_ENV = &amp;quot;production&amp;quot;
+  HUGO_ENABLEGITINFO = &amp;quot;true&amp;quot;
+  
+[context.branch-deploy.environment]
+  HUGO_VERSION = &amp;quot;0.54.0&amp;quot; # if older, use format: 0.53 (no trailing zero)
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = &amp;quot;0.54.0&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;You can leave off the last two chunk if you don’t want to use &lt;a href=&#34;https://www.netlify.com/blog/2017/11/16/get-full-control-over-your-deployed-branches/&#34;&gt;branch deploys&lt;/a&gt; or &lt;a href=&#34;https://www.netlify.com/blog/2016/07/20/introducing-deploy-previews-in-netlify/&#34;&gt;preview deploys&lt;/a&gt;, but I ❤️ these two Netlify features and encourage you to try them out. I’ve starting drafting individual blog posts and tutorials in branches, and then I can see them rendered and share them for feedback without asking collaborators to clone and build the repository locally. It is &lt;strong&gt;lovely&lt;/strong&gt;. Every branch and pull request gets a link 🎉.&lt;/p&gt;
+&lt;p&gt;So add this file to your blogdown site repo and push to GitHub.&lt;/p&gt;
+&lt;p&gt;Note that, according to the &lt;a href=&#34;https://www.netlify.com/docs/netlify-toml-reference/&#34;&gt;Netlify docs&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“During a build, the following ordering determines which context covers a particular deploy: UI settings are overridden if a netlify.toml file is present in the root folder of the repo and there exists a setting for the same property/redirect/header in the toml file.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If you look in your site’s Netlify deploy log, you should see entries like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;7:47:13 PM: Found netlify.toml. Overriding site configuration
+7:47:13 PM: Starting build script
+7:47:13 PM: Installing dependencies
+7:47:14 PM: Started restoring cached node version
+7:47:17 PM: Finished restoring cached node version
+7:47:18 PM: v8.15.0 is already installed.
+7:47:19 PM: Now using node v8.15.0 (npm v6.4.1)
+7:47:19 PM: Attempting ruby version 2.3.6, read from environment
+7:47:20 PM: Using ruby version 2.3.6
+7:47:20 PM: Using PHP version 5.6
+7:47:20 PM: Installing Hugo 0.54.0&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Success!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;the leading zero matters for Hugo versions, so 0.53 works but .53 will not. For versions &amp;gt;= 0.54.0, the trailing zero also matters, so 0.54.0 works but 0.54 will not.&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Spoonful of Hugo: Archetypes</title>
+      <link>/post/2019-02-19-hugo-archetypes/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-02-19-hugo-archetypes/</guid>
+      <description>
+
+
+&lt;blockquote&gt;
+&lt;p&gt;“Just a spoonful of Hugo helps the blog go down.”
+- me, only somewhat kidding&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As a happy blogdown user, a common story I hear from other #rstats users is that you try to change one little thing in Hugo, and the whole site breaks. &lt;a href=&#34;https://en.wikipedia.org/wiki/Here_be_dragons&#34;&gt;Here be dragons&lt;/a&gt; for folks who aren’t web developers.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/e/ea/Carta_Marina.jpeg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;I’m here to tell you that there are small spoonfuls of Hugo that can help you get your site &lt;em&gt;UP&lt;/em&gt; (and even better- more efficient, more streamlined, more automated), even if you are not in the least bit interested in transitioning into a career in web development 😏.&lt;/p&gt;
+&lt;div id=&#34;my-project&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;My Project&lt;/h1&gt;
+&lt;p&gt;The education team at RStudio needs a website and we have a short wishlist:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We want something we can maintain ourselves,&lt;/li&gt;
+&lt;li&gt;We want to look consistent with other RStudio sites on the outside, and&lt;/li&gt;
+&lt;li&gt;We want to be consistent on the inside so that we can get help if/when we need it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This led me to the current &lt;a href=&#34;https://www.tidyverse.org/&#34;&gt;tidyverse.org&lt;/a&gt; blogdown site. I wanted to make a copy of the site then customize for the education team, but I noticed that the &lt;a href=&#34;https://github.com/tidyverse/tidyverse.org&#34;&gt;source code&lt;/a&gt; for the site didn’t make it easy for me to copy the &lt;em&gt;structure&lt;/em&gt; of the site and edit only the &lt;em&gt;content&lt;/em&gt; of the site. This is one of the real strengths of Hugo, so I embarked on a learning adventure.&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe src=&#34;https://giphy.com/embed/VGG8UY1nEl66Y&#34; width=&#34;480&#34; height=&#34;392&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;
+&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://giphy.com/gifs/adventure-latin-flinch-VGG8UY1nEl66Y&#34;&gt;via GIPHY&lt;/a&gt;
+&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;As a result, I have been living and breathing Hugo lately. As in, my husband now recognizes &lt;a href=&#34;https://www.mikedane.com/&#34;&gt;Mike Dane’s voice&lt;/a&gt;. You may not have have met Mike yet, but he appears in all the video tutorials in the &lt;a href=&#34;https://gohugo.io/documentation/&#34;&gt;Hugo docs&lt;/a&gt;. His screencasts have been really helpful to me, like this &lt;a href=&#34;https://gohugo.io/templates/introduction/&#34;&gt;one on templating&lt;/a&gt;. I’ve also spent a lot of time actually reading the &lt;a href=&#34;https://gohugo.io/documentation/&#34;&gt;docs&lt;/a&gt; (which are pretty good!), reading posts and answers on the &lt;a href=&#34;https://discourse.gohugo.io/&#34;&gt;Hugo discourse community site&lt;/a&gt;, and spelunking around inside the actual source code for two very well structured Hugo sites:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;The actual &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; site: &lt;a href=&#34;https://github.com/gohugoio/hugoDocs&#34; class=&#34;uri&#34;&gt;https://github.com/gohugoio/hugoDocs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://ropensci.org/&#34;&gt;rOpenSci&lt;/a&gt; site: &lt;a href=&#34;https://github.com/ropensci/roweb2&#34; class=&#34;uri&#34;&gt;https://github.com/ropensci/roweb2&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I’ll be using this post and other later posts to share some of the things I’ve learned about Hugo along the way. Mainly breadcrumbs to myself, but I hope these help other people too.&lt;/p&gt;
+&lt;p&gt;For reference, I’m using Hugo via the &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;blogdown R package&lt;/a&gt;, and within the &lt;a href=&#34;https://www.rstudio.com/products/rstudio/#Desktop&#34;&gt;RStudio IDE&lt;/a&gt;. These are my &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;blogdown&lt;/a&gt; and Hugo versions:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;packageVersion(&amp;quot;blogdown&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] &amp;#39;0.12.1&amp;#39;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;blogdown::hugo_version()&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] &amp;#39;0.55.6&amp;#39;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;tldr-a-teaspoon-of-archetypes&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;tl;dr: A Teaspoon of Archetypes&lt;/h1&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Add custom archetypes as &lt;code&gt;.md&lt;/code&gt; files to your project root directory (do &lt;em&gt;not&lt;/em&gt; touch the &lt;code&gt;archetypes&lt;/code&gt; folder in your &lt;code&gt;themes/archetypes&lt;/code&gt; folder).
+&lt;ul&gt;
+&lt;li&gt;If you don’t have that as an empty folder in your project root, make one, then add your archetype files to it.&lt;/li&gt;
+&lt;li&gt;If you are making a new blogdown site, I recommend using &lt;a href=&#34;https://arm.rbind.io/slides/blogdown.html#start-here&#34;&gt;these options&lt;/a&gt; to &lt;strong&gt;keep your empty directories&lt;/strong&gt;&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(blogdown)
+new_site(theme = &amp;quot;jpescador/hugo-future-imperfect&amp;quot;, 
+         sample = TRUE, 
+         theme_example = TRUE, 
+         empty_dirs = TRUE, # this!
+         to_yaml = TRUE)&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:proj-wizard&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;https://arm.rbind.io/slides/img/blogdown-workflow-wizard.png&#34; alt=&#34;Using the RStudio Project Wizard&#34;  /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: Using the RStudio Project Wizard
+&lt;/p&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Use the “New Post” Addin in RStudio to create &lt;strong&gt;any and all&lt;/strong&gt; new content for your site (not just &lt;em&gt;posts&lt;/em&gt;!). Be sure to use the handy dropdown menu to select from all the possible archetypes. Also, careful about the subdirectory here- some themes use &lt;em&gt;blog&lt;/em&gt;, others use &lt;em&gt;news&lt;/em&gt;, &lt;em&gt;articles&lt;/em&gt;, or &lt;em&gt;posts&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://arm.rbind.io/slides/img/blogdown-newpost-bundle.png&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;Your archetypes, while only markdown files, &lt;em&gt;can&lt;/em&gt; include R code. When you use the Addin, be sure to choose &lt;code&gt;R Markdown (.Rmd)&lt;/code&gt; as the format so that you can run the code.
+&lt;ul&gt;
+&lt;li&gt;Don’t miss this &lt;a href=&#34;http://lcolladotor.github.io/2018/03/08/blogdown-archetype-template/&#34;&gt;great blog post&lt;/a&gt; by my friend and the great educator &lt;a href=&#34;https://twitter.com/fellgernon&#34;&gt;Leo Collado-Torres&lt;/a&gt; on archetypes.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div id=&#34;a-tablespoon-of-archetypes&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;A Tablespoon of Archetypes&lt;/h1&gt;
+&lt;p&gt;One of the easiest things you can do for yourself is customize your site’s archetypes. From the &lt;a href=&#34;https://gohugo.io/content-management/archetypes/&#34;&gt;Hugo docs&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Archetypes are templates used when creating new content.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Right away when I cloned the tidyverse site, I noticed that there were instructions for how to contribute a new article (or blog post) in the &lt;a href=&#34;https://github.com/tidyverse/tidyverse.org/blob/c0eb070017cab794029b8ed3ac518f6e1a245a2b/README.md&#34;&gt;&lt;code&gt;README.md&lt;/code&gt;&lt;/a&gt; and in a separate &lt;a href=&#34;https://github.com/tidyverse/tidyverse.org/blob/c0eb070017cab794029b8ed3ac518f6e1a245a2b/CONTRIBUTING.md&#34;&gt;&lt;code&gt;CONTRIBUTING.md&lt;/code&gt;&lt;/a&gt; file. Then I noticed this &lt;a href=&#34;https://github.com/tidyverse/tidyverse.org/issues/113&#34;&gt;open GitHub issue&lt;/a&gt; from &lt;a href=&#34;https://twitter.com/dataandme&#34;&gt;Mara Averick&lt;/a&gt; (the tidyverse developer advocate) titled “Fix README/CONTRIBUTING so there’s one source of mechanical info?”.&lt;/p&gt;
+&lt;p&gt;I also noticed that there was no project root folder called &lt;code&gt;archetypes&lt;/code&gt;, which is where you would store your custom site archetype files as &lt;code&gt;.md&lt;/code&gt; files. In fact, there is no &lt;strong&gt;theme&lt;/strong&gt; folder as you might expect either, which is where you could view the default theme archetypes. Let’s look at some from other Hugo themes:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;The default Hugo theme for blogdown, &lt;a href=&#34;https://github.com/yihui/hugo-lithium&#34;&gt;Lithium&lt;/a&gt;, has just one archetype: &lt;a href=&#34;https://github.com/yihui/hugo-lithium/tree/master/archetypes&#34;&gt;&lt;code&gt;default.md&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;pre class=&#34;yaml&#34;&gt;&lt;code&gt;---
+title: &amp;#39;&amp;#39;
+date: &amp;#39;&amp;#39;
+---&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;In contrast, the &lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34;&gt;Hugo Academic theme&lt;/a&gt; has A LOT: &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/archetypes&#34; class=&#34;uri&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/archetypes&lt;/a&gt;; here is the content of the one for new posts:&lt;/p&gt;
+&lt;pre class=&#34;toml&#34;&gt;&lt;code&gt;+++
+title = &amp;quot;{{ replace .Name &amp;quot;-&amp;quot; &amp;quot; &amp;quot; | title }}&amp;quot;
+subtitle = &amp;quot;&amp;quot;
+
+# Add a summary to display on homepage (optional).
+summary = &amp;quot;&amp;quot;
+
+date = {{ .Date }}
+draft = false
+
+# Authors. Comma separated list, e.g. `[&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]`.
+authors = []
+
+# Tags and categories
+# For example, use `tags = []` for no tags, or the form `tags = [&amp;quot;A Tag&amp;quot;, &amp;quot;Another Tag&amp;quot;]` for one or more tags.
+tags = []
+categories = []
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project&amp;#39;s folder or file name without extension.
+#   E.g. `projects = [&amp;quot;deep-learning&amp;quot;]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+# projects = [&amp;quot;internal-project&amp;quot;]
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page&amp;#39;s folder. 
+[image]
+  # Caption (optional)
+  caption = &amp;quot;&amp;quot;
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = &amp;quot;&amp;quot;
++++&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A quick note: you may have noticed differences in both the content between these two files but also the structure. The first is a &lt;a href=&#34;https://learnxinyminutes.com/docs/yaml/&#34;&gt;YAML file&lt;/a&gt;, the second is a &lt;a href=&#34;https://learnxinyminutes.com/docs/toml/&#34;&gt;TOML file&lt;/a&gt;. For blogdown users, you may want to use YAML. This is also why I recommend when you set up your site to use the &lt;code&gt;to_yaml = TRUE&lt;/code&gt; option (in the Project Wizard from figure &lt;a href=&#34;#fig:proj-wizard&#34;&gt;1&lt;/a&gt;, check the “Convert all metadata to YAML” box; otherwise, the exampleSite will contain TOML instead of YAML)&lt;a href=&#34;#fn2&#34; class=&#34;footnote-ref&#34; id=&#34;fnref2&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you read the original tidyverse &lt;a href=&#34;https://github.com/tidyverse/tidyverse.org/blob/c0eb070017cab794029b8ed3ac518f6e1a245a2b/CONTRIBUTING.md&#34;&gt;&lt;code&gt;CONTRIBUTING.md&lt;/code&gt;&lt;/a&gt; file, the instructions include a fair bit of R code that I would guess means a lot of copying and pasting into new posts. For example, the R Markdown setup chunk and the code for using &lt;code&gt;usethis::use_tidy_thanks()&lt;/code&gt; for package releases. I studied the contributing guidelines, and parsed three different “kinds” of articles that are commonly contributed, each with a different archetype:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;The &lt;code&gt;default.md&lt;/code&gt;- this is just for plain old markdown posts and basically sets up the YAML of the post to be the same as it is now (currently, there is no archetype dictating the content- it is pulling from a project-level &lt;a href=&#34;https://github.com/tidyverse/tidyverse.org/blob/master/.Rprofile&#34;&gt;.Rprofile&lt;/a&gt;).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A &lt;code&gt;default-rmarkdown.md&lt;/code&gt; which should only be used with an R Markdown post and provides only the setup chunk at the top.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A &lt;code&gt;package-release.md&lt;/code&gt; which also should only be used with an R Markdown post and adds the &lt;code&gt;usethis::use_tidy_thanks()&lt;/code&gt; code chunk (this is pseudo-code so the default chunk option is set to &lt;code&gt;eval = FALSE&lt;/code&gt;).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;So I drafted a &lt;a href=&#34;https://github.com/tidyverse/tidyverse.org/pull/271&#34;&gt;pull request&lt;/a&gt; that adds &lt;a href=&#34;https://github.com/tidyverse/tidyverse.org/pull/271/commits/26a07ae881e57607e25ef0add77d0f5958a9c143&#34;&gt;these three archetypes&lt;/a&gt; to the &lt;a href=&#34;https://github.com/tidyverse/tidyverse.org&#34;&gt;GitHub repository&lt;/a&gt; for the &lt;a href=&#34;https://www.tidyverse.org/&#34;&gt;tidyverse.org&lt;/a&gt;. Here is the “after” Addin view:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;archetypes-after.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Here’s hoping Hugo archetypes make some things about adding new content to your site easier. There is no Hugo involved, other than realizing that Hugo will look first in your &lt;code&gt;themes/&amp;lt;THEME-NAME&amp;gt;/archetypes/&lt;/code&gt; folder, then in your project root &lt;code&gt;archetypes/&lt;/code&gt; folder next. &lt;a href=&#34;https://twitter.com/apreshill/status/1083791211222073344&#34;&gt;DO&lt;/a&gt; &lt;a href=&#34;https://twitter.com/apreshill/status/1078494406301212672&#34;&gt;NOT&lt;/a&gt; &lt;a href=&#34;https://arm.rbind.io/slides/blogdown.html#35&#34;&gt;TOUCH&lt;/a&gt; any files in your &lt;code&gt;themes/&lt;/code&gt; directory.&lt;a href=&#34;#fn3&#34; class=&#34;footnote-ref&#34; id=&#34;fnref3&#34;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You may want to set up archetypes for your blogdown site if you have a “signature” R setup chunk that loads your preferred &lt;code&gt;knitr&lt;/code&gt; chunk options, common libraries you always load at setup like &lt;code&gt;tidyverse&lt;/code&gt;, &lt;code&gt;ggplot2&lt;/code&gt; themes you prefer (&lt;code&gt;theme_minimal()&lt;/code&gt; FTW), etc. This may be especially helpful if you have multiple team members contributing to a single site and you want their posts to have a uniform setup. Then archetypes can be a real time- and sanity-saver. Get more ideas from Leo’s &lt;a href=&#34;http://lcolladotor.github.io/2018/03/08/blogdown-archetype-template/&#34;&gt;blog post&lt;/a&gt; on archetypes. You &lt;em&gt;can&lt;/em&gt; also make &lt;a href=&#34;https://gohugo.io/content-management/archetypes/#directory-based-archetypes&#34;&gt;directory based archetypes&lt;/a&gt; if you use Hugo page bundles, which is a topic of a future post.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;These setup options are newish to the blogdown package: &lt;a href=&#34;https://github.com/rstudio-education/arm-workshop-rsc2019/issues/8&#34; class=&#34;uri&#34;&gt;https://github.com/rstudio-education/arm-workshop-rsc2019/issues/8&lt;/a&gt;&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn2&#34;&gt;&lt;p&gt;If you end up with TOML in your content files, run this R code: &lt;code&gt;hugo_convert(to = &amp;quot;YAML&amp;quot;, unsafe = TRUE)&lt;/code&gt;&lt;a href=&#34;#fnref2&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn3&#34;&gt;&lt;p&gt;Trust me on this one- if you ever want to update your site this will make that process way harder.&lt;a href=&#34;#fnref3&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meet blogdown</title>
+      <link>/talk/2019-rsc-blogdown/</link>
+      <pubDate>Tue, 15 Jan 2019 16:00:00 +0000</pubDate>
+      <guid>/talk/2019-rsc-blogdown/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Meet bookdown</title>
+      <link>/talk/2019-rsc-bookdown/</link>
+      <pubDate>Tue, 15 Jan 2019 14:00:00 +0000</pubDate>
+      <guid>/talk/2019-rsc-bookdown/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Meet flexdashboard</title>
+      <link>/talk/2019-rsc-flexdashboard/</link>
+      <pubDate>Tue, 15 Jan 2019 11:00:00 +0000</pubDate>
+      <guid>/talk/2019-rsc-flexdashboard/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Meet xaringan</title>
+      <link>/talk/2019-rsc-xaringan/</link>
+      <pubDate>Tue, 15 Jan 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/2019-rsc-xaringan/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Read Data with Multiple Header Rows into R</title>
+      <link>/post/2018-02-23-read-multiple-header-rows/</link>
+      <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-02-23-read-multiple-header-rows/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    A shorter version of this blog post now appears as an &lt;a href=&#34;https://readxl.tidyverse.org/articles/articles/multiple-header-rows.html&#34;&gt;article vignette&lt;/a&gt; for the &lt;code&gt;readxl&lt;/code&gt; package, thank you to &lt;a href=&#34;https://jennybryan.org/&#34;&gt;Jenny Bryan&lt;/a&gt; for the &lt;a href=&#34;https://twitter.com/JennyBryan/status/1016442080636235776&#34;&gt;invitation&lt;/a&gt;!
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;A problem I run up against a lot when working with other people’s data is having multiple header rows in the source data file. I like to use &lt;code&gt;readr&lt;/code&gt; functions to read in rectangular data like &lt;code&gt;.csv&lt;/code&gt; and &lt;code&gt;.tsv&lt;/code&gt; files, but if you skip rows at import using the &lt;code&gt;skip&lt;/code&gt; argument, you lose the header row as well, which usually has column names. The problem I often have is that the header row has column names that I want to keep, but I’d like to skip the second row (or more), which has some junk in it. Usually this row is some kind of data dictionary inserted between the row of column names and the actual data.&lt;/p&gt;
+&lt;p&gt;In this post, I’ll walk through a solution to this problem, using the &lt;code&gt;readr&lt;/code&gt; package. You can also watch along in the video.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Mayf_XhsQDE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Warning!: I made a mistake when I said &lt;code&gt;readr&lt;/code&gt; uses the first 100 rows of your data to predict column types- it uses the first 1000 rows.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;svg style=&#34;height:0.8em;top:.04em;position:relative;fill:#ee5863;&#34; viewBox=&#34;0 0 512 512&#34;&gt;
+&lt;path d=&#34;M216 0h80c13.3 0 24 10.7 24 24v168h87.7c17.8 0 26.7 21.5 14.1 34.1L269.7 378.3c-7.5 7.5-19.8 7.5-27.3 0L90.1 226.1c-12.6-12.6-3.7-34.1 14.1-34.1H192V24c0-13.3 10.7-24 24-24zm296 376v112c0 13.3-10.7 24-24 24H24c-13.3 0-24-10.7-24-24V376c0-13.3 10.7-24 24-24h146.7l49 49c20.1 20.1 52.5 20.1 72.6 0l49-49H488c13.3 0 24 10.7 24 24zm-124 88c0-11-9-20-20-20s-20 9-20 20 9 20 20 20 20-9 20-20zm64 0c0-11-9-20-20-20s-20 9-20 20 9 20 20 20 20-9 20-20z&#34;/&gt;
+&lt;/svg&gt;
+&lt;a href=&#34;data:text/csv;base64,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&#34; download=&#34;stickers.csv&#34;&gt;Download stickers.csv&lt;/a&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;being-sticker-rich&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Being sticker rich&lt;/h1&gt;
+&lt;p&gt;This dataset is from an article published in PLOS ONE called &lt;a href=&#34;http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0138928&#34;&gt;“Being Sticker Rich: Numerical Context Influences Children’s Sharing Behavior”&lt;/a&gt;. In this study, children (ages 3–11) received a small (12, “sticker poor”) or large (30, “sticker rich”) number of stickers, and were then given the opportunity to share their windfall with either one or multiple anonymous recipients. This type of experimental design is a version of the &lt;a href=&#34;https://en.wikipedia.org/wiki/Dictator_game&#34;&gt;Dictator Game&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;stickers-plos-one.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The main research questions the authors explored were: do the number of available resources and/or the number of potential recipients alter the likelihood of a child donating and/or the amount they donate? But, in order to answer this question, we have to be able to read in the data! Luckily, these lovely developmental psychologists opted to share their data on the &lt;a href=&#34;https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LHAQ5W&#34;&gt;Harvard Dataverse&lt;/a&gt; as a tab-delimited file.&lt;/p&gt;
+&lt;p&gt;If you download the file, you can open it up in a plain text editor.
+&lt;img src=&#34;stickers-txt.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;You can also open it with Microsoft Excel.
+&lt;img src=&#34;stickers-table.png&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;read-in-the-file&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Read in the file&lt;/h1&gt;
+&lt;p&gt;Let’s start by creating a variable called &lt;code&gt;link&lt;/code&gt; to store the link to the data file.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# create variable to store url
+link &amp;lt;- &amp;quot;https://dataverse.harvard.edu/api/access/datafile/2712105&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The file has a &lt;code&gt;.tab&lt;/code&gt; extension, so we know it is tab-delimited. This means that the right &lt;code&gt;readr&lt;/code&gt; function for reading this file is &lt;code&gt;read_tsv&lt;/code&gt;. Since we stored our link already as a character string, that is the only argument to the &lt;code&gt;read_tsv&lt;/code&gt; function.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#install.packages(&amp;quot;readr&amp;quot;)
+library(readr) # load the readr package
+stickers &amp;lt;- read_tsv(link) 
+# spec()&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now, we know the second row of data is wonky, but how can we see that in R? There are a number of ways we can go spelunking around into our data file. The easiest to print it. Since we used &lt;code&gt;readr&lt;/code&gt;, we have a tibble, which nicely prints to screen.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;stickers&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;# # A tibble: 402 x 18
+#    SubjectNumber Condition NumberStickers NumberEnvelopes Gender Agemonths
+#    &amp;lt;chr&amp;gt;         &amp;lt;chr&amp;gt;     &amp;lt;chr&amp;gt;          &amp;lt;chr&amp;gt;           &amp;lt;chr&amp;gt;      &amp;lt;dbl&amp;gt;
+#  1 [Included Sa… 1=12:1; … 1=12; 2=30     1=1 recipient;… 1=fem…        NA
+#  2 1             1         1              1               1             36
+#  3 2             1         1              1               2             36
+#  4 3             1         1              1               2             36
+#  5 4             1         1              1               1             36
+#  6 5             1         1              1               2             36
+#  7 6             1         1              1               2             36
+#  8 7             2         1              2               1             36
+#  9 8             2         1              2               2             36
+# 10 9             3         2              1               2             36
+# # … with 392 more rows, and 12 more variables: Ageyears &amp;lt;dbl&amp;gt;,
+# #   Agegroups &amp;lt;chr&amp;gt;, `Subject&amp;#39;sEnvelope` &amp;lt;chr&amp;gt;, LeftEnvelope &amp;lt;chr&amp;gt;,
+# #   RightEnvelope &amp;lt;chr&amp;gt;,
+# #   `absolutenumberofstickersgiven(Conditions1or3:Outof12;Conditions2or4:Outof30)` &amp;lt;chr&amp;gt;,
+# #   `PercentGiven(Outof100percent)` &amp;lt;chr&amp;gt;, Giveornot &amp;lt;chr&amp;gt;,
+# #   LargerEnvelopeabs &amp;lt;chr&amp;gt;, LargeEnvelopepercent &amp;lt;chr&amp;gt;,
+# #   SmallerEnvelopeabs &amp;lt;chr&amp;gt;, SmallEnvelopepercent &amp;lt;chr&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Unfortunately, &lt;code&gt;dplyr::glimpse&lt;/code&gt; can’t help us much, because we have one variable name that is ridiculously long (&lt;code&gt;absolutenumberofstickersgiven(Conditions1or3:Outof12;Conditions2or4:Outof30)&lt;/code&gt;). We’ll fix that with &lt;code&gt;dplyr::rename&lt;/code&gt;.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(dplyr)
+glimpse(stickers)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;# Observations: 402
+# Variables: 18
+# $ SubjectNumber                                                                  &amp;lt;chr&amp;gt; …
+# $ Condition                                                                      &amp;lt;chr&amp;gt; …
+# $ NumberStickers                                                                 &amp;lt;chr&amp;gt; …
+# $ NumberEnvelopes                                                                &amp;lt;chr&amp;gt; …
+# $ Gender                                                                         &amp;lt;chr&amp;gt; …
+# $ Agemonths                                                                      &amp;lt;dbl&amp;gt; …
+# $ Ageyears                                                                       &amp;lt;dbl&amp;gt; …
+# $ Agegroups                                                                      &amp;lt;chr&amp;gt; …
+# $ `Subject&amp;#39;sEnvelope`                                                            &amp;lt;chr&amp;gt; …
+# $ LeftEnvelope                                                                   &amp;lt;chr&amp;gt; …
+# $ RightEnvelope                                                                  &amp;lt;chr&amp;gt; …
+# $ `absolutenumberofstickersgiven(Conditions1or3:Outof12;Conditions2or4:Outof30)` &amp;lt;chr&amp;gt; …
+# $ `PercentGiven(Outof100percent)`                                                &amp;lt;chr&amp;gt; …
+# $ Giveornot                                                                      &amp;lt;chr&amp;gt; …
+# $ LargerEnvelopeabs                                                              &amp;lt;chr&amp;gt; …
+# $ LargeEnvelopepercent                                                           &amp;lt;chr&amp;gt; …
+# $ SmallerEnvelopeabs                                                             &amp;lt;chr&amp;gt; …
+# $ SmallEnvelopepercent                                                           &amp;lt;chr&amp;gt; …&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;More options:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;head(stickers)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;# # A tibble: 6 x 18
+#   SubjectNumber Condition NumberStickers NumberEnvelopes Gender Agemonths
+#   &amp;lt;chr&amp;gt;         &amp;lt;chr&amp;gt;     &amp;lt;chr&amp;gt;          &amp;lt;chr&amp;gt;           &amp;lt;chr&amp;gt;      &amp;lt;dbl&amp;gt;
+# 1 [Included Sa… 1=12:1; … 1=12; 2=30     1=1 recipient;… 1=fem…        NA
+# 2 1             1         1              1               1             36
+# 3 2             1         1              1               2             36
+# 4 3             1         1              1               2             36
+# 5 4             1         1              1               1             36
+# 6 5             1         1              1               2             36
+# # … with 12 more variables: Ageyears &amp;lt;dbl&amp;gt;, Agegroups &amp;lt;chr&amp;gt;,
+# #   `Subject&amp;#39;sEnvelope` &amp;lt;chr&amp;gt;, LeftEnvelope &amp;lt;chr&amp;gt;, RightEnvelope &amp;lt;chr&amp;gt;,
+# #   `absolutenumberofstickersgiven(Conditions1or3:Outof12;Conditions2or4:Outof30)` &amp;lt;chr&amp;gt;,
+# #   `PercentGiven(Outof100percent)` &amp;lt;chr&amp;gt;, Giveornot &amp;lt;chr&amp;gt;,
+# #   LargerEnvelopeabs &amp;lt;chr&amp;gt;, LargeEnvelopepercent &amp;lt;chr&amp;gt;,
+# #   SmallerEnvelopeabs &amp;lt;chr&amp;gt;, SmallEnvelopepercent &amp;lt;chr&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;tail(stickers)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;# # A tibble: 6 x 18
+#   SubjectNumber Condition NumberStickers NumberEnvelopes Gender Agemonths
+#   &amp;lt;chr&amp;gt;         &amp;lt;chr&amp;gt;     &amp;lt;chr&amp;gt;          &amp;lt;chr&amp;gt;           &amp;lt;chr&amp;gt;      &amp;lt;dbl&amp;gt;
+# 1 396           1         1              1               2            136
+# 2 397           4         2              2               1            136
+# 3 398           1         1              1               1            137
+# 4 399           1         1              1               2            137
+# 5 400           4         2              2               2            139
+# 6 401           3         2              1               1            143
+# # … with 12 more variables: Ageyears &amp;lt;dbl&amp;gt;, Agegroups &amp;lt;chr&amp;gt;,
+# #   `Subject&amp;#39;sEnvelope` &amp;lt;chr&amp;gt;, LeftEnvelope &amp;lt;chr&amp;gt;, RightEnvelope &amp;lt;chr&amp;gt;,
+# #   `absolutenumberofstickersgiven(Conditions1or3:Outof12;Conditions2or4:Outof30)` &amp;lt;chr&amp;gt;,
+# #   `PercentGiven(Outof100percent)` &amp;lt;chr&amp;gt;, Giveornot &amp;lt;chr&amp;gt;,
+# #   LargerEnvelopeabs &amp;lt;chr&amp;gt;, LargeEnvelopepercent &amp;lt;chr&amp;gt;,
+# #   SmallerEnvelopeabs &amp;lt;chr&amp;gt;, SmallEnvelopepercent &amp;lt;chr&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;names(stickers)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;#  [1] &amp;quot;SubjectNumber&amp;quot;                                                               
+#  [2] &amp;quot;Condition&amp;quot;                                                                   
+#  [3] &amp;quot;NumberStickers&amp;quot;                                                              
+#  [4] &amp;quot;NumberEnvelopes&amp;quot;                                                             
+#  [5] &amp;quot;Gender&amp;quot;                                                                      
+#  [6] &amp;quot;Agemonths&amp;quot;                                                                   
+#  [7] &amp;quot;Ageyears&amp;quot;                                                                    
+#  [8] &amp;quot;Agegroups&amp;quot;                                                                   
+#  [9] &amp;quot;Subject&amp;#39;sEnvelope&amp;quot;                                                           
+# [10] &amp;quot;LeftEnvelope&amp;quot;                                                                
+# [11] &amp;quot;RightEnvelope&amp;quot;                                                               
+# [12] &amp;quot;absolutenumberofstickersgiven(Conditions1or3:Outof12;Conditions2or4:Outof30)&amp;quot;
+# [13] &amp;quot;PercentGiven(Outof100percent)&amp;quot;                                               
+# [14] &amp;quot;Giveornot&amp;quot;                                                                   
+# [15] &amp;quot;LargerEnvelopeabs&amp;quot;                                                           
+# [16] &amp;quot;LargeEnvelopepercent&amp;quot;                                                        
+# [17] &amp;quot;SmallerEnvelopeabs&amp;quot;                                                          
+# [18] &amp;quot;SmallEnvelopepercent&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# View()&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now we are ready to diagnose the problem!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;: the first row is not really data. It is metadata about the variables, and it is screwing up &lt;strong&gt;readr&lt;/strong&gt;’s ability to predict our column types.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Solution&lt;/strong&gt;: we’ll use &lt;strong&gt;readr&lt;/strong&gt; and the &lt;code&gt;read_tsv()&lt;/code&gt; function to read in the data twice. In Step 1, we’ll create a character vector of the column names only. In Step 2, we’ll read in the actual data and skip the multiple header rows at the top. When we do this, we lose the column names, so we use the character vector of column names we created in Step 1 instead.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;read-in-the-file-again&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Read in the file (again)&lt;/h1&gt;
+&lt;div id=&#34;step-1&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Step 1&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Goal&lt;/strong&gt;: we want to read in the first row only and save it as a character vector called &lt;code&gt;sticker_names&lt;/code&gt;. This row contains the correct column names that we’ll need in Step 2.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;sticker_names &amp;lt;- link %&amp;gt;% 
+  read_tsv(n_max = 0) %&amp;gt;% # default: col_names = TRUE
+  rename(stickersgiven = &amp;#39;absolutenumberofstickersgiven(Conditions1or3:Outof12;Conditions2or4:Outof30)&amp;#39;) %&amp;gt;% 
+  names()
+sticker_names&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;#  [1] &amp;quot;SubjectNumber&amp;quot;                 &amp;quot;Condition&amp;quot;                    
+#  [3] &amp;quot;NumberStickers&amp;quot;                &amp;quot;NumberEnvelopes&amp;quot;              
+#  [5] &amp;quot;Gender&amp;quot;                        &amp;quot;Agemonths&amp;quot;                    
+#  [7] &amp;quot;Ageyears&amp;quot;                      &amp;quot;Agegroups&amp;quot;                    
+#  [9] &amp;quot;Subject&amp;#39;sEnvelope&amp;quot;             &amp;quot;LeftEnvelope&amp;quot;                 
+# [11] &amp;quot;RightEnvelope&amp;quot;                 &amp;quot;stickersgiven&amp;quot;                
+# [13] &amp;quot;PercentGiven(Outof100percent)&amp;quot; &amp;quot;Giveornot&amp;quot;                    
+# [15] &amp;quot;LargerEnvelopeabs&amp;quot;             &amp;quot;LargeEnvelopepercent&amp;quot;         
+# [17] &amp;quot;SmallerEnvelopeabs&amp;quot;            &amp;quot;SmallEnvelopepercent&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;glimpse(sticker_names)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;#  chr [1:18] &amp;quot;SubjectNumber&amp;quot; &amp;quot;Condition&amp;quot; &amp;quot;NumberStickers&amp;quot; ...&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;step-2&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Step 2&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Goal&lt;/strong&gt;: we want to read in all the rows &lt;em&gt;except&lt;/em&gt; for the first two rows, which contained the variable names and variable descriptions. We want to save this as &lt;code&gt;stickers&lt;/code&gt;, and set the column names to the &lt;code&gt;sticker_names&lt;/code&gt; object we created in Step 1.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;stickers &amp;lt;- link %&amp;gt;% 
+  read_tsv(skip = 2, col_names = sticker_names)
+glimpse(stickers)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;# Observations: 401
+# Variables: 18
+# $ SubjectNumber                   &amp;lt;dbl&amp;gt; 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 1…
+# $ Condition                       &amp;lt;dbl&amp;gt; 1, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3,…
+# $ NumberStickers                  &amp;lt;dbl&amp;gt; 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2,…
+# $ NumberEnvelopes                 &amp;lt;dbl&amp;gt; 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1,…
+# $ Gender                          &amp;lt;dbl&amp;gt; 1, 2, 2, 1, 2, 2, 1, 2, 2, 2, 2,…
+# $ Agemonths                       &amp;lt;dbl&amp;gt; 36, 36, 36, 36, 36, 36, 36, 36, …
+# $ Ageyears                        &amp;lt;dbl&amp;gt; 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3,…
+# $ Agegroups                       &amp;lt;dbl&amp;gt; 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,…
+# $ `Subject&amp;#39;sEnvelope`             &amp;lt;dbl&amp;gt; 7, 12, 4, 7, 12, 8, 8, 11, 26, 3…
+# $ LeftEnvelope                    &amp;lt;dbl&amp;gt; 5, 0, 8, 5, 0, 4, 2, 1, 4, 0, 18…
+# $ RightEnvelope                   &amp;lt;dbl&amp;gt; NA, NA, NA, NA, NA, NA, 2, 0, NA…
+# $ stickersgiven                   &amp;lt;dbl&amp;gt; 5, 0, 8, 5, 0, 4, 4, 1, 4, 0, 18…
+# $ `PercentGiven(Outof100percent)` &amp;lt;dbl&amp;gt; 0.42, 0.00, 0.67, 0.42, 0.00, 0.…
+# $ Giveornot                       &amp;lt;dbl&amp;gt; 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1,…
+# $ LargerEnvelopeabs               &amp;lt;dbl&amp;gt; NA, NA, NA, NA, NA, NA, 2, 1, NA…
+# $ LargeEnvelopepercent            &amp;lt;dbl&amp;gt; NA, NA, NA, NA, NA, NA, 0.500000…
+# $ SmallerEnvelopeabs              &amp;lt;dbl&amp;gt; NA, NA, NA, NA, NA, NA, 2, 0, NA…
+# $ SmallEnvelopepercent            &amp;lt;dbl&amp;gt; NA, NA, NA, NA, NA, NA, 0.500000…&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;fin&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Fin!&lt;/h1&gt;
+&lt;p&gt;All together now: the final solution!&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# load packages
+library(readr)
+library(dplyr)
+
+# create variable to store url
+link &amp;lt;- &amp;quot;https://dataverse.harvard.edu/api/access/datafile/2712105&amp;quot;
+
+# read in column names only
+sticker_names &amp;lt;- link %&amp;gt;% 
+  read_tsv(n_max = 0) %&amp;gt;% # default: col_names = TRUE
+  rename(stickersgiven = &amp;#39;absolutenumberofstickersgiven(Conditions1or3:Outof12;Conditions2or4:Outof30)&amp;#39;) %&amp;gt;% 
+  names()
+
+# read in data, set column names
+stickers &amp;lt;- link %&amp;gt;% 
+  read_tsv(skip = 2, col_names = sticker_names)&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;addendum&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Addendum&lt;/h1&gt;
+&lt;p&gt;For good measure, I would add a final step to everything above and use &lt;code&gt;janitor::clean_names()&lt;/code&gt; to put all the variable names into snake case. So my final final solution is here:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# load packages
+library(readr)
+library(dplyr)
+library(janitor)
+
+# create variable to store url
+link &amp;lt;- &amp;quot;https://dataverse.harvard.edu/api/access/datafile/2712105&amp;quot;
+
+# read in column names only
+sticker_names &amp;lt;- link %&amp;gt;% 
+  read_tsv(n_max = 0) %&amp;gt;% # default: col_names = TRUE
+  rename(stickersgiven = &amp;#39;absolutenumberofstickersgiven(Conditions1or3:Outof12;Conditions2or4:Outof30)&amp;#39;) %&amp;gt;% 
+  names()
+
+# read in data, set column names
+stickers &amp;lt;- link %&amp;gt;% 
+  read_tsv(skip = 2, col_names = sticker_names) %&amp;gt;% 
+  clean_names()&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;stickers&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;# # A tibble: 401 x 18
+#    subject_number condition number_stickers number_envelopes gender
+#             &amp;lt;dbl&amp;gt;     &amp;lt;dbl&amp;gt;           &amp;lt;dbl&amp;gt;            &amp;lt;dbl&amp;gt;  &amp;lt;dbl&amp;gt;
+#  1              1         1               1                1      1
+#  2              2         1               1                1      2
+#  3              3         1               1                1      2
+#  4              4         1               1                1      1
+#  5              5         1               1                1      2
+#  6              6         1               1                1      2
+#  7              7         2               1                2      1
+#  8              8         2               1                2      2
+#  9              9         3               2                1      2
+# 10             10         3               2                1      2
+# # … with 391 more rows, and 13 more variables: agemonths &amp;lt;dbl&amp;gt;,
+# #   ageyears &amp;lt;dbl&amp;gt;, agegroups &amp;lt;dbl&amp;gt;, subjects_envelope &amp;lt;dbl&amp;gt;,
+# #   left_envelope &amp;lt;dbl&amp;gt;, right_envelope &amp;lt;dbl&amp;gt;, stickersgiven &amp;lt;dbl&amp;gt;,
+# #   percent_given_outof100percent &amp;lt;dbl&amp;gt;, giveornot &amp;lt;dbl&amp;gt;,
+# #   larger_envelopeabs &amp;lt;dbl&amp;gt;, large_envelopepercent &amp;lt;dbl&amp;gt;,
+# #   smaller_envelopeabs &amp;lt;dbl&amp;gt;, small_envelopepercent &amp;lt;dbl&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;glimpse(stickers)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;# Observations: 401
+# Variables: 18
+# $ subject_number                &amp;lt;dbl&amp;gt; 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11,…
+# $ condition                     &amp;lt;dbl&amp;gt; 1, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 3…
+# $ number_stickers               &amp;lt;dbl&amp;gt; 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2…
+# $ number_envelopes              &amp;lt;dbl&amp;gt; 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1…
+# $ gender                        &amp;lt;dbl&amp;gt; 1, 2, 2, 1, 2, 2, 1, 2, 2, 2, 2, 1…
+# $ agemonths                     &amp;lt;dbl&amp;gt; 36, 36, 36, 36, 36, 36, 36, 36, 36…
+# $ ageyears                      &amp;lt;dbl&amp;gt; 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3…
+# $ agegroups                     &amp;lt;dbl&amp;gt; 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1…
+# $ subjects_envelope             &amp;lt;dbl&amp;gt; 7, 12, 4, 7, 12, 8, 8, 11, 26, 30,…
+# $ left_envelope                 &amp;lt;dbl&amp;gt; 5, 0, 8, 5, 0, 4, 2, 1, 4, 0, 18, …
+# $ right_envelope                &amp;lt;dbl&amp;gt; NA, NA, NA, NA, NA, NA, 2, 0, NA, …
+# $ stickersgiven                 &amp;lt;dbl&amp;gt; 5, 0, 8, 5, 0, 4, 4, 1, 4, 0, 18, …
+# $ percent_given_outof100percent &amp;lt;dbl&amp;gt; 0.42, 0.00, 0.67, 0.42, 0.00, 0.33…
+# $ giveornot                     &amp;lt;dbl&amp;gt; 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1…
+# $ larger_envelopeabs            &amp;lt;dbl&amp;gt; NA, NA, NA, NA, NA, NA, 2, 1, NA, …
+# $ large_envelopepercent         &amp;lt;dbl&amp;gt; NA, NA, NA, NA, NA, NA, 0.5000000,…
+# $ smaller_envelopeabs           &amp;lt;dbl&amp;gt; NA, NA, NA, NA, NA, NA, 2, 0, NA, …
+# $ small_envelopepercent         &amp;lt;dbl&amp;gt; NA, NA, NA, NA, NA, NA, 0.5000000,…&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;bonus-data-dictionary&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Bonus data dictionary&lt;/h1&gt;
+&lt;p&gt;As an extra bonus, when you do have extra header rows, you can create a data dictionary using the &lt;code&gt;gather()&lt;/code&gt; function from the &lt;strong&gt;tidyr&lt;/strong&gt; package.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(tidyr)
+stickers_dict &amp;lt;- read_tsv(link, n_max = 1) %&amp;gt;% 
+  rename(stickersgiven = &amp;#39;absolutenumberofstickersgiven(Conditions1or3:Outof12;Conditions2or4:Outof30)&amp;#39;) %&amp;gt;% 
+  clean_names() %&amp;gt;% 
+  gather(variable_name, variable_description)
+stickers_dict&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;# # A tibble: 18 x 2
+#    variable_name           variable_description                            
+#    &amp;lt;chr&amp;gt;                   &amp;lt;chr&amp;gt;                                           
+#  1 subject_number          [Included Sample Only]                          
+#  2 condition               1=12:1; 2=12:2, 3=30:1, 4=30:2                  
+#  3 number_stickers         1=12; 2=30                                      
+#  4 number_envelopes        1=1 recipient; 2=2 recipients                   
+#  5 gender                  1=female; 2=male                                
+#  6 agemonths               &amp;lt;NA&amp;gt;                                            
+#  7 ageyears                &amp;lt;NA&amp;gt;                                            
+#  8 agegroups               1=3-4yrs; 2=5-6yrs; 3=7-8yrs; 4=9-11yrs         
+#  9 subjects_envelope       How many stickers did the child keep for themse…
+# 10 left_envelope           1 recipient conditions: How many stickers the s…
+# 11 right_envelope          1 recipient conditions: N/A; 2 recipient condit…
+# 12 stickersgiven           Regardless of condition, the number of stickers…
+# 13 percent_given_outof100… Regardless of condition, the proportion of stic…
+# 14 giveornot               1=Donated 1 or more stickers to the recipient(s…
+# 15 larger_envelopeabs      Raw number of stickers (out of 30: Condition 2 …
+# 16 large_envelopepercent   Proportion of stickers (out of 100%; Condition …
+# 17 smaller_envelopeabs     Raw number of stickers (out of 30: Condition 2 …
+# 18 small_envelopepercent   Proportion of stickers (out of 100%; Condition …&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;useful-resources&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Useful resources&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Great blog post from &lt;a href=&#34;https://twitter.com/lisadebruine&#34;&gt;Lisa DeBruine&lt;/a&gt; using &lt;code&gt;readxl&lt;/code&gt; to read in data with multiple header rows (including those with merged cells!): &lt;a href=&#34;https://debruine.github.io/multirow_headers.html&#34; class=&#34;uri&#34;&gt;https://debruine.github.io/multirow_headers.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;This GitHub issue with Hadley’s response that solved all my problems:
+&lt;a href=&#34;https://github.com/tidyverse/readr/issues/179&#34; class=&#34;uri&#34;&gt;https://github.com/tidyverse/readr/issues/179&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;My original tweet when I discovered this trick!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Neat &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/readr?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#readr&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/tidyverse?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#tidyverse&lt;/a&gt; solution to read data when 1st row is header + 2nd row is junk, thanks &lt;a href=&#34;https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw&#34;&gt;@hadleywickham&lt;/a&gt; &lt;a href=&#34;https://t.co/5TuH7vNaID&#34;&gt;https://t.co/5TuH7vNaID&lt;/a&gt; &lt;a href=&#34;https://t.co/woZ3HuECge&#34;&gt;pic.twitter.com/woZ3HuECge&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alison Presmanes Hill (@apreshill) &lt;a href=&#34;https://twitter.com/apreshill/status/904772340902379520?ref_src=twsrc%5Etfw&#34;&gt;September 4, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Magic with R: Creative Learning Beyond Fear</title>
+      <link>/talk/2018-cascadia-bigmagic/</link>
+      <pubDate>Sat, 02 Jun 2018 08:00:00 +0000</pubDate>
+      <guid>/talk/2018-cascadia-bigmagic/</guid>
+      <description>&lt;p&gt;Inspired by the book “Big Magic: Creative Living Beyond Fear” by Elizabeth Gilbert, Alison will talk about the five essential ingredients needed to creatively learn R and why these elements are also essential for advanced users to take their R skills to the next level. You will hear practical advice for when, where, and how to start a project in R, and how your learning can add value- both to your own knowledge and to contribute to the larger community of R learners. Along the way, she will share recommended resources and evidence-based strategies for project-based learning. Alison’s background working with both new and advanced R users gives her a unique perspective on this topic.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Subtyping cognitive profiles in Autism Spectrum Disorder using a random forest algorithm</title>
+      <link>/publication/2017-subtyping/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-subtyping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Presentation Ninja</title>
+      <link>/post/2017-12-18-r-ladies-presentation-ninja/</link>
+      <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-12-18-r-ladies-presentation-ninja/</guid>
+      <description>
+
+
+&lt;p&gt;So, you are doing an &lt;a href=&#34;https://rladies.org&#34;&gt;R-Ladies&lt;/a&gt; presentation…that’s awesome!&lt;/p&gt;
+&lt;div id=&#34;the-short-version&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;The short version&lt;/h1&gt;
+&lt;p&gt;I made an &lt;a href=&#34;https://rladies.org&#34;&gt;R-Ladies&lt;/a&gt; theme for &lt;a href=&#34;https://github.com/yihui/xaringan&#34;&gt;&lt;strong&gt;xaringan&lt;/strong&gt; slides&lt;/a&gt;. My original tweet about it:&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;if you want to use &lt;a href=&#34;https://twitter.com/xieyihui?ref_src=twsrc%5Etfw&#34;&gt;@xieyihui&lt;/a&gt;&amp;#39;s awesome &lt;a href=&#34;https://twitter.com/hashtag/xaringan?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#xaringan&lt;/a&gt; package for &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; slides but want more &lt;a href=&#34;https://twitter.com/hashtag/Rladies?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Rladies&lt;/a&gt; flavor, there is now a built-in theme for that (with code highlighting)! Thanks to the awesome &lt;a href=&#34;https://twitter.com/RLadiesGlobal?ref_src=twsrc%5Etfw&#34;&gt;@RLadiesGlobal&lt;/a&gt; starter kit. Update the CSS in your YAML to use  🧙🏽‍♀️🧞‍♀️ &lt;a href=&#34;https://t.co/YnlGSVAMsl&#34;&gt;pic.twitter.com/YnlGSVAMsl&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alison Presmanes Hill (@apreshill) &lt;a href=&#34;https://twitter.com/apreshill/status/935973869554487296?ref_src=twsrc%5Etfw&#34;&gt;November 29, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;The way to use the theme is to update the YAML like so:&lt;/p&gt;
+&lt;pre class=&#34;yaml&#34;&gt;&lt;code&gt;output:
+  xaringan::moon_reader:
+    css: [&amp;quot;default&amp;quot;, &amp;quot;rladies&amp;quot;, &amp;quot;rladies-fonts&amp;quot;]&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Make sure your version of &lt;strong&gt;xaringan&lt;/strong&gt; is up-to-date.&lt;/p&gt;
+&lt;p&gt;Below is a &lt;a href=&#34;https://alison.rbind.io/slides/rladies-demo-slides.html#1&#34;&gt;demo slide deck&lt;/a&gt; using the theme.&lt;/p&gt;
+&lt;iframe src=&#34;https://alison.rbind.io/slides/rladies-demo-slides.html#1&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;(view the &lt;a href=&#34;https://github.com/rbind/apreshill/blob/master/static/slides/rladies-demo-slides.Rmd&#34;&gt;source .Rmd on GitHub&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;the-longer-story&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;The longer story&lt;/h1&gt;
+&lt;p&gt;I recommend &lt;a href=&#34;https://yihui.name&#34;&gt;Yihui’s&lt;/a&gt; &lt;a href=&#34;https://github.com/yihui/xaringan&#34;&gt;&lt;strong&gt;xaringan&lt;/strong&gt; package&lt;/a&gt; for slides. This is an R package, available through GitHub, for creating slideshows with &lt;a href=&#34;https://remarkjs.com/&#34;&gt;remark.js&lt;/a&gt; through R Markdown. This means that you can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;write all your slides in Markdown text&lt;/li&gt;
+&lt;li&gt;include chunks of R code and rendered output like plots, results, tables, etc. in your slides&lt;/li&gt;
+&lt;li&gt;use git for version control and share your GitHub repository&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This makes &lt;a href=&#34;https://github.com/yihui/xaringan&#34;&gt;&lt;strong&gt;xaringan&lt;/strong&gt;&lt;/a&gt; ideal for an &lt;a href=&#34;https://rladies.org&#34;&gt;R-Ladies&lt;/a&gt; presentation!&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;To use the package, you’ll need the &lt;a href=&#34;https://cran.r-project.org/web/packages/devtools/index.html&#34;&gt;&lt;strong&gt;devtools&lt;/strong&gt; package&lt;/a&gt; installed so that you can use the &lt;code&gt;install_github&lt;/code&gt; function. Then do:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;devtools::install_github(&amp;#39;yihui/xaringan&amp;#39;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;As Yihui points out in the documentation, if you use RStudio, you can use the menu to navigate to &lt;code&gt;File -&amp;gt; New File -&amp;gt; R Markdown -&amp;gt; From Template -&amp;gt; Ninja Presentation&lt;/code&gt;, and you will see an R Markdown example.&lt;/p&gt;
+&lt;p&gt;I first used &lt;a href=&#34;https://github.com/yihui/xaringan&#34;&gt;&lt;strong&gt;xaringan&lt;/strong&gt;&lt;/a&gt; a few months ago. I was working with &lt;a href=&#34;https://yihui.name&#34;&gt;Yihui&lt;/a&gt; on the &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;blogdown book&lt;/a&gt;, and had signed up to lead a &lt;a href=&#34;https://alison.rbind.io/talk/blogdown-meetup/&#34;&gt;workshop&lt;/a&gt; for the &lt;a href=&#34;https://www.meetup.com/portland-r-user-group/&#34;&gt;Portland R User group&lt;/a&gt;. Obviously, such a workshop could not have powerpoint slides, so it seemed like the perfect time to learn &lt;a href=&#34;https://github.com/yihui/xaringan&#34;&gt;&lt;strong&gt;xaringan&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For my &lt;a href=&#34;https://alison.rbind.io/talk/blogdown-meetup/&#34;&gt;workshop&lt;/a&gt;, I made a simple website for the newly founded &lt;a href=&#34;https://rladies-pdx.rbind.io&#34;&gt;R-Ladies PDX&lt;/a&gt; using blogdown (Thanks to &lt;a href=&#34;https://twitter.com/mmmpork&#34;&gt;Augustina&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/deekshathati&#34;&gt;Deeksha&lt;/a&gt;, our fearless organizers). So naturally, my slides needed more purple.&lt;/p&gt;
+&lt;p&gt;Luckily, the R-Ladies run a tight ship- they have a &lt;a href=&#34;https://github.com/rladies/starter-kit&#34;&gt;starter kit on GitHub&lt;/a&gt; that details all the pretty purples they like.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;rladies-palette.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;About a month after I did the &lt;a href=&#34;https://alison.rbind.io/talk/blogdown-meetup/&#34;&gt;R-Ladies blogdown workshop&lt;/a&gt;, I saw this &lt;a href=&#34;https://yihui.name/en/2017/10/xaringan-themes/&#34;&gt;blog post&lt;/a&gt; by &lt;a href=&#34;https://yihui.name&#34;&gt;Yihui&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;yihui-xaringan-themes.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;First, I thought this was such a cool idea and I hope more people make and submit themes. Then I realized, I had already made a theme! I submitted a pull request&lt;a href=&#34;#fn2&#34; class=&#34;footnote-ref&#34; id=&#34;fnref2&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;, Yihui helped me make some edits to the CSS files to make them more parsimonious with the default theme, I electronically signed a contributor agreement, and now the theme is there for you all to enjoy and use! You use the theme by editing the YAML:&lt;/p&gt;
+&lt;pre class=&#34;yaml&#34;&gt;&lt;code&gt;output:
+  xaringan::moon_reader:
+    css: [&amp;quot;default&amp;quot;, &amp;quot;rladies&amp;quot;, &amp;quot;rladies-fonts&amp;quot;]&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;If you use the theme and you are on twitter, I’d love to see it- &lt;a href=&#34;https://twitter.com/intent/tweet?user_id=3199856542&#34;&gt;please mention me on twitter!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Examples!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;My blogdown workshop slides: &lt;a href=&#34;http://127.0.0.1:4321/talk/blogdown-meetup/&#34;&gt;“Up and running with blogdown”&lt;/a&gt; (view the &lt;a href=&#34;https://github.com/rbind/apreshill/blob/master/static/slides/blogdown-workshop-slides.Rmd&#34;&gt;source .Rmd on GitHub&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&#34;https://alison.rbind.io/slides/blogdown-workshop-slides.html#1&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
+&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://jessicaminnier.com&#34;&gt;Jessica Minnier’s&lt;/a&gt; slides for &lt;a href=&#34;http://jminnier-talks.netlify.com/2018_02_shiny_csp/minnier_csp2018#1&#34;&gt;“Building Shiny Apps: With Great Power Comes Great Responsibility”&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&#34;https://jminnier-talks.netlify.com/2018_02_shiny_csp/minnier_csp2018#1&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;If you are new to &lt;a href=&#34;https://github.com/yihui/xaringan&#34;&gt;&lt;strong&gt;xaringan&lt;/strong&gt;&lt;/a&gt;, don’t miss the &lt;a href=&#34;https://github.com/yihui/xaringan/wiki&#34;&gt;wiki!&lt;/a&gt;&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn2&#34;&gt;&lt;p&gt;Yihui’s &lt;a href=&#34;https://yihui.name/en/2017/10/xaringan-themes/&#34;&gt;technical instructions&lt;/a&gt; for contributors section of that blog post has been revised and is very detailed&lt;a href=&#34;#fnref2&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>blogdown: Creating Websites with R Markdown</title>
+      <link>/publication/2017-blogdown/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-blogdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labhub Workshop</title>
+      <link>/talk/2017-ohsu-labhub/</link>
+      <pubDate>Fri, 08 Dec 2017 16:00:00 +0000</pubDate>
+      <guid>/talk/2017-ohsu-labhub/</guid>
+      <description>
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/talk/2017-ohsu-labhub/ohsu-os-panel_hue8aa4c5db6853c95c13db53ca8de7678_415362_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/talk/2017-ohsu-labhub/ohsu-os-panel_hue8aa4c5db6853c95c13db53ca8de7678_415362_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;830&#34; height=&#34;1080&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The landscape of scientific communication is changing dramatically.  Diverse stakeholders, including major funders and universities are demonstrating a growing interest and investment in open scientific principles and practices.  Researchers, students, and the institutions that support them are needing to navigate new expectations, workflows, and policies against a backdrop of relatively unchanged means and measures of scientific success.&lt;/p&gt;
+&lt;p&gt;Sound complicated?  Join us on December 8th from 3:00 to 4:00 PM for a panel discussion with OHSU leaders and early career researchers on the evolving landscape of scientific communication.  We’ll explore the drivers behind the calls for “openness”, what this means in practice, and the real world compatibility and tensions between open science and student, researcher, and institutional success.&lt;/p&gt;
+&lt;p&gt;Confirmed panelists include:&lt;/p&gt;
+&lt;p&gt;Dr. Gary Westbrook, Vollum Institute Senior Scientist and Director of the Neuroscience Graduate Program&lt;/p&gt;
+&lt;p&gt;Dr. Bita Moghaddam, Chair of the Department of Behavioral Neuroscience&lt;/p&gt;
+&lt;p&gt;Dr. Abhinav Nellore, Assistant Professor, Biomedical Engineering and the Department of Surgery&lt;/p&gt;
+&lt;p&gt;Dr. Alison Hill, Associate Professor, Center for Spoken Language Understanding&lt;/p&gt;
+&lt;p&gt;The panel will be followed by food, drinks, and two hands on workshops from 4:00 - 5:30:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;ohsu-os-labhub-workshop.png&#34; &gt;
+
+
+  &lt;img src=&#34;ohsu-os-labhub-workshop.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In this workshop, Dr. Alison Hill and Robin Champieux demonstrated tools and methods for building transparency within a lab, and onboarding new graduate students and postdocs. We provided a 
+&lt;a href=&#34;https://github.com/apreshill/labhub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;template GitHub repository&lt;/a&gt; and code of conduct designed to facilitate a healthy and productive learning and research environment. You are encouraged to use these tools to communicate expectations, document protocols, receive feedback, and facilitate the long-term value of students’ and trainees’ contributions.&lt;/p&gt;
+&lt;p&gt;Labhub is a &lt;em&gt;work in progress&lt;/em&gt;. We created 
+&lt;a href=&#34;https://github.com/apreshill/labhub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this repository&lt;/a&gt; as an education and demonstration tool for faculty, postdocs, and students curious about how documentation, open science workflows, and tools like Github can contribute to a healthy and productive research environment. Your ideas and contributions are welcome!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Labhub</title>
+      <link>/project/labhub/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/project/labhub/</guid>
+      <description>&lt;p&gt;In this workshop, Dr. Alison Hill and Robin Champieux demonstrated tools and methods for building transparency within a lab, and onboarding new graduate students and postdocs. We provided a 
+&lt;a href=&#34;https://github.com/apreshill/labhub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;template GitHub repository&lt;/a&gt; and code of conduct designed to facilitate a healthy and productive learning and research environment. You are encouraged to use these tools to communicate expectations, document protocols, receive feedback, and facilitate the long-term value of students’ and trainees’ contributions.&lt;/p&gt;
+&lt;p&gt;Labhub is a &lt;em&gt;work in progress&lt;/em&gt;. We created 
+&lt;a href=&#34;https://github.com/apreshill/labhub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this repository&lt;/a&gt; as an education and demonstration tool for faculty, postdocs, and students curious about how documentation, open science workflows, and tools like Github can contribute to a healthy and productive research environment. Your ideas and contributions are welcome!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Up &amp; Running with blogdown</title>
+      <link>/project/up-running-blogdown/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/project/up-running-blogdown/</guid>
+      <description>&lt;p&gt;We will cover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;blogdown&lt;/strong&gt; R package&lt;/li&gt;
+&lt;li&gt;Hugo themes&lt;/li&gt;
+&lt;li&gt;Adding content to personalize your site&lt;/li&gt;
+&lt;li&gt;Posting&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t want to blog? / just want to knit?&lt;/li&gt;
+&lt;li&gt;Customizing themes&lt;/li&gt;
+&lt;li&gt;Troubleshooting common problems&lt;/li&gt;
+&lt;li&gt;Deployment options and recommendations&lt;/li&gt;
+&lt;li&gt;Domain options available through RStudio/rbind&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you are planning on attending this workshop, please click on the HTML link above for how to prepare before the workshop.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/up-running-blogdown/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/up-running-blogdown/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2550&#34; height=&#34;3300&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Up &amp; Running with blogdown</title>
+      <link>/talk/2017-pdxr-blogdown/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/2017-pdxr-blogdown/</guid>
+      <description>&lt;p&gt;See project links for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Up &amp; Running with blogdown</title>
+      <link>/post/2017-06-12-up-and-running-with-blogdown/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/post/2017-06-12-up-and-running-with-blogdown/</guid>
+      <description>
+
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#read-up-on-blogdown&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;1&lt;/span&gt; Read up on blogdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#caveats-disclaimers-etc.&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;2&lt;/span&gt; Caveats, disclaimers, etc.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#in-github&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;3&lt;/span&gt; In GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#in-terminal&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;4&lt;/span&gt; In terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#in-rstudio&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;5&lt;/span&gt; In RStudio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#build-your-site-in-rstudio&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;6&lt;/span&gt; Build your site in RStudio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#deploy-in-netlify&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;7&lt;/span&gt; Deploy in Netlify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#going-further&#34;&gt;&lt;span class=&#34;toc-section-number&#34;&gt;8&lt;/span&gt; Going further&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;read-up-on-blogdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;1&lt;/span&gt; Read up on blogdown&lt;/h1&gt;
+&lt;p&gt;Before you start, I recommend reading the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;&lt;code&gt;blogdown&lt;/code&gt;: Creating Websites with R Markdown&lt;/a&gt; by Yihui Xie and Amber Thomas&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://amber.rbind.io/blog/2016/12/19/creatingsite/&#34;&gt;Making a Website Using &lt;code&gt;blogdown&lt;/code&gt;, Hugo, and GitHub pages&lt;/a&gt; also by Amber Thomas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also found this comment by Eric Nantz, the creator of &lt;a href=&#34;http://r-podcast.org&#34;&gt;the R-Podcast&lt;/a&gt;, in the &lt;a href=&#34;https://github.com/rbind/support&#34;&gt;&lt;code&gt;rbind/support&lt;/code&gt; issues section on GitHub&lt;/a&gt; to be helpful:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rbind/support/issues/12&#34;&gt;https://github.com/rbind/support/issues/12&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;caveats-disclaimers-etc.&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;2&lt;/span&gt; Caveats, disclaimers, etc.&lt;/h1&gt;
+&lt;p&gt;Even with all the great resources I listed above, getting myself up and running took a few tries, so in this post I’m passing along what ended up working for me. Everyone’s mileage may vary, though, depending on your operating system and your approach. About me: I am a macOS user, and I use R, RStudio, Git (usually via &lt;a href=&#34;https://about.gitlab.com&#34;&gt;GitLab&lt;/a&gt;, sometimes via &lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt;), and terminal regularly, so I’m assuming familiarity here with all of these. If that is not you, here are some places to get started:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For Git: &lt;a href=&#34;http://happygitwithr.com&#34;&gt;Happy Git with R&lt;/a&gt; by Jenny Bryan et al.&lt;/li&gt;
+&lt;li&gt;For RStudio: &lt;a href=&#34;https://www.datacamp.com/courses/working-with-the-rstudio-ide-part-1&#34;&gt;DataCamp’s Working with the RStudio IDE (free)&lt;/a&gt; by Garrett Grolemund&lt;/li&gt;
+&lt;li&gt;For Terminal: &lt;a href=&#34;https://github.com/veltman/clmystery&#34;&gt;The Command Line Murder Mystery&lt;/a&gt; by Noah Veltman, and &lt;a href=&#34;http://seankross.com/the-unix-workbench/&#34;&gt;The UNIX Workbench&lt;/a&gt; by Sean Kross&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also have &lt;a href=&#34;https://developer.apple.com/xcode/&#34;&gt;Xcode&lt;/a&gt; and &lt;a href=&#34;https://brew.sh&#34;&gt;Homebrew&lt;/a&gt; installed- &lt;a href=&#34;https://bookdown.org/yihui/blogdown/installation.html&#34;&gt;you will probably need these to download Hugo&lt;/a&gt;. If you don’t have either but are on a mac, this link may help:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/&#34;&gt;How to install Xcode, Homebrew, Git, RVM, Ruby &amp;amp; Rails on Mac OS X&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Finally, I did not want to learn more about a lot of things! For instance, the nitty gritty of static site generators and how domain names work. I am a new mom, and just in the process of writing all this up, I filled up my tea mug twice with ice cold water, and filled my water bottle with scalding hot water. So, where offered, I followed the advice of Yihui and Amber. For example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/deployment.html&#34;&gt;“Considering the cost and friendliness to beginners, we currently recommend Netlify.”&lt;/a&gt; Sold.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/netlify.html&#34;&gt;“If you are not familiar with domain names or do not want to learn more about them, an option for your consideration is a free subdomain &lt;code&gt;*.rbind.io&lt;/code&gt; offered by RStudio, Inc.”&lt;/a&gt;. Done.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;in-github&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;3&lt;/span&gt; In GitHub&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;blogdown-signpost-1.png&#34; /&gt;&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;Go online to your &lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt; account, and create a new repository (check to initialize with a &lt;code&gt;README&lt;/code&gt; but don’t add &lt;code&gt;.gitignore&lt;/code&gt;- this will be taken care of later). For naming your repo, consider your future deployment plan:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you are going to use &lt;a href=&#34;https://www.netlify.com&#34;&gt;Netlify&lt;/a&gt; to host the site, you can name this repository anything you want!
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    You can see some of the repo names used by members of the &lt;code&gt;rbind&lt;/code&gt; organization &lt;a href=&#34;https://github.com/rbind/repositories&#34;&gt;here&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;If you want to host your site as a &lt;a href=&#34;https://pages.github.com&#34;&gt;GitHub Page&lt;/a&gt;, you should name your repository &lt;code&gt;yourgithubusername.github.io&lt;/code&gt; (so mine would have been &lt;code&gt;apreshill.github.io&lt;/code&gt;). If you are going this route, I suggest you follow &lt;a href=&#34;https://proquestionasker.github.io/blog/Making_Site/&#34;&gt;Amber’s instructions&lt;/a&gt; instead of mine!&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;github-new-repo.png&#34; alt=&#34;Screenshot above: Creating a new repository in GitHub&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;Screenshot above: Creating a new repository in GitHub&lt;/p&gt;
+&lt;/div&gt;
+&lt;ol start=&#34;2&#34; style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;Go to the main page of your new repository, and under the repository name, click the green &lt;strong&gt;Clone or download&lt;/strong&gt; button.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;In the &lt;strong&gt;Clone with HTTPs&lt;/strong&gt; section, click on the clipboard icon to copy the clone URL for your new repository. You’ll paste this text into terminal in the next section.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div id=&#34;in-terminal&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;4&lt;/span&gt; In terminal&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;blogdown-signpost-2.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Now you will &lt;a href=&#34;https://help.github.com/articles/cloning-a-repository/&#34;&gt;clone your remote repository&lt;/a&gt; and create a local copy on your computer so you can sync between the two locations (using terminal or your alternative command line tool for a Windows machine).&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;p&gt;Use &lt;code&gt;cd&lt;/code&gt; to navigate into the directory where you want your repo to be&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Once there, type: &lt;code&gt;git clone [paste]&lt;/code&gt;. So my command looked like this:&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/apreshill/apreshill.git&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;And this is what printed to my terminal window:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Cloning into &amp;#39;apreshill&amp;#39;...
+remote: Counting objects: 3, done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+Checking connectivity... done.&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;3&#34; style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Close terminal, you are done in there.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div id=&#34;in-rstudio&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;5&lt;/span&gt; In RStudio&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;blogdown-signpost-3.png&#34; /&gt;&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Install &lt;code&gt;blogdown&lt;/code&gt; from your RStudio console. If you already have &lt;code&gt;devtools&lt;/code&gt; installed like I did, you can just use the second line below:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;if (!requireNamespace(&amp;quot;devtools&amp;quot;)) install.packages(&amp;quot;devtools&amp;quot;)
+devtools::install_github(&amp;quot;rstudio/blogdown&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;2&#34; style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Install Hugo using the &lt;code&gt;blogdown&lt;/code&gt; package helper function:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;blogdown::install_hugo()
+# or
+library(blogdown)
+install_hugo()&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    This is where my instructions diverge from Ed’s- he states that &lt;code&gt;blogdown&lt;/code&gt; won’t create a website in your root folder because the &lt;code&gt;README.md&lt;/code&gt; file is already there. I didn’t find that to be the case- I tested this with a new site as well. If one way doesn’t work for you, try the other!
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;3&#34; style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Use the top menu buttons in RStudio to select &lt;code&gt;File -&amp;gt; New Project -&amp;gt; Existing Directory&lt;/code&gt;, then browse to the directory on your computer where your GitHub repo is and click on the &lt;strong&gt;Create Project&lt;/strong&gt; button.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;r-project-existing-directory.png&#34; alt=&#34;Screenshot above: Creating a new project in an existing directory in RStudio&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;Screenshot above: Creating a new project in an existing directory in RStudio&lt;/p&gt;
+&lt;/div&gt;
+&lt;ol start=&#34;4&#34; style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Now you should be “in” your project in RStudio. If you are using git for version control, edit your &lt;code&gt;*gitignore&lt;/code&gt; file. This file should be viewable in your file viewer pane in RStudio. Below is what it should look like: the first four lines will automatically be in this file if you have set up your RStudio Project, but if you plan to use Netlify to deploy, you need to add the &lt;code&gt;public/&lt;/code&gt; line (&lt;a href=&#34;https://bookdown.org/yihui/blogdown/version-control.html&#34;&gt;read about here&lt;/a&gt;.)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+blogdown
+.DS_Store # if a windows user, Thumbs.db instead
+public/ # if using Netlify&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;build-your-site-in-rstudio&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;6&lt;/span&gt; Build your site in RStudio&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;blogdown-signpost-4.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Now you can finally build your site using the &lt;code&gt;blogdown::new_site()&lt;/code&gt; function. But &lt;strong&gt;first&lt;/strong&gt; you should at least think about themes…&lt;/p&gt;
+&lt;div id=&#34;picking-a-theme&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;6.1&lt;/span&gt; Picking a theme&lt;/h2&gt;
+&lt;p&gt;There are over 90 &lt;a href=&#34;https://themes.gohugo.io&#34;&gt;Hugo themes&lt;/a&gt;. So I went back to the &lt;code&gt;blogdown&lt;/code&gt; book. Thankfully, Yihui and Amber offer &lt;a href=&#34;https://bookdown.org/yihui/blogdown/other-themes.html&#34;&gt;“to save you some time, we list a few themes below that match our taste…”&lt;/a&gt;. Huzzah- I went with &lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34;&gt;hugo-academic&lt;/a&gt;! Whatever theme you choose, you’ll need to pick one of 3 ways to make your new site:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;If you are happy with the default theme, which is the lithium theme, you can use:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;blogdown::new_site() # default theme is lithium&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;2&#34; style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;If you want a theme other than the default, you can specify the theme at the same time as you call the &lt;code&gt;new_site&lt;/code&gt; function:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;# for example, create a new site with the academic theme
+blogdown::new_site(theme = &amp;quot;gcushen/hugo-academic&amp;quot;, theme_example = TRUE)&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;3&#34; style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;If instead you want to add the theme later (like I did, because I didn’t see the above example until it was too late!), you can do this:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;library(blogdown)
+new_site() # default theme is lithium
+# need to stop serving so can use the console again
+install_theme(&amp;quot;gcushen/hugo-academic&amp;quot;, theme_example = TRUE, update_config = TRUE)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Now is a good time to re-read about &lt;code&gt;blogdown::serve_site()&lt;/code&gt; and &lt;a href=&#34;https://bookdown.org/yihui/blogdown/a-quick-example.html&#34;&gt;how &lt;em&gt;LiveReload&lt;/em&gt; works&lt;/a&gt; (and how it blocks your R console by default)
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;I recommend setting &lt;code&gt;theme_example = TRUE&lt;/code&gt;- some themes won’t provide an example site, but the academic theme did and I found it helpful to see. You can always delete the example content.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;update-project-options&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;6.2&lt;/span&gt; Update project options&lt;/h2&gt;
+&lt;p&gt;In your project in RStudio, go to the top menu bar of RStudio and select &lt;code&gt;Tools -&amp;gt; Project Options&lt;/code&gt; and update following &lt;a href=&#34;https://bookdown.org/yihui/blogdown/rstudio-ide.html#fig:project-options&#34;&gt;Yihui and Amber’s instructions&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;edit-your-configurations&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;6.3&lt;/span&gt; Edit your configurations&lt;/h2&gt;
+&lt;p&gt;Relevant reading:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/configuration.html&#34;&gt;&lt;code&gt;blogdown&lt;/code&gt; book chapter on configuration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://proquestionasker.github.io/blog/Making_Site/#site-configuration&#34;&gt;Additional detail from Amber&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;You can also view &lt;a href=&#34;https://github.com/apreshill/apreshill/blob/master/config.toml&#34;&gt;my &lt;code&gt;config.toml&lt;/code&gt; file&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now, edit the &lt;code&gt;baseurl&lt;/code&gt; in your &lt;code&gt;config.toml&lt;/code&gt; file. The URL &lt;em&gt;should always&lt;/em&gt; end with a &lt;code&gt;/&lt;/code&gt; trailing slash. At this point, you probably haven’t deployed your site yet, so to view it locally you can use the &lt;strong&gt;Serve Site&lt;/strong&gt; add-in, or run the &lt;code&gt;blogdown::serve_site&lt;/code&gt; function. Both of these baseurls worked for me when viewing locally:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;baseurl = &amp;quot;https://example.com/&amp;quot;
+baseurl = &amp;quot;/&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    Make sure that the &lt;code&gt;baseurl =&lt;/code&gt; listed ends with a trailing slash &lt;code&gt;/&lt;/code&gt;!
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;Go ahead and edit all the other elements in the &lt;code&gt;config.toml&lt;/code&gt; file now as you please- this is how you personalize your site!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;addins-workflow&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;6.4&lt;/span&gt; Addins &amp;amp; workflow&lt;/h2&gt;
+&lt;p&gt;Relevant reading:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/rstudio-ide.html&#34;&gt;&lt;code&gt;blogdown&lt;/code&gt; book chapter on the RStudio IDE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Addins: use them- you won’t need the &lt;code&gt;blogdown&lt;/code&gt; library loaded in the console if you use the Addins. My workflow in RStudio at this point (again, just viewing locally because we haven’t deployed yet) works best like this:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Open the RStudio project for the site&lt;/li&gt;
+&lt;li&gt;Use the &lt;strong&gt;Serve Site&lt;/strong&gt; add-in (only once due to the magic of &lt;em&gt;LiveReload&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;View site in the RStudio viewer pane, and open in a new browser window while I work&lt;/li&gt;
+&lt;li&gt;Select existing files to edit using the file pane in RStudio&lt;/li&gt;
+&lt;li&gt;After making changes, click the save button (don’t &lt;code&gt;knit&lt;/code&gt;!)- the console will reload, the viewer pane will update, and if you hit refresh in the browser your local view will also be updated&lt;/li&gt;
+&lt;li&gt;When happy with changes, add/commit/push changes to GitHub&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Having &lt;code&gt;blogdown::serve_site&lt;/code&gt; running locally with &lt;em&gt;LiveReload&lt;/em&gt; is especially useful as you can immediately see if you have totally screwed up. For example, in editing my &lt;code&gt;about.md&lt;/code&gt; file, this error popped up in my console after making a change and I was able to fix the error right away:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Started building sites ...
+ERROR 2017/06/08 16:22:34 failed to parse page metadata for home/about.md: (18, 6): missing comma
+Error: Error building site: Errors reading pages: Error: failed to parse page metadata for home/about.md: (18, 6): missing comma for about.md&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The above workflow is only for editing existing files or posts, but not for &lt;strong&gt;creating new posts&lt;/strong&gt;. For that, read on…&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;posting&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;6.5&lt;/span&gt; Posting&lt;/h2&gt;
+&lt;p&gt;Relevant reading:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/rstudio-ide.html&#34;&gt;&lt;code&gt;blogdown&lt;/code&gt; book chapter on RStudio IDE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/output-format.html&#34;&gt;&lt;code&gt;blogdown&lt;/code&gt; book chapter on output formats&lt;/a&gt;: on .md versus .Rmd posts&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://proquestionasker.github.io/blog/Making_Site/#adding-a-blog-post-or-portfolio-piece&#34;&gt;Additional detail from Amber&lt;/a&gt; on adding a blog post&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bottom line:&lt;/p&gt;
+&lt;p&gt;Use the &lt;strong&gt;New Post&lt;/strong&gt; addin. But, you need the console to do this, so you have to stop &lt;code&gt;blogdown::serve_site&lt;/code&gt; by clicking on the red &lt;strong&gt;Stop&lt;/strong&gt; button first. The Addin is a Shiny interface that runs this code in your console: &lt;code&gt;blogdown:::new_post_addin()&lt;/code&gt;. So, your console needs to be unblocked for it to run. You also need to be “in” your RStudio project or it won’t work.&lt;/p&gt;
+&lt;div id=&#34;draft-posts&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;span class=&#34;header-section-number&#34;&gt;6.5.1&lt;/span&gt; Draft posts&lt;/h3&gt;
+&lt;p&gt;Relevant reading:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/local-preview.html&#34;&gt;&lt;code&gt;blogdown&lt;/code&gt; book chapter on building a website for local preview&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Whether you do a markdown or R Markdown post (see below), you should know that in the YAML front matter of your new file, you can add &lt;code&gt;draft: TRUE&lt;/code&gt; and you will be able to preview your post using &lt;code&gt;blogdown::serve_site()&lt;/code&gt;, but conveniently your post will not show up on your deployed site until you set it to false. Because this is a function built into Hugo, all posts (draft or not) will still end up in your GitHub repo though.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;new-markdown-posts&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;span class=&#34;header-section-number&#34;&gt;6.5.2&lt;/span&gt; New markdown posts&lt;/h3&gt;
+&lt;p&gt;Pick one of 2 methods:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Use the &lt;strong&gt;New Post&lt;/strong&gt; addin and with the radio button at the bottom select &lt;strong&gt;Format: Markdown&lt;/strong&gt; (recommended)&lt;/li&gt;
+&lt;li&gt;Use the console to author a new &lt;code&gt;.md&lt;/code&gt; post:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;blogdown::new_post()
+blogdown::new_post(ext = &amp;#39;.md&amp;#39;) # md is the default!&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Here are the &lt;code&gt;?new_post&lt;/code&gt; arguments:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;new_post(title, kind = &amp;quot;&amp;quot;, open = interactive(),
+    author = getOption(&amp;quot;blogdown.author&amp;quot;), categories = NULL, tags = NULL,
+    date = Sys.Date(), file = NULL, slug = NULL,
+    title_case = getOption(&amp;quot;blogdown.title_case&amp;quot;),
+    subdir = getOption(&amp;quot;blogdown.subdir&amp;quot;, &amp;quot;post&amp;quot;),
+    ext = getOption(&amp;quot;blogdown.ext&amp;quot;, &amp;quot;.md&amp;quot;))&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Remember to use the &lt;strong&gt;Serve Site&lt;/strong&gt; addin again so that you can immediately view your changes with every save using &lt;em&gt;LiveReload&lt;/em&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;new-r-markdown-.rmd-posts&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;span class=&#34;header-section-number&#34;&gt;6.5.3&lt;/span&gt; New R Markdown (.Rmd) posts&lt;/h3&gt;
+&lt;p&gt;Again, you have your choice of one of 2 methods:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Use the &lt;strong&gt;New Post&lt;/strong&gt; addin and with the radio button at the bottom select &lt;strong&gt;Format: R Markdown (.Rmd)&lt;/strong&gt; (recommended)&lt;/li&gt;
+&lt;li&gt;Use the console to author a new &lt;code&gt;.Rmd&lt;/code&gt; post:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;blogdown::new_post(ext = &amp;#39;.Rmd&amp;#39;) # md is the default!&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;After you edit your &lt;code&gt;.Rmd&lt;/code&gt; post, in addition to saving the changes in your &lt;code&gt;.Rmd&lt;/code&gt; file, you &lt;em&gt;must&lt;/em&gt; use &lt;code&gt;blogdown::serve_site&lt;/code&gt;- this is how the output &lt;code&gt;html&lt;/code&gt; file needs to be generated.&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    Do &lt;em&gt;not&lt;/em&gt; knit your &lt;code&gt;.Rmd&lt;/code&gt; posts- use &lt;code&gt;blogdown::serve_site&lt;/code&gt; instead. If you happen to hit the knit button, just &lt;strong&gt;Serve Site&lt;/strong&gt; again to rewrite the &lt;code&gt;.html&lt;/code&gt; file.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;Ultimately, your &lt;a href=&#34;https://bookdown.org/yihui/blogdown/output-format.html#output-format&#34;&gt;YAML front matter looks something like this&lt;/a&gt;; note that some but not all features of &lt;code&gt;rmarkdown::html_document&lt;/code&gt; &lt;a href=&#34;https://bookdown.org/yihui/blogdown/output-format.html#fn15&#34;&gt;are supported in &lt;code&gt;blogdown&lt;/code&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+title: &amp;quot;My Awesome Post&amp;quot;
+author: &amp;quot;John Doe&amp;quot;
+date: &amp;quot;2017-02-14&amp;quot;
+output:
+  blogdown::html_page:
+    toc: true
+    toc_depth: 1
+    number_sections: true
+    fig_width: 6
+---&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Remember to use the &lt;strong&gt;Serve Site&lt;/strong&gt; addin again so that you can immediately view your changes with every save using &lt;em&gt;LiveReload&lt;/em&gt; and your &lt;code&gt;.html&lt;/code&gt; file is properly output.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;adding-images-to-a-post&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;span class=&#34;header-section-number&#34;&gt;6.5.4&lt;/span&gt; Adding images to a post&lt;/h3&gt;
+&lt;p&gt;If you want to include an image that is not a figure created from an R chunk, the &lt;a href=&#34;https://github.com/rstudio/blogdown/issues/45&#34;&gt;recommended method&lt;/a&gt; is to:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Add the image to your &lt;code&gt;/static/img/&lt;/code&gt; folder, then&lt;/li&gt;
+&lt;li&gt;Reference the image using the relative file path as follows:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;![my-image](/img/my-image.png)&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;deploy-in-netlify&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;7&lt;/span&gt; Deploy in Netlify&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;blogdown-signpost-5.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Deploying in Netlify through GitHub is smooth. Yihui and Amber give some &lt;a href=&#34;https://bookdown.org/yihui/blogdown/deployment.html&#34;&gt;beginner instructions&lt;/a&gt;, but Netlify is so easy, I recommend that you skip dragging your &lt;code&gt;public&lt;/code&gt; folder in and instead &lt;a href=&#34;https://bookdown.org/yihui/blogdown/netlify.html#netlify&#34;&gt;automate the process through GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;When you are ready to deploy, commit your changes and push to GitHub, then go online to &lt;a href=&#34;https://www.netlify.com&#34;&gt;Netlify&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Click on the &lt;strong&gt;Sign Up&lt;/strong&gt; button and sign up using your existing GitHub account (no need to create another account)&lt;/li&gt;
+&lt;li&gt;Log in, and select: &lt;code&gt;New site from Git -&amp;gt; Continuous Deployment: GitHub&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;From there, Netlify will allow you to select from your existing GitHub repositories. You’ll pick the repo you’ve been working from with &lt;code&gt;blogdown&lt;/code&gt;, then you’ll configure your build. This involves specifying two important things: the build command and the publish directory (this should be &lt;code&gt;public&lt;/code&gt;).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;More about the build command from &lt;a href=&#34;https://www.netlify.com/docs/continuous-deployment/#common-configuration-directives&#34;&gt;Netlify&lt;/a&gt;: &lt;em&gt;“For Hugo hosting, &lt;code&gt;hugo&lt;/code&gt; will build and deploy with the version 0.17 of &lt;code&gt;hugo&lt;/code&gt;. You can specify a specific &lt;code&gt;hugo&lt;/code&gt; release like this: &lt;code&gt;hugo_0.15&lt;/code&gt;. Currently &lt;code&gt;0.13&lt;/code&gt;, &lt;code&gt;0.14&lt;/code&gt;, &lt;code&gt;0.15&lt;/code&gt;, &lt;code&gt;0.16&lt;/code&gt;, &lt;code&gt;0.17&lt;/code&gt;, &lt;code&gt;0.18&lt;/code&gt; and &lt;code&gt;0.19&lt;/code&gt; are supported. For version &lt;code&gt;0.20&lt;/code&gt; and above, you’ll need to create a Build environment variable called &lt;code&gt;HUGO_VERSION&lt;/code&gt; and set it to the version of your choice.”&lt;/em&gt; I opted for the former, and specified &lt;code&gt;hugo_0.19&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;You can check your &lt;code&gt;hugo&lt;/code&gt; version in terminal using the command &lt;a href=&#34;https://gohugo.io/overview/quickstart/&#34;&gt;&lt;code&gt;hugo version&lt;/code&gt;&lt;/a&gt;. This is what my output looked like, so I could run version &lt;code&gt;0.20&lt;/code&gt; if I wanted to through Netlify, but I went with &lt;code&gt;0.19&lt;/code&gt; and it works just fine.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ hugo version
+Hugo Static Site Generator v0.20.7 darwin/amd64 BuildDate: 2017-05-08T18:37:40-07:00&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;netlify-build-settings.png&#34; alt=&#34;Screenshot above: Basic build settings in Netlify&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;Screenshot above: Basic build settings in Netlify&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Netlify will deploy your site and assign you a random subdomain name of the form &lt;code&gt;random-word-12345.netlify.com&lt;/code&gt;. Mine was particularly unfortunate, with the random word &lt;code&gt;garbage-collector-janice&lt;/code&gt;. You should know that you can change this; I changed mine to &lt;code&gt;apreshill.netlify.com&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Anytime you change your subdomain name, you need to update the &lt;code&gt;baseurl&lt;/code&gt; in your &lt;code&gt;config.toml&lt;/code&gt; file (so I changed mine to baseurl = “&lt;a href=&#34;https://apreshill.netlify.com/&#34; class=&#34;uri&#34;&gt;&lt;a href=&#34;https://apreshill.netlify.com/&#34;&gt;https://apreshill.netlify.com/&lt;/a&gt;&lt;/a&gt;”).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;At this point, you should be up and running with &lt;code&gt;blogdown&lt;/code&gt;, GitHub, and Netlify, but here are some ideas if you want to go further…&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;going-further&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;span class=&#34;header-section-number&#34;&gt;8&lt;/span&gt; Going further&lt;/h1&gt;
+&lt;div id=&#34;custom-css&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;8.1&lt;/span&gt; Custom CSS&lt;/h2&gt;
+&lt;p&gt;I like to tinker with default theme settings like colors and fonts. Every Hugo theme is structured a little differently, but if you are interested, you can check out &lt;a href=&#34;https://github.com/apreshill/apreshill/blob/master/static/css/blue.css&#34;&gt;my custom css&lt;/a&gt; to see how I customized the academic theme, which provides a way to link to a custom CSS file in the &lt;code&gt;config.toml&lt;/code&gt; file:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  custom_css = [&amp;quot;blue.css&amp;quot;]&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;formspree&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;8.2&lt;/span&gt; Formspree&lt;/h2&gt;
+&lt;p&gt;I used &lt;a href=&#34;https://formspree.io&#34;&gt;Formspree&lt;/a&gt; to make a contact form, which is an online service (managed on &lt;a href=&#34;https://github.com/formspree/formspree&#34;&gt;GitHub&lt;/a&gt;) that allows you to add an HTML form to your static site. No registration, just use the form and confirm your email address once. I added the following code into &lt;a href=&#34;https://github.com/apreshill/apreshill/blob/master/themes/hugo-academic/layouts/partials/widgets/contact.html&#34;&gt;my contact widget&lt;/a&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;form action=&amp;quot;https://formspree.io/your@email.com&amp;quot; method=&amp;quot;POST&amp;quot;&amp;gt;
+  &amp;lt;label for=&amp;quot;name&amp;quot;&amp;gt;Your name: &amp;lt;/label&amp;gt;
+  &amp;lt;input type=&amp;quot;text&amp;quot; name=&amp;quot;name&amp;quot; required=&amp;quot;required&amp;quot; placeholder=&amp;quot;here&amp;quot;&amp;gt;&amp;lt;br&amp;gt;
+  &amp;lt;label for=&amp;quot;email&amp;quot;&amp;gt;Your email: &amp;lt;/label&amp;gt;
+  &amp;lt;input type=&amp;quot;email&amp;quot; name=&amp;quot;_replyto&amp;quot; required=&amp;quot;required&amp;quot; placeholder=&amp;quot;here&amp;quot;&amp;gt;&amp;lt;br&amp;gt;
+  &amp;lt;label for=&amp;quot;message&amp;quot;&amp;gt;Your message:&amp;lt;/label&amp;gt;&amp;lt;br&amp;gt;
+  &amp;lt;textarea rows=&amp;quot;4&amp;quot; name=&amp;quot;message&amp;quot; id=&amp;quot;message&amp;quot; required=&amp;quot;required&amp;quot; class=&amp;quot;form-control&amp;quot; placeholder=&amp;quot;I can&amp;#39;t wait to read this!&amp;quot;&amp;gt;&amp;lt;/textarea&amp;gt;
+  &amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;_next&amp;quot; value=&amp;quot;/html/thanks.html&amp;quot; /&amp;gt;
+  &amp;lt;input type=&amp;quot;submit&amp;quot; value=&amp;quot;Send&amp;quot; name=&amp;quot;submit&amp;quot; class=&amp;quot;btn btn-primary btn-outline&amp;quot;&amp;gt;
+  &amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;_subject&amp;quot; value=&amp;quot;Website message&amp;quot; /&amp;gt;
+  &amp;lt;input type=&amp;quot;text&amp;quot; name=&amp;quot;_gotcha&amp;quot; style=&amp;quot;display:none&amp;quot; /&amp;gt;
+&amp;lt;/form&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;rbind.io-domain-names&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;8.3&lt;/span&gt; &lt;code&gt;*.rbind.io&lt;/code&gt; domain names&lt;/h2&gt;
+&lt;p&gt;You may want a different &lt;a href=&#34;https://bookdown.org/yihui/blogdown/domain-name.html&#34;&gt;domain name&lt;/a&gt; than the one provided by Netlify. I opted for a free subdomain &lt;code&gt;*.rbind.io&lt;/code&gt; offered by RStudio. To do the same, head over to the &lt;a href=&#34;https://github.com/rbind/support/issues&#34;&gt;rbind/support GitHub page&lt;/a&gt; and open a new issue. All you need to do is let them know what your Netlify subdomain name is (&lt;code&gt;*.netlify.com&lt;/code&gt;), and what you want your subdomain name to be (&lt;code&gt;*.rbind.io&lt;/code&gt;). The &lt;a href=&#34;https://support.rbind.io&#34;&gt;awesome &lt;code&gt;rbind&lt;/code&gt; support team&lt;/a&gt; will help you take it from there!&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Again, you will need to update the &lt;code&gt;baseurl&lt;/code&gt; in your &lt;code&gt;config.toml&lt;/code&gt; file to reflect your new rbind subdomain name (so mine is baseurl = “&lt;a href=&#34;https://alison.rbind.io/&#34; class=&#34;uri&#34;&gt;&lt;a href=&#34;https://alison.rbind.io/&#34;&gt;https://alison.rbind.io/&lt;/a&gt;&lt;/a&gt;”).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;rbind.png&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;have-fun&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;span class=&#34;header-section-number&#34;&gt;8.4&lt;/span&gt; Have fun!&lt;/h2&gt;
+&lt;p&gt;Lastly, don’t forget to just have fun with it. Happy &lt;code&gt;blogdown&lt;/code&gt;ing!&lt;/p&gt;
+&lt;iframe src=&#34;https://giphy.com/embed/13Y6LAZJqRspI4&#34; width=&#34;480&#34; height=&#34;357&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;
+&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://giphy.com/gifs/dancing-seinfeld-elaine-benes-13Y6LAZJqRspI4&#34;&gt;via GIPHY&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantitative Analysis of Disfluency in Children with Autism Spectrum Disorder or Language Impairment</title>
+      <link>/publication/2017-mazes-asd-sli/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-mazes-asd-sli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code Your Graph Workshop</title>
+      <link>/project/code-your-graph/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/project/code-your-graph/</guid>
+      <description>
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/code-your-graph/code-your-graph_hu9ebcd1d99c0a236c25b6db9f0e87e85d_160690_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/code-your-graph/code-your-graph_hu9ebcd1d99c0a236c25b6db9f0e87e85d_160690_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;800&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Code Your Graph Workshop</title>
+      <link>/talk/2016-ohsu-dataviz/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/2016-ohsu-dataviz/</guid>
+      <description>
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/talk/2016-ohsu-dataviz/code-your-graph_hu9ebcd1d99c0a236c25b6db9f0e87e85d_160690_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;/talk/2016-ohsu-dataviz/code-your-graph_hu9ebcd1d99c0a236c25b6db9f0e87e85d_160690_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;800&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Data Wrangling, Analysis, &amp; Communication</title>
+      <link>/project/ohsu-biostats/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/ohsu-biostats/</guid>
+      <description>&lt;p&gt;Part of a year-long curricula on open science, data, and research practice for incoming graduate students in the biomedical sciences, developed in collaboration with OHSU School of MedicineGraduate Studies. This course was offered at Oregon Health &amp;amp; Science University to graduate students in the biomedical sciences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Principles &amp; Practice of Data Visualization</title>
+      <link>/project/ohsu-dataviz/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/ohsu-dataviz/</guid>
+      <description>&lt;p&gt;This was a 12-week course with weekly 1.5 hour hands-on labs using R and the &lt;code&gt;ggplot2&lt;/code&gt; package. This course (CS631) was co-developed with Drs. Steven Bedrick and Jackie Wirz. This team-taught course was offered at Oregon Health &amp;amp; Science University to graduate students in the biomedical sciences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probability &amp; Statistics for Scientists and Engineers</title>
+      <link>/project/ohsu-cs-stats/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/ohsu-cs-stats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemiology of autism spectrum disorders</title>
+      <link>/publication/2016-primer-on-asd/</link>
+      <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-primer-on-asd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uh and Um in Children With Autism Spectrum Disorders or Language Impairment</title>
+      <link>/publication/2016-uh-and-um-asd-sli/</link>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-uh-and-um-asd-sli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obesity and Autism</title>
+      <link>/publication/2015-obesity-in-asd-multisite/</link>
+      <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-obesity-in-asd-multisite/</guid>
+      <description>&lt;p&gt;METHODS: Participants were 5053 children with confirmed diagnosis of ASD in the Autism Speaks Autism Treatment Network. Measured values for weight and height were used to calculate BMI percentiles; Centers for Disease Control and Prevention criteria for BMI for gender and age were used to define overweight and obesity (85th and 95th percentiles, respectively).&lt;/p&gt;
+&lt;p&gt;RESULTS: In children age 2 to 17 years, 33.6% were overweight and 18% were obese. Compared with a general US population sample, rates of unhealthy weight were significantly higher among children with ASDs ages 2 to 5 years and among those of non-Hispanic white origin. Multivariate analyses revealed that older age, Hispanic or Latino ethnicity, lower parent education levels, and sleep and affective problems were all significant predictors of obesity.&lt;/p&gt;
+&lt;p&gt;CONCLUSIONS: Our results indicate that the prevalence of unhealthy weight is significantly greater among children with ASD compared with the general population, with differences present as early as ages 2 to 5 years. Because obesity is more prevalent among older children in the general population, these findings raise the question of whether there are different trajectories of weight gain among children with ASDs, possibly beginning in early childhood.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Memory in language-impaired children with and without autism</title>
+      <link>/publication/2015-memory-in-li-asd/</link>
+      <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-memory-in-li-asd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemiology of autism spectrum disorders</title>
+      <link>/publication/2015-translational/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-translational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aggressive Behavior Problems in Children with Autism Spectrum Disorders: Prevalence and Correlates in a Large Clinical Sample</title>
+      <link>/publication/2014-aggression-in-asd/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-aggression-in-asd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemiology of autism spectrum disorders</title>
+      <link>/publication/2014-handbook/</link>
+      <pubDate>Mon, 03 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-handbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overweight and Obesity: Prevalence and Correlates in a Large Clinical Sample of Children with Autism Spectrum Disorder</title>
+      <link>/publication/2014-obesity-in-asd-oregon/</link>
+      <pubDate>Sun, 02 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-obesity-in-asd-oregon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemiology of Autism Spectrum Disorder</title>
+      <link>/publication/2014-asd-epidemiology-in-practice/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-asd-epidemiology-in-practice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Repetitive Speech in Autism Spectrum Disorders and Language Impairment</title>
+      <link>/publication/2013-repetitive-speech-in-asd-sli/</link>
+      <pubDate>Fri, 12 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-repetitive-speech-in-asd-sli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>‘It’s Not That We Hate You’: Understanding Children’s Gender Attitudes and Expectancies About Peer Relationships</title>
+      <link>/publication/2011-gender-attitudes/</link>
+      <pubDate>Tue, 08 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011-gender-attitudes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Different Attentional Cues on Responding to Joint Attention in Younger Siblings of Children with Autism Spectrum Disorders</title>
+      <link>/publication/2007-rja-in-sibs/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/2007-rja-in-sibs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Item-specific Processing Reduces False Memories</title>
+      <link>/publication/2004-false-memories/</link>
+      <pubDate>Wed, 01 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/2004-false-memories/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

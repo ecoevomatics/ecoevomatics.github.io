@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyle Gorman | EcoEvoMatics</title>
+    <link>/authors/kyle-gorman/</link>
+      <atom:link href="/authors/kyle-gorman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kyle Gorman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Rominger 2020</copyright><lastBuildDate>Wed, 15 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pom-card.png</url>
+      <title>Kyle Gorman</title>
+      <link>/authors/kyle-gorman/</link>
+    </image>
+    
+    <item>
+      <title>Quantitative Analysis of Disfluency in Children with Autism Spectrum Disorder or Language Impairment</title>
+      <link>/publication/2017-mazes-asd-sli/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-mazes-asd-sli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uh and Um in Children With Autism Spectrum Disorders or Language Impairment</title>
+      <link>/publication/2016-uh-and-um-asd-sli/</link>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-uh-and-um-asd-sli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory in language-impaired children with and without autism</title>
+      <link>/publication/2015-memory-in-li-asd/</link>
+      <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-memory-in-li-asd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

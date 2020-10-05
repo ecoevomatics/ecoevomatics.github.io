@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>keynote | EcoEvoMatics</title>
+    <link>/categories/keynote/</link>
+      <atom:link href="/categories/keynote/index.xml" rel="self" type="application/rss+xml" />
+    <description>keynote</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Rominger 2020</copyright><lastBuildDate>Wed, 02 Oct 2019 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pom-card.png</url>
+      <title>keynote</title>
+      <link>/categories/keynote/</link>
+    </image>
+    
+    <item>
+      <title>The Art of Literate Projecting</title>
+      <link>/talk/2019-ysc-keynote/</link>
+      <pubDate>Wed, 02 Oct 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/2019-ysc-keynote/</guid>
+      <description>
+
+
+&lt;p&gt;“Literate programming” is an approach to writing software programs that weaves together the source code and documentation at the time of creation. The idea is to create programs that are easier for users to understand. But they are also easier for programmers to work on and maintain. In this talk, I will describe how data scientists can be inspired by this programming approach and start what I refer to as “literate projecting.” Literate projects are not only more pleasant to work on — they are also easier for others to discover and explore. In my experiences as a researcher and now a data scientist at RStudio, I’ve had the pleasure to work on many literate projects, and I’ve felt the pain of working on illiterate ones too. What is the difference? What are the benefits? Based on my experiences, I’ll share good literate projecting practices that have the potential to shift your mindset and reshape your workflow.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Magic with R: Creative Learning Beyond Fear</title>
+      <link>/talk/2018-cascadia-bigmagic/</link>
+      <pubDate>Sat, 02 Jun 2018 08:00:00 +0000</pubDate>
+      <guid>/talk/2018-cascadia-bigmagic/</guid>
+      <description>&lt;p&gt;Inspired by the book “Big Magic: Creative Living Beyond Fear” by Elizabeth Gilbert, Alison will talk about the five essential ingredients needed to creatively learn R and why these elements are also essential for advanced users to take their R skills to the next level. You will hear practical advice for when, where, and how to start a project in R, and how your learning can add value- both to your own knowledge and to contribute to the larger community of R learners. Along the way, she will share recommended resources and evidence-based strategies for project-based learning. Alison’s background working with both new and advanced R users gives her a unique perspective on this topic.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

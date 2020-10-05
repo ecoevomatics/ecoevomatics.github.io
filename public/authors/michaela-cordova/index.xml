@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michaela Cordova | EcoEvoMatics</title>
+    <link>/authors/michaela-cordova/</link>
+      <atom:link href="/authors/michaela-cordova/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michaela Cordova</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Rominger 2020</copyright><lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pom-card.png</url>
+      <title>Michaela Cordova</title>
+      <link>/authors/michaela-cordova/</link>
+    </image>
+    
+    <item>
+      <title>Subtyping cognitive profiles in Autism Spectrum Disorder using a random forest algorithm</title>
+      <link>/publication/2017-subtyping/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-subtyping/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

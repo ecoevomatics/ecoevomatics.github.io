@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software | EcoEvoMatics</title>
+    <link>/tags/software/</link>
+      <atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>software</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Rominger 2020</copyright><lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pom-card.png</url>
+      <title>software</title>
+      <link>/tags/software/</link>
+    </image>
+    
+    <item>
+      <title>palmerpenguins</title>
+      <link>/project/palmerpenguins/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/palmerpenguins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bakeoff</title>
+      <link>/project/bakeoff/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/bakeoff/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

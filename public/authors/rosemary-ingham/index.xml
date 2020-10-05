@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rosemary Ingham | EcoEvoMatics</title>
+    <link>/authors/rosemary-ingham/</link>
+      <atom:link href="/authors/rosemary-ingham/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rosemary Ingham</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Rominger 2020</copyright><lastBuildDate>Wed, 15 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pom-card.png</url>
+      <title>Rosemary Ingham</title>
+      <link>/authors/rosemary-ingham/</link>
+    </image>
+    
+    <item>
+      <title>Quantitative Analysis of Disfluency in Children with Autism Spectrum Disorder or Language Impairment</title>
+      <link>/publication/2017-mazes-asd-sli/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-mazes-asd-sli/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

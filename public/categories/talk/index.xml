@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>talk | EcoEvoMatics</title>
+    <link>/categories/talk/</link>
+      <atom:link href="/categories/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>talk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Rominger 2020</copyright><lastBuildDate>Tue, 31 Mar 2020 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pom-card.png</url>
+      <title>talk</title>
+      <link>/categories/talk/</link>
+    </image>
+    
+    <item>
+      <title>Sharing on Short Notice</title>
+      <link>/talk/2020-sharing-short-notice/</link>
+      <pubDate>Tue, 31 Mar 2020 09:00:00 +0000</pubDate>
+      <guid>/talk/2020-sharing-short-notice/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;This webinar was designed to help educators who needed to quickly transition to remote teaching due to COVID-19.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Educators create a lot of files for teaching- slides, exercises, solutions, assignments, data, figures- that all ultimately need to be shared with other people. Having a link for sharing your teaching materials can save you time and pain, but it is hard to get started if you’ve never shared your resources online before. In this webinar, we’ll give a tour of the R Markdown ecosystem for educators that you can start to use right away. We’ll show how it can help you make your teaching more shareable, reproducible, and resilient.&lt;/p&gt;
+&lt;p&gt;Read the accompanying Q&amp;amp;A blog post on the 
+&lt;a href=&#34;https://education.rstudio.com/blog/2020/04/sharing-on-short-notice/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio Education blog&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Plot Twist: 10 Bake Offs, Visualized 11 Ways</title>
+      <link>/talk/2019-rladies-sydney/</link>
+      <pubDate>Fri, 04 Oct 2019 18:00:00 +0000</pubDate>
+      <guid>/talk/2019-rladies-sydney/</guid>
+      <description>&lt;p&gt;Using data from 10 series of The Great British Bake Off, we will walk through eleven ways to visualize the same data using the &lt;code&gt;ggplot2&lt;/code&gt; package. We&amp;rsquo;ll talk a lot about geoms and variable mappings, but also about what it means to &amp;ldquo;tidy your data&amp;rdquo;, plus the new pivot functions in the &lt;code&gt;tidyr&lt;/code&gt; package.&lt;/p&gt;
+&lt;p&gt;You won&amp;rsquo;t need your laptops but you will get the most out of this talk if you know some basics about using &lt;code&gt;ggplot2&lt;/code&gt;. To brush up (or start learning now), you may want to play with the free RStudio.cloud 
+&lt;a href=&#34;https://rstudio.cloud/learn/primers/3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data visualization primer&lt;/a&gt; (you may use an existing Google or GitHub account to log in). Or of course you can check out 
+&lt;a href=&#34;https://rladiessydney.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Ladies Sydney&lt;/a&gt;&amp;rsquo;s own 
+&lt;a href=&#34;https://rladiessydney.org/post/2018/12/20/vizwhiz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VizW(h)iz Module&lt;/a&gt; of 
+&lt;a href=&#34;https://rladiessydney.org/ryouwithme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#RYouWithMe&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Art of Literate Projecting</title>
+      <link>/talk/2019-ysc-keynote/</link>
+      <pubDate>Wed, 02 Oct 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/2019-ysc-keynote/</guid>
+      <description>
+
+
+&lt;p&gt;“Literate programming” is an approach to writing software programs that weaves together the source code and documentation at the time of creation. The idea is to create programs that are easier for users to understand. But they are also easier for programmers to work on and maintain. In this talk, I will describe how data scientists can be inspired by this programming approach and start what I refer to as “literate projecting.” Literate projects are not only more pleasant to work on — they are also easier for others to discover and explore. In my experiences as a researcher and now a data scientist at RStudio, I’ve had the pleasure to work on many literate projects, and I’ve felt the pain of working on illiterate ones too. What is the difference? What are the benefits? Based on my experiences, I’ll share good literate projecting practices that have the potential to shift your mindset and reshape your workflow.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Take a Sad Plot &amp; Make It Better</title>
+      <link>/talk/2019-rladies-melbourne/</link>
+      <pubDate>Thu, 26 Sep 2019 18:15:00 +0000</pubDate>
+      <guid>/talk/2019-rladies-melbourne/</guid>
+      <description>&lt;p&gt;In this talk, Alison will talk about one plot’s life cycle, from a sad Powerpoint slide to an Excel chart and finally to the finished product made with the ggplot2 package in R. Along the way, she will discuss why each version of the plot fails in different ways and how each iteration improved on the last one.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://apreshill.github.io/ohsu-biodatavis/slides_files/figure-html/animated.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;latest-event&#34;&gt;Latest event&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://alison.netlify.com/rlm-sad-plot-better/unsw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This talk&lt;/a&gt; was most recently given at the University of South Wales on 2019/10/04.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching Students to Talk about Data Science</title>
+      <link>/talk/2019-jsm-talk-ds/</link>
+      <pubDate>Mon, 29 Jul 2019 14:00:01 -0700</pubDate>
+      <guid>/talk/2019-jsm-talk-ds/</guid>
+      <description>
+
+
+&lt;p&gt;Data science educators have a unique opportunity to teach students the skills they need in their future careers. We know that practical skills matter, like being able to wrangle, explore, analyze, and visualize data (preferably using code), but what is easy to overlook is teaching students how to communicate about data science with other people. Being able to communicate about data, code, and insights gained are important skills we can strengthen in the classroom to make a real impact on students. I will talk about three ways to help strengthen data science communication skills that matter: self-reflection, iteration, and broadcasting. Self-reflection involves asking students to reflect on concepts and/or code that they struggled with to increase engagement with materials and independent problem-solving. Iteration involves revisiting old concepts/code, identifying areas for improvement, and making them better, either independently or in collaboration with peers or other experts/advanced users. Broadcasting involves practice (practice, practice, practice) “wrapping up” code with words into coherent narratives about what a data analysis or visualization means.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using blogdown to Connect Beyond the Classroom</title>
+      <link>/talk/2019-sdss-blogdown/</link>
+      <pubDate>Thu, 30 May 2019 08:00:00 +0000</pubDate>
+      <guid>/talk/2019-sdss-blogdown/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Data Visualization in the Tidyverse</title>
+      <link>/talk/2018-uo-plotoff/</link>
+      <pubDate>Mon, 29 Oct 2018 16:00:00 +0000</pubDate>
+      <guid>/talk/2018-uo-plotoff/</guid>
+      <description>&lt;p&gt;Using one dataset from The Great British Bake Off, I show eleven ways to visualize one dataset using eleven different versions of &amp;ldquo;tidy data.&amp;rdquo; Take-away messages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tidy data is the start of your data wrangling journey, not the end&lt;/li&gt;
+&lt;li&gt;There is not a single &amp;ldquo;tidy&amp;rdquo; version of a dataset&lt;/li&gt;
+&lt;li&gt;Tidy data &lt;em&gt;does&lt;/em&gt; make you more nimble!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Magic with R: Creative Learning Beyond Fear</title>
+      <link>/talk/2018-cascadia-bigmagic/</link>
+      <pubDate>Sat, 02 Jun 2018 08:00:00 +0000</pubDate>
+      <guid>/talk/2018-cascadia-bigmagic/</guid>
+      <description>&lt;p&gt;Inspired by the book “Big Magic: Creative Living Beyond Fear” by Elizabeth Gilbert, Alison will talk about the five essential ingredients needed to creatively learn R and why these elements are also essential for advanced users to take their R skills to the next level. You will hear practical advice for when, where, and how to start a project in R, and how your learning can add value- both to your own knowledge and to contribute to the larger community of R learners. Along the way, she will share recommended resources and evidence-based strategies for project-based learning. Alison’s background working with both new and advanced R users gives her a unique perspective on this topic.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Take a Sad Plot &amp; Make It Better</title>
+      <link>/talk/2018-ohsu-sad-plot-better/</link>
+      <pubDate>Fri, 06 Apr 2018 16:00:00 +0000</pubDate>
+      <guid>/talk/2018-ohsu-sad-plot-better/</guid>
+      <description>&lt;p&gt;Join us on April 6 for a walk-through of how to take a sad plot and make it better by Alison Hill, who co-teaches the CS631 Data Visualization course. Alison will take us through one plot’s life cycle, from a sad Powerpoint slide to an Excel chart and finally to the finished product made with the ggplot2 package in R. We will discuss why each version of the plot fails in different ways, how each iteration improved on the last one, and which data visualization principles are at work in the final plot to communicate a clear scientific story.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://apreshill.github.io/ohsu-biodatavis/slides_files/figure-html/animated.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Following this, Eric Earl (Senior RA in the DCAN Labs) will show a case study of visualization in neuroimaging research.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

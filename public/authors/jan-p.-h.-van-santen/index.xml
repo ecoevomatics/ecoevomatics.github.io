@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jan P. H. van Santen | EcoEvoMatics</title>
+    <link>/authors/jan-p.-h.-van-santen/</link>
+      <atom:link href="/authors/jan-p.-h.-van-santen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jan P. H. van Santen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Rominger 2020</copyright><lastBuildDate>Fri, 22 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pom-card.png</url>
+      <title>Jan P. H. van Santen</title>
+      <link>/authors/jan-p.-h.-van-santen/</link>
+    </image>
+    
+    <item>
+      <title>Uh and Um in Children With Autism Spectrum Disorders or Language Impairment</title>
+      <link>/publication/2016-uh-and-um-asd-sli/</link>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-uh-and-um-asd-sli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Repetitive Speech in Autism Spectrum Disorders and Language Impairment</title>
+      <link>/publication/2013-repetitive-speech-in-asd-sli/</link>
+      <pubDate>Fri, 12 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-repetitive-speech-in-asd-sli/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Markdown | EcoEvoMatics</title>
+    <link>/tags/r-markdown/</link>
+      <atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Markdown</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Rominger 2020</copyright><lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pom-card.png</url>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+    </image>
+    
+    <item>
+      <title>R Markdown for Medicine</title>
+      <link>/project/rmd4medicine/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/rmd4medicine/</guid>
+      <description>&lt;p&gt;Starting with a mock clinical trial dataset, we’ll use R Markdown to combine prose, R code, and figures and tables created with R code into a nicely formatted and reproducible final manuscript.&lt;/p&gt;
+&lt;p&gt;For the 
+&lt;a href=&#34;https://r-medicine.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2019 R / Medicine conference&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

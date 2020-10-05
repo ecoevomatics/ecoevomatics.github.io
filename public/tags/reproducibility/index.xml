@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reproducibility | EcoEvoMatics</title>
+    <link>/tags/reproducibility/</link>
+      <atom:link href="/tags/reproducibility/index.xml" rel="self" type="application/rss+xml" />
+    <description>reproducibility</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Rominger 2020</copyright><lastBuildDate>Thu, 14 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pom-card.png</url>
+      <title>reproducibility</title>
+      <link>/tags/reproducibility/</link>
+    </image>
+    
+    <item>
+      <title>Labhub</title>
+      <link>/project/labhub/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/project/labhub/</guid>
+      <description>&lt;p&gt;In this workshop, Dr. Alison Hill and Robin Champieux demonstrated tools and methods for building transparency within a lab, and onboarding new graduate students and postdocs. We provided a 
+&lt;a href=&#34;https://github.com/apreshill/labhub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;template GitHub repository&lt;/a&gt; and code of conduct designed to facilitate a healthy and productive learning and research environment. You are encouraged to use these tools to communicate expectations, document protocols, receive feedback, and facilitate the long-term value of students’ and trainees’ contributions.&lt;/p&gt;
+&lt;p&gt;Labhub is a &lt;em&gt;work in progress&lt;/em&gt;. We created 
+&lt;a href=&#34;https://github.com/apreshill/labhub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this repository&lt;/a&gt; as an education and demonstration tool for faculty, postdocs, and students curious about how documentation, open science workflows, and tools like Github can contribute to a healthy and productive research environment. Your ideas and contributions are welcome!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

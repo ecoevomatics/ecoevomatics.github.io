@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tidy data | EcoEvoMatics</title>
+    <link>/tags/tidy-data/</link>
+      <atom:link href="/tags/tidy-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>tidy data</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Rominger 2020</copyright><lastBuildDate>Fri, 04 Oct 2019 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pom-card.png</url>
+      <title>tidy data</title>
+      <link>/tags/tidy-data/</link>
+    </image>
+    
+    <item>
+      <title>Plot Twist: 10 Bake Offs, Visualized 11 Ways</title>
+      <link>/talk/2019-rladies-sydney/</link>
+      <pubDate>Fri, 04 Oct 2019 18:00:00 +0000</pubDate>
+      <guid>/talk/2019-rladies-sydney/</guid>
+      <description>&lt;p&gt;Using data from 10 series of The Great British Bake Off, we will walk through eleven ways to visualize the same data using the &lt;code&gt;ggplot2&lt;/code&gt; package. We&amp;rsquo;ll talk a lot about geoms and variable mappings, but also about what it means to &amp;ldquo;tidy your data&amp;rdquo;, plus the new pivot functions in the &lt;code&gt;tidyr&lt;/code&gt; package.&lt;/p&gt;
+&lt;p&gt;You won&amp;rsquo;t need your laptops but you will get the most out of this talk if you know some basics about using &lt;code&gt;ggplot2&lt;/code&gt;. To brush up (or start learning now), you may want to play with the free RStudio.cloud 
+&lt;a href=&#34;https://rstudio.cloud/learn/primers/3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data visualization primer&lt;/a&gt; (you may use an existing Google or GitHub account to log in). Or of course you can check out 
+&lt;a href=&#34;https://rladiessydney.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Ladies Sydney&lt;/a&gt;&amp;rsquo;s own 
+&lt;a href=&#34;https://rladiessydney.org/post/2018/12/20/vizwhiz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VizW(h)iz Module&lt;/a&gt; of 
+&lt;a href=&#34;https://rladiessydney.org/ryouwithme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#RYouWithMe&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

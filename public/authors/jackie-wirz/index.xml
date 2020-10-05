@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jackie Wirz | EcoEvoMatics</title>
+    <link>/authors/jackie-wirz/</link>
+      <atom:link href="/authors/jackie-wirz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jackie Wirz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Rominger 2020</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pom-card.png</url>
+      <title>Jackie Wirz</title>
+      <link>/authors/jackie-wirz/</link>
+    </image>
+    
+    <item>
+      <title>Principles &amp; Practice of Data Visualization</title>
+      <link>/project/ohsu-dataviz/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/ohsu-dataviz/</guid>
+      <description>&lt;p&gt;This was a 12-week course with weekly 1.5 hour hands-on labs using R and the &lt;code&gt;ggplot2&lt;/code&gt; package. This course (CS631) was co-developed with Drs. Steven Bedrick and Jackie Wirz. This team-taught course was offered at Oregon Health &amp;amp; Science University to graduate students in the biomedical sciences.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

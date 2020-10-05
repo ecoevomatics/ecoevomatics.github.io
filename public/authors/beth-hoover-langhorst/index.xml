@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beth Hoover Langhorst | EcoEvoMatics</title>
+    <link>/authors/beth-hoover-langhorst/</link>
+      <atom:link href="/authors/beth-hoover-langhorst/index.xml" rel="self" type="application/rss+xml" />
+    <description>Beth Hoover Langhorst</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Rominger 2020</copyright><lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pom-card.png</url>
+      <title>Beth Hoover Langhorst</title>
+      <link>/authors/beth-hoover-langhorst/</link>
+    </image>
+    
+    <item>
+      <title>Subtyping cognitive profiles in Autism Spectrum Disorder using a random forest algorithm</title>
+      <link>/publication/2017-subtyping/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-subtyping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory in language-impaired children with and without autism</title>
+      <link>/publication/2015-memory-in-li-asd/</link>
+      <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-memory-in-li-asd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

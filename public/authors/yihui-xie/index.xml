@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yihui Xie | EcoEvoMatics</title>
+    <link>/authors/yihui-xie/</link>
+      <atom:link href="/authors/yihui-xie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yihui Xie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Rominger 2020</copyright><lastBuildDate>Thu, 14 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pom-card.png</url>
+      <title>Yihui Xie</title>
+      <link>/authors/yihui-xie/</link>
+    </image>
+    
+    <item>
+      <title>blogdown: Creating Websites with R Markdown</title>
+      <link>/publication/2017-blogdown/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-blogdown/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

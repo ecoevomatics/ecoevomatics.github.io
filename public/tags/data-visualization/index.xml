@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data visualization | EcoEvoMatics</title>
+    <link>/tags/data-visualization/</link>
+      <atom:link href="/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <description>data visualization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Rominger 2020</copyright><lastBuildDate>Fri, 04 Oct 2019 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pom-card.png</url>
+      <title>data visualization</title>
+      <link>/tags/data-visualization/</link>
+    </image>
+    
+    <item>
+      <title>Plot Twist: 10 Bake Offs, Visualized 11 Ways</title>
+      <link>/talk/2019-rladies-sydney/</link>
+      <pubDate>Fri, 04 Oct 2019 18:00:00 +0000</pubDate>
+      <guid>/talk/2019-rladies-sydney/</guid>
+      <description>&lt;p&gt;Using data from 10 series of The Great British Bake Off, we will walk through eleven ways to visualize the same data using the &lt;code&gt;ggplot2&lt;/code&gt; package. We&amp;rsquo;ll talk a lot about geoms and variable mappings, but also about what it means to &amp;ldquo;tidy your data&amp;rdquo;, plus the new pivot functions in the &lt;code&gt;tidyr&lt;/code&gt; package.&lt;/p&gt;
+&lt;p&gt;You won&amp;rsquo;t need your laptops but you will get the most out of this talk if you know some basics about using &lt;code&gt;ggplot2&lt;/code&gt;. To brush up (or start learning now), you may want to play with the free RStudio.cloud 
+&lt;a href=&#34;https://rstudio.cloud/learn/primers/3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data visualization primer&lt;/a&gt; (you may use an existing Google or GitHub account to log in). Or of course you can check out 
+&lt;a href=&#34;https://rladiessydney.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Ladies Sydney&lt;/a&gt;&amp;rsquo;s own 
+&lt;a href=&#34;https://rladiessydney.org/post/2018/12/20/vizwhiz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VizW(h)iz Module&lt;/a&gt; of 
+&lt;a href=&#34;https://rladiessydney.org/ryouwithme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#RYouWithMe&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Take a Sad Plot &amp; Make It Better</title>
+      <link>/talk/2019-rladies-melbourne/</link>
+      <pubDate>Thu, 26 Sep 2019 18:15:00 +0000</pubDate>
+      <guid>/talk/2019-rladies-melbourne/</guid>
+      <description>&lt;p&gt;In this talk, Alison will talk about one plot’s life cycle, from a sad Powerpoint slide to an Excel chart and finally to the finished product made with the ggplot2 package in R. Along the way, she will discuss why each version of the plot fails in different ways and how each iteration improved on the last one.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://apreshill.github.io/ohsu-biodatavis/slides_files/figure-html/animated.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;latest-event&#34;&gt;Latest event&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://alison.netlify.com/rlm-sad-plot-better/unsw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This talk&lt;/a&gt; was most recently given at the University of South Wales on 2019/10/04.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Visualization in the Tidyverse</title>
+      <link>/talk/2018-uo-plotoff/</link>
+      <pubDate>Mon, 29 Oct 2018 16:00:00 +0000</pubDate>
+      <guid>/talk/2018-uo-plotoff/</guid>
+      <description>&lt;p&gt;Using one dataset from The Great British Bake Off, I show eleven ways to visualize one dataset using eleven different versions of &amp;ldquo;tidy data.&amp;rdquo; Take-away messages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tidy data is the start of your data wrangling journey, not the end&lt;/li&gt;
+&lt;li&gt;There is not a single &amp;ldquo;tidy&amp;rdquo; version of a dataset&lt;/li&gt;
+&lt;li&gt;Tidy data &lt;em&gt;does&lt;/em&gt; make you more nimble!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Take a Sad Plot &amp; Make It Better</title>
+      <link>/talk/2018-ohsu-sad-plot-better/</link>
+      <pubDate>Fri, 06 Apr 2018 16:00:00 +0000</pubDate>
+      <guid>/talk/2018-ohsu-sad-plot-better/</guid>
+      <description>&lt;p&gt;Join us on April 6 for a walk-through of how to take a sad plot and make it better by Alison Hill, who co-teaches the CS631 Data Visualization course. Alison will take us through one plot’s life cycle, from a sad Powerpoint slide to an Excel chart and finally to the finished product made with the ggplot2 package in R. We will discuss why each version of the plot fails in different ways, how each iteration improved on the last one, and which data visualization principles are at work in the final plot to communicate a clear scientific story.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://apreshill.github.io/ohsu-biodatavis/slides_files/figure-html/animated.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Following this, Eric Earl (Senior RA in the DCAN Labs) will show a case study of visualization in neuroimaging research.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Susanne W. Duvall | EcoEvoMatics</title>
+    <link>/authors/susanne-w.-duvall/</link>
+      <atom:link href="/authors/susanne-w.-duvall/index.xml" rel="self" type="application/rss+xml" />
+    <description>Susanne W. Duvall</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Rominger 2020</copyright><lastBuildDate>Sun, 22 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pom-card.png</url>
+      <title>Susanne W. Duvall</title>
+      <link>/authors/susanne-w.-duvall/</link>
+    </image>
+    
+    <item>
+      <title>Aggressive Behavior Problems in Children with Autism Spectrum Disorders: Prevalence and Correlates in a Large Clinical Sample</title>
+      <link>/publication/2014-aggression-in-asd/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-aggression-in-asd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
