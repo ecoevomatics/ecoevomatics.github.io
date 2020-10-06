@@ -1,3 +1,29 @@
-baseurl: /
-exclude: ['README.md']
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: EcoEvoMatics Lab
+email: andrew.rominger@maine.edu
+description: Ecological and Evolutionary Informatics Lab
+url: "www.ecoevomatics.org" # the base hostname & protocol for your site
+#twitter_username: LHDnets
+#scholar_username: zEB7niMAAAAJ
+#linkedin_username: lecomptedelhd
+github_username: ecoevomatics
+
+include: ['_pages']
+exclude: ['bower_components/*.md','bower_components/*.html','_pages/*.Rmd', './*.R']
+
+# Build settings
 markdown: kramdown
+
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from

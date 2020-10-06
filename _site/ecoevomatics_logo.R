@@ -7,6 +7,7 @@ customText <- function(x, y, labels, let = 0,
     
     # browser()
     xx <- x + cumsum(c(0, w[-length(w)] + let))
+    xx <- xx - mean(xx) + 1
     yy <- rep(y, length(xx))
     
     text(xx, yy, l, adj = c(0, 0.5), cex = cex, col = col)
@@ -26,11 +27,12 @@ vlet <- 0.35
 mainCol <- 'white'
 backCol <- 'gray50'
 
-png('eem_logo.png', width = 4.3, height = 4.3, units = 'in', res = 380)
+# png('eem_logo.png', width = 4.3, height = 4.3, units = 'in', res = 380)
 
-par(mar = rep(0, 4), bg = 'transparent')
+par(mar = rep(2, 4), bg = 'white')
 plot(1, type = 'n', xlim = c(0, 2), ylim = c(-1, 1), 
-     axes = FALSE)
+     # axes = FALSE
+     )
 
 s1 <- customText(0, vlet, 'ECOLOGICAL', 
                  col = c(rep(mainCol, 3), rep(backCol, 7)),
@@ -66,4 +68,10 @@ customText(0, 0, '& EVOLUTIONARY',
 customText(0, -vlet, 'INFORMATICS', 
                  col = c(rep(backCol, 5), rep(mainCol, 6)),
                  let = let, cex = cex)
-dev.off()
+
+
+abline(v = 1)
+text(1, 0.5, labels = 'ECOLOGICAL')
+
+
+# dev.off()

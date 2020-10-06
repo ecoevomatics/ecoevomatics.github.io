@@ -1,0 +1,52 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+            <a href="mailto:{{ site.email }}">
+              <span class="fa fa-envelope-square"></span> {{ site.email }}
+            </a>
+          </li>
+          {% if site.github_username %}
+            <li>
+              <a href="//www.github.com/{{ site.github_username }}" target="_blank">
+                <span class="fa fa-github-square"></span> {{ site.github_username }}
+              </a>
+            </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+            <li>
+              <a href="//www.twitter.com/{{ site.twitter_username }}" target="_blank">
+                <span class="fa fa-twitter-square"></span> {{ site.twitter_username }}
+              </a>
+            </li>
+          {% endif %}
+
+          {% if site.linkedin_username %}
+            <li>
+              <a href="//www.linkedin.com/{{ site.linkedin_username }}" target="_blank">
+                <span class="fa fa-linkedin-square"></span> {{ site.linkedin_username }}
+              </a>
+            </li>
+          {% endif %}
+
+          {% if site.scholar_username %}
+            <li>
+              <a href="//scholar.google.ca/citations?hl=en&user={{ site.scholar_username }}" target="_blank">
+                <span class="fa fa-graduation-cap"></span> Google Scholar
+              </a>
+            </li>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
