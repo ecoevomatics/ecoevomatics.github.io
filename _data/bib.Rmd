@@ -1,0 +1,7 @@
+---
+output: md_document
+bibliography: ecoevomatics.bib
+csl: geb.csl
+nocite: '@*'
+---
+

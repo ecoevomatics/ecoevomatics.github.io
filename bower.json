@@ -1,0 +1,23 @@
+{
+  "name": "lhd",
+  "homepage": "https://github.com/louisroy/lhd",
+  "authors": [
+    "Louis Roy <louisroy@louisroy.net>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "turbolinks": "git+https://github.com/turbolinks/turbolinks.git#^5.0.0",
+    "font-awesome": "fontawesome#^4.6.3",
+    "jquery": "^3.1.1",
+    "filament-sticky": "^0.1.7"
+  }
+}
