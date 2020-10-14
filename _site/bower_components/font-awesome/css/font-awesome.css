@@ -1359,6 +1359,9 @@
 .fa-graduation-cap:before {
   content: "\f19d";
 }
+.fa-orcid:before {
+  content: "\f8d2";
+}
 .fa-yahoo:before {
   content: "\f19e";
 }

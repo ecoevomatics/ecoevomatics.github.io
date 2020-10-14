@@ -49,8 +49,14 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 @media screen and (max-width: 980px) { .wrapper { max-width: -webkit-calc(800px - (30px)); max-width: calc(800px - (30px)); padding-right: 15px; padding-left: 15px; } }
 
+.peoplePic { width: 28%; margin-right: 2%; float: left; }
+
+.peopleBlurb { width: 70%; float: right; }
+
 /** Clearfix */
 .footer-col-wrapper:after, .wrapper:after { content: ""; display: table; clear: both; }
+
+.clearfix { clear: both; }
 
 body { background-color: #FFFFFF; background-size: 100% auto; background-position: center -5vw; background-image: url(../img/homestead.jpg); background-attachment: fixed; background-repeat: no-repeat; padding-top: 40px; }
 

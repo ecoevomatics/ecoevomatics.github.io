@@ -163,6 +163,17 @@ pre {
     }
 }
 
+.peoplePic{
+    width:28%;
+    margin-right:2%;
+    float: left;
+}
+
+.peopleBlurb {
+    width:70%;
+    float: right;
+}
+
 /**
  * Clearfix
  */
@@ -172,4 +183,8 @@ pre {
         display: table;
         clear: both;
     }
+}
+
+.clearfix{
+    clear:both
 }
