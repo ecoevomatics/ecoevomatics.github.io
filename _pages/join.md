@@ -20,6 +20,8 @@ We are excited to work with undergraduate researchers. We welcome undergraduate 
 
 Regardless of existing funding, we also encourage all graduate students to pursue external fellowship support as part of their professional development. Please get in touch if you are interested in co-developing a graduate fellowship proposal to join our group!  Of particular relevance is the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
+Graduate students in our group can choose between degree programs in either the [School of Biology and Ecology](https://sbe.umaine.edu/graduate) or the [Ecology and Environmental Sciences Program](https://umaine.edu/ecologyandenvironmentalsciences/graduate-programs). Applicants should first contact Andy before applying directly to a graduate program. If the student and Andy agree on a good fit in the lab, they will jointly produce an application to one of the two graduate programs.
+
 
 # Postdoc
 
