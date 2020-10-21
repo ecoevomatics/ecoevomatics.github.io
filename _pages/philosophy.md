@@ -7,13 +7,13 @@ weight: 3
 
 We develop our lab philosophy as a community.  As new members of the lab come and go we allow our philosophy to evolve.
 
-We are guided by two principals: 1) that diversity, equity, and inclusion are good for science and society; and 2) that open, reproducible research is important for the advancement of science, breaking down barriers to entry into scientific disciplines, and sharing scientific discoveries with society.
+We are guided by two principles: 1) that the pursuit of diversity, equity, and inclusion in science and society is fair and just; and 2) that open, reproducible research is important for the advancement of science, breaking down barriers to entry into scientific disciplines, and sharing scientific discoveries with society.
 
 # Diversity, Equity, and Inclusion
 
-As scientists who study genetics, let us be clear that we reject all attempts to justify racist and sexist views with concepts from genetics. Such bigoted propaganda has been widely debunked (we are thankful for, e.g., work by [Angela Saini](https://www.angelasaini.co.uk/) on this). Devaluing and dehumanizing Black, Indigenous, and People of Color fueled and legitimized centuries of genocide and deprived human rights to the majority of humanity. So we affirm: Black Lives Matter.
+As scientists who study genetics, let us be clear that we reject all attempts to justify racist and sexist views and actions with concepts from genetics. Such bigoted propaganda and violence have been widely debunked (we are thankful for, e.g., work by [Angela Saini](https://www.angelasaini.co.uk/) on this). Devaluing and dehumanizing Black, Indigenous, and People of Color fueled and legitimized centuries of genocide, colonialism, and deprived human rights to the majority of humanity. The violence continues to this day. So we affirm: Black Lives Matter. We affirm our commitment to opposing systems of prejudice that have and continue to insight violence against women, the LGBTQ+ community,  Black, Indigenous, and People of Color.
 
-The whiteness, maleness, cis-heteronormativity of academia derives from the same processes that devalue and dehumanize humans. So we work actively to correct the lack of inclusion and equity in academia by recruiting and hiring diverse students and colleagues. We value diversity. We ensure the communities we create together are safe for all of us.
+The whiteness, maleness, cis-heteronormativity of academia derives from the same processes that devalue and dehumanize humans. So we work actively to correct the lack of inclusion and equity in academia by recruiting and hiring diverse students and colleagues. We value diversity. We work to ensure the communities we create together are safe for all of us.
 
 # Open, reproducible research
 
