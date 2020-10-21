@@ -5,7 +5,7 @@ permalink: /join/
 weight: 4
 ---
 
-We are excited to welcome undergrads, grad students, and postdocs into the lab! *We currently have fully-funded PhD and postdoc positions available!  See below for more information!*
+We are excited to welcome undergrads, grad students, and postdocs into the lab! *We currently have grant-funded PhD and postdoc positions available!  See below for more information!*
 
 If you are interested in working with us, please reach out to [Andy](mailto:andrew.rominger@maine.edu) with a brief description of your research interests and what you hope to get out of working with our group.  Below are specific opportunities to join our lab.
 
@@ -16,7 +16,7 @@ We are excited to work with undergraduate researchers. We welcome undergraduate 
 
 # Graduate
 
-**We are currently offering a PhD position in our lab with full funding for 4 years of stipend, tuition, and health insurance coverage.** This position is part of the [Maine-eDNA program](https://umaine.edu/edna/) and the successful applicant will join a thriving research community aimed at understanding the biodiversity of Maine's coastal ecosystems and promoting their sustainability. Please [click here](https://www.ecoevomatics.org/2020/10/20/phd_ad.html) to read the position advertisement for more details. 
+**We are currently offering a PhD position in our lab with full funding for 3 years of stipend, tuition, and health insurance coverage.** A plan to secure additional funding beyond the third year will be developed with Andy Rominger as part of the student's career development in this position. This position is part of the [Maine-eDNA program](https://umaine.edu/edna/) and the successful applicant will join a thriving research community aimed at understanding the biodiversity of Maine's coastal ecosystems and promoting their sustainability. Please [click here](https://www.ecoevomatics.org/2020/10/20/phd_ad.html) to read the position advertisement for more details. 
 
 Regardless of existing funding, we also encourage all graduate students to pursue external fellowship support as part of their professional development. Please get in touch if you are interested in co-developing a graduate fellowship proposal to join our group!  Of particular relevance is the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
