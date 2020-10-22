@@ -25,7 +25,7 @@ Graduate students in our group can choose between degree programs in either the 
 
 # Postdoc
 
-**We are currently offering a fully-funded, 2-year postdoc position as part of our [Rules of Life Engine](https://role-model.github.io/) NSF grant.** The postdoc will be responsible for contributing to the development of a novel modeling framework to jointly predict multiple dimensions of biodiversity, from genes to communities, and have support to develop their own research projects in alignment with the themes of the Rules of Life Engine grant.  Please check back soon for the full position advertisement with more details!
+**We are currently offering a fully-funded, 2-year postdoc position as part of our [Rules of Life Engine](https://role-model.github.io/){:target="_blank"} NSF grant.** The postdoc will be responsible for contributing to the development of a novel modeling framework to jointly predict multiple dimensions of biodiversity, from genes to communities, and have support to develop their own research projects in alignment with the themes of the Rules of Life Engine grant.  Please check back soon for the full position advertisement with more details!
 
 We are also excited to work with prospective postdocs to write new fellowship and grant proposals. Of particular relevance are the NSF Postdoctoral Fellowships (in [Biology](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622&org=NSF){:target="_blank"}, [Earth Sciences](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503144&org=NSF){:target="_blank"}, or [Mathematics](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5301&org=NSF){:target="_blank"}) and the [James S. McDonnell Postdoctoral Fellowship](https://www.jsmf.org/apply/fellowship/){:target="_blank"}.
 
