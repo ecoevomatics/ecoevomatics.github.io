@@ -17,9 +17,12 @@ As part of this project we are collating several exceptional, multi-dimensional 
 As part of this project we will also develop a massively open online course about theoretical ecology and evolution to be hosted on the Santa Fe Institute's [ComplexityExplorer](https://www.complexityexplorer.org/){:target="_blank"} platform.  We will also partner with [The Carpetries](https://carpentries.org/){:target="_blank"} to develop a biodiversity data science curriculum.
 
 # Maine-eDNA
-- Macrosystems
-- Alewife
-- eDNA for biogeography and climate change
+
+This is a large, multi-institution EPSCoR project (click [here for project website](https://umaine.edu/edna/){:target="_blank"}) for which our lab is responsible for providing bioinformatic support to many ongoing efforts as well as leading large-scale, quantitative synthesis research. These synthesis research projects are still taking shape but will focus on:
+
+1) *Understanding drivers of biodiversity, ecosystem stability, and change across the Maine Coastal Macrosystem.* This project involves solving long-standing informatic challenges to integrating large and heterogeneous data, and then figuring our how to extract useful scientific insight from it!
+2) *Understanding how aquatic systems respond to perturbation* using historical extirpation and re-colonizations of andromedous alewife as a case study. We will use sediment core eDNA and metabarcoding to understand how trophic networks change through time, with knock-on effects for the entire community.
+3) *Understanding the future of coastal biogeography* by building biogeographic models with eDNA and relating those to changing environments and climates.
 
 
 # High throughput ecology and evolution
