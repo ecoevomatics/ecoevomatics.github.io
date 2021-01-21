@@ -7,8 +7,6 @@ tags: news
 
 We seek an enthusiastic researcher to join the EcoEvoMatics lab (principal investigator Dr. Andy Rominger) at the University of Maine as a postdoc.
 
- 
-
 We are seeking applicants with strong quantitative and computational backgrounds, as well as experience in next-generation sequencing-enabled approaches to studying biodiversity. The postdoc is expected to contribute to the [Rules of Life Engine](https://role-model.github.io/){:target="_blank"} (RoLE) project, specifically expanding the functionality of the RoLE model and testing it across a diversity of datasets. These data come from close collaborators of the project and include impressive quantifications of the biodiversity in systems such as [Hawaiian terrestrial arthropods](https://nature.berkeley.edu/hawaiidimensions/){:target="_blank"}, marine invertebrates in [Palau](http://mnd.ucmerced.edu/Research/Overview.html){:target="_blank"}, birds and arthropods in the [Brazillian Atlantic Forest](https://www.carnavallab.org/biodiversity-prediction){:target="_blank"}, and the entirety of publicly available data provided by the [National Ecological Observatory Network](){:target="_blank"}.
 
 #### Qualifications:
@@ -24,7 +22,7 @@ The EcoEvoMatics lab is jointly housed in the [School of Biology and Ecology](ht
 
 In the EcoEvoMatics lab we value diversity and strive to be a safe and welcoming space for all researchers. Please read more about our [lab philosophy](https://www.ecoevomatics.org/philosophy){:target="_blank"} on our group website. The anticipated salary for this position is $50,000 commensurate with experience and qualifications.
 
-
+The anticipated salary for this position is $50,000 commensurate with experience and qualifications.  Ideal start date is 1 September 2021 with some room for flexibility.
 
 To apply please submit materials through the official job posting: [https://umaine.hiretouch.com/job-details?jobid=66549](https://umaine.hiretouch.com/job-details?jobid=66549){:target="_blank"}. Required materials are:
 
