@@ -26,7 +26,7 @@ In the EcoEvoMatics lab we value diversity and strive to be a safe and welcoming
 
 
 
-To apply please submit materials through the official job posting: <https://umaine.hiretouch.com/job-details?jobid=66549>. Required materials are:
+To apply please submit materials through the official job posting: [https://umaine.hiretouch.com/job-details?jobid=66549](https://umaine.hiretouch.com/job-details?jobid=66549){:target="_blank"}. Required materials are:
 
 - a cover letter discussing your interest in joining the EcoEvoMatics lab and the Rule of Life Engine project; this letter is a space to discuss your research interests, desired outcomes of a postdoc in our group, and your engagement with diversity, equity, and inclusion
 - a resume/curriculum vitae
