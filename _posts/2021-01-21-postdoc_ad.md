@@ -1,7 +1,7 @@
 ---
 title: "Postdoc position in eco-evolutionary modeling available starting Fall 2021!"
 author: "A. J. Rominger"
-date: "08 December 2020"
+date: "21 January 2021"
 tags: news
 ---
 
