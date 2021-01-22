@@ -18,9 +18,9 @@ We are seeking applicants with strong quantitative and computational backgrounds
 - Familiarity with next generation sequencing approaches for the study of biodiversity (e.g. metabarcoding)
 
 
-The EcoEvoMatics lab is jointly housed in the [School of Biology and Ecology](https://sbe.umaine.edu){:target="_blank"} and the [Maine Center for Genetics in the Environment](https://umaine.edu/mcge){:target="_blank"}. The postdoc will also join a vibrant community of researchers working together as part of [Maine-eDNA](){:target="_blank"} and a network of collaborators contributing to the Rules of Life Engine project.
+The EcoEvoMatics lab is jointly housed in the [School of Biology and Ecology](https://sbe.umaine.edu){:target="_blank"} and the [Maine Center for Genetics in the Environment](https://umaine.edu/mcge){:target="_blank"}. The postdoc will also join a vibrant community of researchers working together as part of [Maine-eDNA](https://umaine.edu/edna/){:target="_blank"} and a network of collaborators contributing to the Rules of Life Engine project.
 
-In the EcoEvoMatics lab we value diversity and strive to be a safe and welcoming space for all researchers. Please read more about our [lab philosophy](https://www.ecoevomatics.org/philosophy){:target="_blank"} on our group website. The anticipated salary for this position is $50,000 commensurate with experience and qualifications.
+In the EcoEvoMatics lab we value diversity and strive to be a safe and welcoming space for all researchers. Please read more about our [lab philosophy](https://www.ecoevomatics.org/philosophy){:target="_blank"} on our group website.
 
 The anticipated salary for this position is $50,000 commensurate with experience and qualifications.  Ideal start date is 1 September 2021 with some room for flexibility.
 
