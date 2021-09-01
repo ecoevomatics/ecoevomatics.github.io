@@ -6,7 +6,7 @@ tags: news
 ---
 
 
-## Update (1 September 2021): this position has been filled 
+*Update (1 September 2021): this position has been filled*
 
 We seek an enthusiastic researcher to join the EcoEvoMatics lab (principal investigator Dr. Andy Rominger) at the University of Maine as a postdoc.
 
