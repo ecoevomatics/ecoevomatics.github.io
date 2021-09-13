@@ -7,7 +7,7 @@
   github: ajrominger
   orcid: 
   description: '
-  Andy Rominger is Assistant Professor of Ecological Bioinformatics at the University of Maine in the School of 
+  Andy is Assistant Professor of Ecological Bioinformatics at the University of Maine in the School of 
   Biology and Ecology, and the Maine Center for Genetics in the Environment. His work focuses on discovering general
   processes that drive the origin and maintenance of biodiversity using ecological and evolutionary theory in concert
   with novel data streams from large-scale inventories of the diversity of life. These inventories are increasingly 
@@ -17,6 +17,50 @@
   the University of Maine, Andy was a postdoc at the Santa Fe Institute, and before that he completed his PhD at the 
   University of California, Berkeley.
   '
+
+- name: Beth Davis
+  image: /img/members/beth_davis.jpg
+  position: PhD Student
+  pronouns: she/her/hers
+  email: beth.davis@maine.edu
+  scholar: 
+  github: 
+  orcid: 
+  description: '
+  Beth is a PhD student in Ecology and Environmental Sciences through the School 
+  of Biology and Ecology at the University of Maine. She earned her Bachelors of 
+  Science in Biology at Oregon State University with a focus in Marine Biology, 
+  and studied adaptive and evolutionary genomics, community ecology, and thermal 
+  stress responses in regards to intertidal invertebrate and algal species. At 
+  the University of Maine, Beth is focused on working with eDNA as an aquatic 
+  monitoring tool and joining efforts to understand the continuing impacts of 
+  dams on Maine fisheries and river ecology. Beth is committed to equity and 
+  improving communication between scientists and non-scientists, and hopes to 
+  work with local and indigenous communities in Maine. Other projects she is 
+  interested include biological impacts of microplastics, subtidal ecology, and 
+  improving data accessibility and metadata records in STEM fields.
+  '
+
+- name: Heather Richard
+  image: /img/members/ajr.jpg
+  position: PhD student
+  pronouns: she/her/hers
+  email: heather.l.richard@maine.edu
+  scholar: 
+  github: 
+  orcid: 
+  description: '
+  Heather is a PhD student in the EcoEvoMatics Lab. She has worked all over the 
+  country as a naturalist and educator, but is never more at home than when on 
+  Maine's rocky coastline. She got her MS at San Francisco State University 
+  working with biofilms on microplastics as a student in the lab of Dr. Ed 
+  Carpenter. More recently, she has coordinated environmental monitoring 
+  research at an environmental research non-profit organization in Blue Hill, 
+  ME. She brings with her a passion for understanding coastal processes and a 
+  strong desire to sustain natural resources and increase climate change 
+  resiliency in the state of Maine.
+  '
+
 
 - name: You?!
   image: /img/members/you.gif
