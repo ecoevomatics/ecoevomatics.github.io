@@ -23,7 +23,7 @@
   '
 
 - name: Beth Davis
-  image: /img/members/beth_davis.jpg
+  image: /img/members/beth_davis.png
   position: PhD Student
   pronouns: she/her/hers
   email: beth.davis@maine.edu
@@ -41,13 +41,12 @@
   interested include biological impacts of microplastics, subtidal ecology, and 
   improving data accessibility and metadata records in STEM fields.
   '
-
 - name: Heather Richard
-  image: /img/members/ajr.jpg
+  image: /img/members/heather_richard.jpg
   position: PhD student
-  pronouns: she/her/hers
+  pronouns: 
   email: heather.l.richard@maine.edu
-  description: '
+  description: "
   Heather is a PhD student in the EcoEvoMatics Lab. She has worked all over the 
   country as a naturalist and educator, but is never more at home than when on 
   Maine's rocky coastline. She got her MS at San Francisco State University 
@@ -57,9 +56,8 @@
   ME. She brings with her a passion for understanding coastal processes and a 
   strong desire to sustain natural resources and increase climate change 
   resiliency in the state of Maine.
-  '
-
-
+  "
+  
 - name: You?!
   image: /img/members/you.gif
   position: Undergrads, grad students, postdocs welcome!
