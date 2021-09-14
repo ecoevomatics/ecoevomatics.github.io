@@ -7,15 +7,19 @@
   github: ajrominger
   orcid: 
   description: '
-  Andy is Assistant Professor of Ecological Bioinformatics at the University of Maine in the School of 
-  Biology and Ecology, and the Maine Center for Genetics in the Environment. His work focuses on discovering general
-  processes that drive the origin and maintenance of biodiversity using ecological and evolutionary theory in concert
-  with novel data streams from large-scale inventories of the diversity of life. These inventories are increasingly 
-  enabled by next-generation sequencing methods such as eDNA and metabarcoding. Much of this work has been based in 
-  Hawai`i, with recent expansion into arid and costal ecosystems. Andy is committed to diversity and 
-  equity in science, open and reproducible research, and the success of his students and colleagues. Before joining 
-  the University of Maine, Andy was a postdoc at the Santa Fe Institute, and before that he completed his PhD at the 
-  University of California, Berkeley.
+  Andy is Assistant Professor of Ecological Bioinformatics at the University of 
+  Maine in the School of Biology and Ecology, and the Maine Center for Genetics 
+  in the Environment. His work focuses on discovering general processes that 
+  drive the origin and maintenance of biodiversity using ecological and 
+  evolutionary theory in concert with novel data streams from large-scale 
+  inventories of the diversity of life. These inventories are increasingly 
+  enabled by next-generation sequencing methods such as eDNA and metabarcoding. 
+  Much of this work has been based in Hawai`i, with recent expansion into arid 
+  and costal ecosystems. Andy is committed to diversity and equity in science, 
+  open and reproducible research, and the success of his students and 
+  colleagues. Before joining the University of Maine, Andy was a postdoc at the 
+  Santa Fe Institute, and before that he completed his PhD at the University of 
+  California, Berkeley.
   '
 
 - name: Beth Davis
@@ -23,9 +27,6 @@
   position: PhD Student
   pronouns: she/her/hers
   email: beth.davis@maine.edu
-  scholar: 
-  github: 
-  orcid: 
   description: '
   Beth is a PhD student in Ecology and Environmental Sciences through the School 
   of Biology and Ecology at the University of Maine. She earned her Bachelors of 
@@ -46,9 +47,6 @@
   position: PhD student
   pronouns: she/her/hers
   email: heather.l.richard@maine.edu
-  scholar: 
-  github: 
-  orcid: 
   description: '
   Heather is a PhD student in the EcoEvoMatics Lab. She has worked all over the 
   country as a naturalist and educator, but is never more at home than when on 
@@ -66,9 +64,9 @@
   image: /img/members/you.gif
   position: Undergrads, grad students, postdocs welcome!
   description: '
-  We are looking for undergraduates, graduate students and postdocs to join the lab! Please check out the 
-  <a class="page-link" href="../join">Join!</a> tab for more 
-  information.  Andy has grant-funded positions for graduate students and postdocs, and he is also excited to work with
-  prospective new lab members to pursue funding such as NSF graduate research fellowships or postdoctoral fellowships. 
-  Please get in touch!
+  We are looking for undergraduates, graduate students and postdocs to join the 
+  lab! Please check out the <a class="page-link" href="../join">Join!</a> tab 
+  for more information.  Andy is excited to work with prospective new lab 
+  members to pursue funding such as NSF graduate research fellowships or 
+  postdoctoral fellowships. Please get in touch!
   '
