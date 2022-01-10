@@ -57,14 +57,43 @@
   strong desire to sustain natural resources and increase climate change 
   resiliency in the state of Maine.
   "
-  
+- name: Isaac Cardello
+  image: /img/members/isaac_cardello.jpg
+  position: Undergraduate student
+  pronouns: he/him/his
+  email: 
+  description: '
+  Isaac is majoring in Computer Science and is interested in video game 
+  development and data analysis in reference to machine learning.  He is 
+  actively working on the development of the DNA barcoding reference database 
+  for Maine's marine and aquatic species.  He is Co-President of the GDG Club 
+  and works at the UMaine Esports Arena.
+  '
+- name: Isaac Overcast
+  image: /img/members/isaac1_color.jpg
+  position: Postdoc
+  pronouns: he/him/his
+  email: isaac.overcast@maine.edu
+  description: "
+  Isaac's core research involves characterizing and developing models to explain 
+  the distribution of genetic variation in ecological communities. A related 
+  focus is to develop models of how biodiversity accumulates in ecological 
+  communities that integrate over multiple levels of biological organization, 
+  including species abundances, genetic diversities, and phylogenetic 
+  relationships. Before coming to Maine, Isaac obtained his PhD from the 
+  Graduate Center of the City University of New York under the supervision of 
+  Mike Hickerson. He then spent two years as a postdoc with Helene Morlon at 
+  Institut de Biologie de l’Ecole Normale Superieure in Paris, where he 
+  developed theory and models of island biodiversity genomics. Isaac is a firm 
+  believer in Bigfoot.
+  "
 - name: You?!
   image: /img/members/you.gif
-  position: Undergrads, grad students, postdocs welcome!
+  position: Undergrads, postdocs welcome!
   description: '
-  We are looking for undergraduates, graduate students and postdocs to join the 
+  We are looking for undergraduates and postdocs to join the 
   lab! Please check out the <a class="page-link" href="../join">Join!</a> tab 
-  for more information.  Andy is excited to work with prospective new lab 
-  members to pursue funding such as NSF graduate research fellowships or 
-  postdoctoral fellowships. Please get in touch!
+  for more information.  We are currently not advertising for graduate student
+  positions. Andy is excited to work with prospective new lab members to pursue 
+  funding such as NSF postdoctoral fellowships. Please get in touch!
   '
