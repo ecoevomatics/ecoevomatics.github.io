@@ -76,7 +76,7 @@ First let's make a new repo. Go to your GitHub profile and click the plus sign i
 
 ![](img/github_how2/fig_add_repo.png){:width="100%"}
 
-![](../img/homestead.jpg){:width="100%"}
+![](img/homestead.jpg){:width="100%"}
 
 
 Give the repository a name, a description, make it public and select the option to add a README.  Then hit "Create repository"
