@@ -114,5 +114,8 @@ Andy is teaching a new course next Fall!  We'll be gaining understanding of theo
 </style>
 
 
-**Instructor:**   | Andy Rominger (<a href="mailto:andrew.rominger@maine.edu">andrew.rominger@maine.edu</a>)
-**When:**         | Mon/Wed/Fri 9–9:50 Fall 2022
+__Instructor:__   | Andy Rominger (<a href="mailto:andrew.rominger@maine.edu">andrew.rominger@maine.edu</a>)
+__When:__         | Mon/Wed/Fri 9–9:50 Fall 2022
+
+FOOOOOOO
+
