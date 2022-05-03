@@ -17,16 +17,30 @@ author: Andy Rominger
 </style>
 
 
+<!-- setting up alternate 2 column display -->
+<style>
+ .grid {
+  display: flex;
+ }
+.col-big-2 {
+  flex: 2;
+}
+.col-big-2:last-child {
+  margin-left: 20px;
+}
+</style>
+
+
 <!-- Two column display -->
 <div class="grid">
-  <div class="col-1-2">
+  <div class="col-big-2">
     <div class="content">
       <p><h2>Theory in Ecology and Evolution for a Changing World</h2></p>
     </div>
   </div>
-  <div class="col-1-2">
+  <div class="col-big-2">
     <div class="content">
-      <p><h3>BIO 597 - 0004</h3></p>
+      <p><h3>BIO 597 – 0004</h3></p>
     </div>
   </div>
 </div>
@@ -99,17 +113,6 @@ Andy is teaching a new course next Fall!  We'll be gaining understanding of theo
 }
 </style>
 
-<div class="grid">
-  <div class="col-small-2">
-    <div class="content">
-      <p><h3>Instructor:</h3></p>
-      <p><h3>When:</h3></p>
-    </div>
-  </div>
-  <div class="col-small-2">
-    <div class="content">
-      <p>Andy Rominger</p>
-      <p>Mon/Wed/Fri 9–9:50 Fall 2022</p>
-    </div>
-  </div>
-</div>
+
+**Instructor:**   | Andy Rominger (<a href="mailto:andrew.rominger@maine.edu">andrew.rominger@maine.edu</a>)
+**When:**         | Mon/Wed/Fri 9–9:50 Fall 2022
