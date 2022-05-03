@@ -23,10 +23,10 @@ author: Andy Rominger
   display: flex;
  }
 .col-big-2 {
-  flex: 2;
+  flex: 1.75;
 }
 .col-big-2:last-child {
-  flex: 0.25;
+  flex: 0.5;
   margin-left: 20px;
 }
 </style>
