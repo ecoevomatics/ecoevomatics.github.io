@@ -62,13 +62,13 @@
   position: Undergraduate student
   pronouns: he/him/his
   email: 
-  description: '
+  description: "
   Isaac is majoring in Computer Science and is interested in video game 
   development and data analysis in reference to machine learning.  He is 
   actively working on the development of the DNA barcoding reference database 
   for Maine's marine and aquatic species.  He is Co-President of the GDG Club 
   and works at the UMaine Esports Arena.
-  '
+  "
 - name: Isaac Overcast
   image: /img/members/isaac1_color.jpg
   position: Postdoc
@@ -87,13 +87,3 @@
   developed theory and models of island biodiversity genomics. Isaac is a firm 
   believer in Bigfoot.
   "
-- name: You?!
-  image: /img/members/you.gif
-  position: Undergrads, postdocs welcome!
-  description: '
-  We are looking for undergraduates and postdocs to join the 
-  lab! Please check out the <a class="page-link" href="../join">Join!</a> tab 
-  for more information.  We are currently not advertising for graduate student
-  positions. Andy is excited to work with prospective new lab members to pursue 
-  funding such as NSF postdoctoral fellowships. Please get in touch!
-  '
