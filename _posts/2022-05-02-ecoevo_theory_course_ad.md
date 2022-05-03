@@ -1,71 +1,115 @@
 ---
-title: "New course announcement!"
+title: "New course at UMaine!"
 author: Andy Rominger
 ---
 
-<style type="text/css">
-  body {
-  font-size: 16pt;
+<!-- setting up 2 column display -->
+<style>
+ .grid {
+  display: flex;
+ }
+.col-1-2 {
+  flex: 1;
+}
+.col-1-2:last-child {
+  margin-left: 20px;
 }
 </style>
+
+
+<!-- Two column display -->
+<div class="grid">
+  <div class="col-1-2">
+    <div class="content">
+      <p><h2>Theory in Ecology and Evolution for a Changing World</h2></p>
+    </div>
+  </div>
+  <div class="col-1-2">
+    <div class="content">
+      <p><h3>BIO 597 - 0004</h3></p>
+    </div>
+  </div>
+</div>
+
+
+
+Andy is teaching a new course next Fall!  We'll be gaining understanding of theories and models in ecology and evolution: how they work, what they predict, how to build them, and how to apply them to data from our changing world
+
+
+<div class="grid">
+  <div class="col-1-2">
+    <div class="content">
+      <p><img src = "/img/ecoevo_theory_course_ad/neutral_game.jpg" style="width:500px"></p>
+      <p>("analog" simulation of the Neutral Theory of Biodiversity)</p>
+    </div>
+  </div>
+  <div class="col-1-2">
+    <div class="content">
+      <p><h2>Format</h2></p>
+      <ul>
+        <li>Watch short pre-recorded lectures before class</li>
+        <li>In class time for hands-on challenges</li>
+        <li>Work on a project with your own data, open data, or computer
+  simulations</li>
+      </ul>
+      <p><h2>Requirements</h2></p>
+      <ul>
+        <li>A laptop</li>
+        <li>Familiarity with R helpful but not necessary</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+<div class="grid">
+  <div class="col-1-2">
+    <div class="content">
+      <p><h2>Modules</h2></p>
+      <ul>
+        <li>Use the <a href="https://role-model.github.io/about">Rules of Life Engine model</a> GUI to develop intuitive
+  understanding of theories</li>
+        <li>Use intuition to build coding and model development skills</li>
+        <li>Explore real-world case studies</li>
+      </ul>
+    </div>
+  </div>
+  <div class="col-1-2">
+    <div class="content">
+      <p><img src = "/img/ecoevo_theory_course_ad/neutral.gif" style="width:500px"></p>
+      <p>(simulating the Neutral Theory of Biodiversity
+<i>in silico</i>)</p>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- setting up modified 2 column display -->
 <style>
-    body .main-container {
-        max-width: 700px;
-    }
+ .grid {
+  display: flex;
+ }
+.col-small-2 {
+  flex: 0.1;
+}
+.col-small-2:last-child {
+  flex: 1;
+  margin-left: 20px;
+}
 </style>
 
-<!-- :::: {style="display: grid; grid-template-columns: 1fr 0.75fr; grid-column-gap: 5px;"} -->
-
-<font size = "6pt">**Theory in Ecology and Evolution for a Changing
-World**</font>
-
-<span style="float:right"><font size = "6pt">BIO 597–0004</font></span>
-
-Understanding theories and models in ecology and evolution: how they
-work, what they predict, how to build them, and how to apply them to
-data from our changing world
-
-<!-- :::: {style="display: grid; grid-template-columns: 0.5fr 0.5fr; grid-column-gap: 20px;"} -->
-
-<br> 
-![](/img/ecoevo_theory_course_ad/neutral_game.jpg){:width="100%"}
-<br> 
-<span style="font-size:10pt">("analog" simulation of the Neutral Theory of Biodiversity)</span>
-
-## Format
-
--   Watch short pre-recorded lectures before class
--   In class time for hands-on challenges
--   Work on a project with your own data, open data, or computer
-    simulations
-
-## Requirements
-
--   A laptop
--   Familiarity with `R` helpful but not necessary
-
-<!-- :::: {style="display: grid; grid-template-columns: 0.5fr 0.5fr; grid-column-gap: 20px;"} -->
-
-## Modules
-
--   Use the [Rules of Life Engine
-    model](https://role-model.github.io/about) GUI to develop intuitive
-    understanding of theories
--   Use intuition to build coding and model development skills
--   Explore real-world case studies
-
-![](/img/ecoevo_theory_course_ad/neutral.gif) 
-<br>
-<span style="color:transparent">.</span> 
-<span style="font-size:10pt">(simulating the Neutral Theory of Biodiversity
-*in silico*)</span>
-
-<!-- :::: {style="display: grid; grid-template-columns: 0.125fr 1fr; grid-column-gap: 15px;"} -->
-
-**Instructor:** <br> **When:**
-
-<span style="color:transparent">M</span> Andy Rominger
-(<andrew.rominger@maine.edu>) <br> <span
-style="color:transparent">M</span> Mon/Wed/Fri 9–9:50 Fall 2022
-
-
+<div class="grid">
+  <div class="col-small-2">
+    <div class="content">
+      <p><h3>Instructor:</h3></p>
+      <p><h3>When:</h3></p>
+    </div>
+  </div>
+  <div class="col-small-2">
+    <div class="content">
+      <p>Andy Rominger</p>
+      <p>Mon/Wed/Fri 9–9:50 Fall 2022</p>
+    </div>
+  </div>
+</div>
