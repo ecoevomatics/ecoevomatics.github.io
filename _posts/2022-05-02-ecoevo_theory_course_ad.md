@@ -100,21 +100,8 @@ Andy is teaching a new course next Fall!  We'll be gaining understanding of theo
 
 
 
-<!-- setting up modified 2 column display -->
-<style>
- .grid {
-  display: flex;
- }
-.col-small-2 {
-  flex: 0.1;
-}
-.col-small-2:last-child {
-  flex: 1;
-  margin-left: 20px;
-}
-</style>
+| <b>Instructor:</b> | Andy Rominger (<a href="mailto:andrew.rominger@maine.edu">andrew.rominger@maine.edu</a>)
+| <b>When:</b>       | Mon/Wed/Fri 9–9:50 Fall 2022
 
-
-<b>Instructor:</b> | Andy Rominger (<a href="mailto:andrew.rominger@maine.edu">andrew.rominger@maine.edu</a>)
-<b>When:</b>       | Mon/Wed/Fri 9–9:50 Fall 2022
+BLAAA
 
