@@ -26,7 +26,7 @@ author: Andy Rominger
   flex: 2;
 }
 .col-big-2:last-child {
-  flex: 0.1;
+  flex: 0.25;
   margin-left: 20px;
 }
 </style>
@@ -102,6 +102,4 @@ Andy is teaching a new course next Fall!  We'll be gaining understanding of theo
 
 | <b>Instructor:</b> | Andy Rominger (<a href="mailto:andrew.rominger@maine.edu">andrew.rominger@maine.edu</a>)
 | <b>When:</b>       | Mon/Wed/Fri 9–9:50 Fall 2022
-
-BLAAA
 
