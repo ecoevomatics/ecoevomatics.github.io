@@ -15,9 +15,20 @@ As scientists who study genetics, let us be clear that we reject all attempts to
 
 The whiteness, maleness, cis-heteronormativity of academia derives from the same processes that devalue and dehumanize humans. So we work actively to correct the lack of inclusion and equity in academia by recruiting and hiring diverse students and colleagues. We value diversity. We work to ensure the communities we create together are safe for all of us.
 
-# Open, reproducible research
 
-The observation that some of the most famous geneticists were also eugenicists does not validate eugenics, rather it demonstrates that scientists are fallible and do not operate in an objective vacuum, but are entirely enmeshed in biased constructs of human societies. This does not mean science cannot produce valuable insight. It means that for science to be valuable, the assumptions of scientists must be transparent and their work available to be scrutinized and reproduced. We commit to transparency and reproducibility by making our code, data, and results open access. We acknowledge that in some circumstances, particularly to support the career advancement of our students, we may need to delay open access to materials. We also acknowledge that scientists are held hostage by the for-profit publishing industry and that career advancement can necessitate working with these publishing institutions that hide science behind paywalls. To circumvent this, we will publish as much as possible in open access journal, and always post manuscripts to pre-print servers.
+
+# Research Ethics
+
+We commit to transparency and reproducibility by making our code, data, and results open access. 
+
+We acknowledge that in some circumstances, particularly to support the career advancement of our students, we may need to delay open access to materials.
+^ add local context stuff
+^ add ostp
+^ add this: https://medium.com/@denalbz/reimagining-open-science-through-a-feminist-lens-546f3d10fa65
+
+The observation that some of the most famous geneticists were also eugenicists does not validate eugenics, rather it demonstrates that scientists are fallible and do not operate in an objective vacuum, but are entirely enmeshed in biased constructs of human societies. This does not mean science cannot produce valuable insight. It means that for science to be valuable, the assumptions of scientists must be transparent and their work available to be scrutinized and reproduced. 
+
+ We also acknowledge that scientists are held hostage by the for-profit publishing industry and that career advancement can necessitate working with these publishing institutions that hide science behind paywalls. To circumvent this, we will publish as much as possible in open access journal, and always post manuscripts to pre-print servers.
 
 # Mentoring
 
