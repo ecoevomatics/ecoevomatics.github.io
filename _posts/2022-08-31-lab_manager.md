@@ -48,7 +48,7 @@ environmental science, or other related field)
 - Grant writing experience
 - Science communication experience, including outreach to non-scientific audiences
 
-To apply please submit materials through the official job posting. Required materials are:
+To apply please submit materials through the [official job posting](https://umaine.hiretouch.com/job-details?jobID=77921&job=laboratory-manager). Required materials are:
 
 1. a cover letter which describes your experience, interests, and suitability for the position
 2. a resume/curriculum vitae
