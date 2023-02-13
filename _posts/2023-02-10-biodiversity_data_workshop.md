@@ -16,7 +16,7 @@ This workshop is made possible by funding provided by the National Science Found
 - RCN: Cross-Scale Processes Impacting Biodiversity (Award #1745562)
 
 
-**Part I. Multidimensional biodiversity data: management and analysis.**
+## Part I: Multidimensional biodiversity data: management and analysis
 
 *Date:* June 17-18, 2023
 
@@ -30,7 +30,7 @@ Biodiversity researchers must work with an array of data types, including  commu
 
 
 
-**Part II: Multidimensional biodiversity data: Process-based modeling and statistical inference**
+## Part II: Multidimensional biodiversity data: Process-based modeling and statistical inference
 
 *Date:* June 20-21, 2023
 
