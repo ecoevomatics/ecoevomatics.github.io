@@ -1,5 +1,5 @@
 ---
-title: "Workshop: Multidimensional biodiversity data: management, analysis, process-based modeling and statistical inference"
+title: "Multidimensional biodiversity data workshop: management, visualization, analysis, and process-based modeling"
 author: "A. J. Rominger"
 date: "10 February 2023"
 tags: news
