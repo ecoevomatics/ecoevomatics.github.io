@@ -9,7 +9,9 @@ We're pleased to announce a two-part workshop aimed at rapidly bringing particip
 
 This workshop is organized in conjunction with Data Carpentry and the Evolution 2023 conference in Albuquerque, NM, USA. Significant funding is available to support travel and lodging for the duration of the workshop. Participants may also apply for funding to extend their stay and join the Evolution 2023 conference (Evolution registration fee waivers may also be requested). 
 
-To attend our workshop and apply for funding support, please complete the <a href="https://forms.gle/8MwNZLTUk8Y1Git79" target="_blank">application form</a> (use for both Parts I and/or II). Spots are limited, and acceptance into the program will be competitive and based on your application. We encourage applicants from all backgrounds and especially welcome individuals from minoritized populations. To contribute to the goal of broadening participation in the study of biodiversity, we will use diversity, equity, inclusion, and justice principles in addition to other criteria in selecting applicants.  Computational expertise and financial need will *not* be selection criteria.
+To attend our workshop and apply for funding support, please complete the <a href="https://forms.gle/8MwNZLTUk8Y1Git79" target="_blank">application form</a> (use for both Parts I and/or II). **Application deadline is March 24, 2023.  Decisions will be made by March 31.**
+
+Spots are limited, and acceptance into the program will be competitive and based on your application. We encourage applicants from all backgrounds and especially welcome individuals from minoritized populations. To contribute to the goal of broadening participation in the study of biodiversity, we will use diversity, equity, inclusion, and justice principles in addition to other criteria in selecting applicants.  Computational expertise and financial need will *not* be selection criteria.
 
 This workshop is made possible by funding provided by the National Science Foundation in the following grants:
 - A Rules Of Life Engine (RoLE) Model to Uncover Fundamental Processes Governing Biodiversity (Award #1927319)
