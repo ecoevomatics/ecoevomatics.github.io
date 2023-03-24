@@ -119,10 +119,23 @@
   she has practiced field, lab, and in silico methods to study ecosystem and 
   molecular ecology, nutrient cycling, and climate change.'
 
+- name: Mike Hickerson
+  image: /img/members/mike.png
+  position: Visiting Sabbatical Professor
+  pronouns: he/him
+  description: "
+  Dr. Hickerson focuses on developing and applying computational and statistical 
+  methods that merge population genetics with community ecology to answer 
+  questions about the interplay between climate change, shifting species 
+  distributions, species formation, extinction and changes in ecological 
+  interactions. Dr. Hickerson works across a range of empirical systems and 
+  develops multi-species population genetic models for community-scale 
+  inference."
+  
 - name: Renata Diaz
   image: /img/members/rmd.jpeg
   position: Postdoc
-  pronouns: she/her/hers
+  pronouns: she/her
   email: renata.diaz@weecology.org
   description: "
   Renata studies the biological and mathematical processes that generate 
