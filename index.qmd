@@ -1,0 +1,9 @@
+---
+title: "EcoEvoMatics Lab" 
+---
+
+
+
+<p style="text-align: center">We are a research group at the University of Hawaiʻi at Mānoa.</p>
+
+<p style="text-align: center">We are taking time to consider how best to present ourselves.</p>
